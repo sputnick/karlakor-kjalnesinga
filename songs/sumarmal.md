@@ -2,6 +2,7 @@
 id: 231
 title: "Sumarmál"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Davíð Stefánsson"
 composer: "Björgvin Þ. Valdimarsson"

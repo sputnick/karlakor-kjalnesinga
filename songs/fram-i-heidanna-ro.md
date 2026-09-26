@@ -2,6 +2,7 @@
 id: 94
 title: "Fram í heiðanna ró"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Friðrik Aðalsteinn Friðriksson"
 composer: "Henry Snow"
@@ -21,7 +22,7 @@ fann ég bólstað og bjó,
 aldrei heyrist þar hnjóð,  
 þar er himinninn víður og tær.  
 
-Heiðar ból ég bý,  
+Heiðarból ég bý,  
 þar sem birkið og fjalldrapinn grær.  
 Þar er vistin mér góð,  
 aldrei heyrist þar hnjóð,  

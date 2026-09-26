@@ -2,6 +2,7 @@
 id: 219
 title: "Smávinir fagrir"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jónas Hallgrímsson (úr Hulduljóðum)"
 composer: "Jón Nordal"

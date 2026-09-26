@@ -2,6 +2,7 @@
 id: 178
 title: "Líður að dögun (Morning Has Broken)"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Sigríður Guðmarsdóttir"
 composer: "Gelískt þjóðlag (Bunessan)"

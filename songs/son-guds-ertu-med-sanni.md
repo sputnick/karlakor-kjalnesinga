@@ -2,6 +2,7 @@
 id: 223
 title: "Son Guðs ertu með sanni"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Hallgrímur Pétursson"
 composer: "Þýskt lag (þjóðlag)"

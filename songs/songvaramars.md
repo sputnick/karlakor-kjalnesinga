@@ -2,6 +2,7 @@
 id: 225
 title: "Söngvaramars"
 group: "extra"
+key: ""
 language: "is"
 lyricist: ""
 composer: "A.W. Andersen"

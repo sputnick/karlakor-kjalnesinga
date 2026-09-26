@@ -2,6 +2,7 @@
 id: 133
 title: "Í nótt er foldin skyggð"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Svavar Knútur Kristinsson"
 composer: "Svavar Knútur Kristinsson"

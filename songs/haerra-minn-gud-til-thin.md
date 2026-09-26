@@ -2,6 +2,7 @@
 id: 109
 title: "Hærra minn Guð til þín"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Matthías Jochumsson"
 composer: "Lowell Mason"
@@ -25,8 +26,8 @@ Hljómi svo harpan mín:
 (Viðlag)  
 
 Árla ég aftur rís ungur af beð.  
-Guðs hús af grýttri braut glaður ég hleð.  
-Hver og ein hörmung hefur mig, Guð til þín,  
+Guðs hús af grýttri braut glaður ég hleð,  
+hefur mig, Guð, til þín,  
 (Viðlag)  
 
 Lyfti mér langt í hæð lukkunnar hjól,  

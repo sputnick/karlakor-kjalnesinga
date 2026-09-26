@@ -2,6 +2,7 @@
 id: 76
 title: "Ef ég mætti yrkja"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Bjarni Ásgeirsson"
 composer: "Friðrik Bjarnason"

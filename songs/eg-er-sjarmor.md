@@ -2,6 +2,7 @@
 id: 77
 title: "Ég er sjarmör"
 group: "extra"
+key: ""
 language: "is"
 lyricist: ""
 composer: ""

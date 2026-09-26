@@ -2,6 +2,7 @@
 id: 245
 title: "Þrek og tár"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Guðmundur Guðmundsson"
 composer: "Otto Lindblad"

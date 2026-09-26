@@ -1,7 +1,8 @@
 ---
 id: 15
 title: "Violetta"
-group: "extra"
+group: "concert"
+key: "Eb"
 language: ""
 lyricist: ""
 composer: ""

@@ -2,6 +2,7 @@
 id: 147
 title: "Káta Víkurmær"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jón frá Ljárskógum"
 composer: "Erlent lag"

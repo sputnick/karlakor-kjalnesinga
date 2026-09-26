@@ -2,6 +2,7 @@
 id: 218
 title: "Slá í gegn"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Valgeir Guðjónsson"
 composer: "Valgeir Guðjónsson"

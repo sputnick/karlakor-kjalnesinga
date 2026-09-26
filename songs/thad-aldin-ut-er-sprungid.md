@@ -2,6 +2,7 @@
 id: 237
 title: "Það aldin út er sprungið"
 group: "extra"
+key: ""
 language: "is"
 lyricist: ""
 composer: "Michael Praetorius"

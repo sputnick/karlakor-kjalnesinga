@@ -2,6 +2,7 @@
 id: 235
 title: "Syngdu nýjan þjóðarsöng (úr Vesalingunum)"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Friðrik Erlingsson"
 composer: "Claude-Michel Schönberg"

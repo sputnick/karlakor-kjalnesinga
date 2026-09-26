@@ -2,6 +2,7 @@
 id: 253
 title: "Upp skal á kjöl klífa"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Þórir Jökull Steinfinnsson"
 composer: "Sigurður Sævarsson"

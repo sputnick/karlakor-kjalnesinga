@@ -2,6 +2,7 @@
 id: 176
 title: "Michelle"
 group: "extra"
+key: ""
 language: "en"
 lyricist: ""
 composer: "John Lennon, Paul McCartney"

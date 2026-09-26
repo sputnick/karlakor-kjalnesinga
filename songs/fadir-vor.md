@@ -2,6 +2,7 @@
 id: 86
 title: "Faðir vor"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Faðirvorið (biblíutexti)"
 composer: "Albert Hay Malotte"

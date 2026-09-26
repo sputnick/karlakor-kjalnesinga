@@ -2,6 +2,7 @@
 id: 163
 title: "Lífið er lotterí"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jónas Árnason"
 composer: "Írskt þjóðlag (Whiskey in the Jar), raddsett af Páll Helgason"

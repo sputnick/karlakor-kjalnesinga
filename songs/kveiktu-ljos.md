@@ -2,6 +2,7 @@
 id: 153
 title: "Kveiktu ljós"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Hafliði Guðmundsson"
 composer: "Tom Springfield"

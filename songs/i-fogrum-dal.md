@@ -2,6 +2,7 @@
 id: 131
 title: "Í fögrum dal"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jón Thoroddsen"
 composer: "Emil Thoroddsen"

@@ -2,6 +2,7 @@
 id: 157
 title: "Land míns föður"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jóhannes úr Kötlum"
 composer: "Þórarinn Guðmundsson"

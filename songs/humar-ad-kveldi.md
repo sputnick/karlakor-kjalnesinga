@@ -2,6 +2,7 @@
 id: 32
 title: "Húmar að kveldi"
 group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

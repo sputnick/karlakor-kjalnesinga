@@ -2,6 +2,7 @@
 id: 81
 title: "Ég minnist þín - Oh, Danny Boy"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Ásmundur Jónsson frá Skúfsstöðum"
 composer: "Írskt þjóðlag"

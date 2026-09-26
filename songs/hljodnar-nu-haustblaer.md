@@ -2,6 +2,7 @@
 id: 118
 title: "Hljóðnar nú haustblær"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Sigríður I. Þorgeirsdóttir"
 composer: "Þjóðlag frá Úkraínu"
@@ -24,7 +25,7 @@ kveður létt kossi klettótta strönd,
 ljósu frá landi leysir sitt band,  
 byltist þung bára – bláan við sand.  
 
-Breiðir svo húmið hljóðlátan væng.  
+Breiðir svo húmið hljóðlátan væng,  
 milt eins og móðir mjúkri hjá sæng.  
 Fjúka um foldu fölnandi blóm,  
 hlýða á haustsins – helkaldan dóm.  

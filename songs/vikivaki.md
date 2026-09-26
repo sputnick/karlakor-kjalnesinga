@@ -1,7 +1,8 @@
 ---
 id: 4
 title: "Vikivaki"
-group: "concert"
+group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

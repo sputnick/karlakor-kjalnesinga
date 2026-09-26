@@ -1,7 +1,8 @@
 ---
 id: 18
 title: "Þú komst í hlaðið"
-group: "extra"
+group: "concert"
+key: "E dúr (H)"
 language: ""
 lyricist: ""
 composer: ""

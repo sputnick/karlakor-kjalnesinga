@@ -2,6 +2,7 @@
 id: 141
 title: "Jökullinn"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Guðbjartur Össurarson"
 composer: "Jóhann Morávek"

@@ -2,6 +2,7 @@
 id: 263
 title: "Vor"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Friðrik Hansen"
 composer: "Þórður Sigurðarson"

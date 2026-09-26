@@ -2,6 +2,7 @@
 id: 261
 title: "Vísur Vatnsenda-Rósu"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Rósa Guðmundsdóttir (Vatnsenda-Rósa)"
 composer: "Jón Ásgeirsson"

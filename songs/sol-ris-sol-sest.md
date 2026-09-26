@@ -2,6 +2,7 @@
 id: 221
 title: "Sól rís, sól sest"
 group: "extra"
+key: ""
 language: "is"
 lyricist: ""
 composer: ""

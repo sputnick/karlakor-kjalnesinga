@@ -2,6 +2,7 @@
 id: 206
 title: "Röndótta mær"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jakob Magnússon (Jakob Frímann Magnússon)"
 composer: "Jakob Magnússon (Jakob Frímann Magnússon)"

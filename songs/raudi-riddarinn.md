@@ -2,6 +2,7 @@
 id: 8
 title: "Rauði Riddarinn"
 group: "concert"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

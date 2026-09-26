@@ -2,6 +2,7 @@
 id: 155
 title: "Lady Fish and Chips"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jónas Árnason"
 composer: "Frank Loesser"

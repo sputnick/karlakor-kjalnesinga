@@ -2,6 +2,7 @@
 id: 30
 title: "Kvöldblíðan lognværa"
 group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

@@ -2,6 +2,7 @@
 id: 112
 title: "Harpan mín"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Baldvin Bergvinsson"
 composer: "Páll Helgason"

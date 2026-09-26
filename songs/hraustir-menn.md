@@ -2,6 +2,7 @@
 id: 39
 title: "Hraustir menn"
 group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

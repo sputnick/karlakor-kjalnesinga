@@ -2,6 +2,7 @@
 id: 179
 title: "Móts við sólglit sólarfalls"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Sigurjón Friðjónsson"
 composer: "Birgir Helgason"

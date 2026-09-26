@@ -1,7 +1,8 @@
 ---
 id: 20
 title: "Sælir verða söngbræður"
-group: "extra"
+group: "concert"
+key: "A dúr"
 language: ""
 lyricist: ""
 composer: ""

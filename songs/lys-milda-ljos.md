@@ -2,6 +2,7 @@
 id: 171
 title: "Lýs, milda ljós"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "John Henry Newman"
 composer: "Charles H. Purday"

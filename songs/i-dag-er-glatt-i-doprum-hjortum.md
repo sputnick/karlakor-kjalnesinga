@@ -2,12 +2,13 @@
 id: 129
 title: "Í dag er glatt í döprum hjörtum"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Valdimar Briem"
 composer: "Erlent lag, kennt við W. A. Mozart"
 translator: ""
 text_status: "online-verified"
-needs_proofreading: true
+needs_proofreading: false
 sources: ["sheetmusic/Í dag er glatt í döprum hjörtum.pdf"]
 references: ["https://www.visir.is/g/2011443978d/salmur-78-i-dag-er-glatt-i-doprum-hjortum", "https://glatkistan.com/2017/02/28/i-dag-er-glatt/", "https://kirkjan.is/salmabok/$Hymn/Detail/?Id=46"]
 ---
@@ -42,19 +43,19 @@ hann þína tötra tók á sig,
 að tign Guðs dýrðar skrýði þig.  
 
 Á himni næturljósin ljóma  
-og unaðsraddir engla hljóma  
 svo ljúft og stillt og rótt,  
-þar uppi um helga nótt.  
-Ó, hvað mun dýrðin himins bjóða,  
+og unaðsraddir engla hljóma  
+þar uppi' um helga nótt.  
+Ó, hvað mun dýrðin himins þýða,  
 og hvað mun syngja englaraustin blíða?  
-Um dýrð Guðs föður, frið á jörðu,  
-og föðurást á barnahjörðu.  
+Um dýrð Guðs föður, frið á jörð  
+og föðurást á barnahjörð.  
 
 Ó, dýrð sé þér í hæstum hæðum,  
-er hingað komst á jörðu.  
+er hingað komst á jörð.  
 Á meðan lifir líf í æðum,  
 þig lofar öll þín hjörð.  
 Á meðan tungan má sig hræra,  
 á meðan hjartað nokkuð kann sig bæra,  
-hvert andartak, hvert æðarslag,  
-Guðs englar syngi dýrðarlag.  
+hvert andartak, hvert æðarslag  
+Guðs engla syngi dýrðarlag.  

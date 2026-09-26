@@ -2,6 +2,7 @@
 id: 62
 title: "Blessuð sértu sveitin mín"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Sigurður Jónsson (frá Arnarvatni)"
 composer: "Bjarni Þorsteinsson"

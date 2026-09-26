@@ -2,6 +2,7 @@
 id: 228
 title: "Stíg á bak"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Frímann Einarsson"
 composer: "Björgvin Þ. Valdimarsson"

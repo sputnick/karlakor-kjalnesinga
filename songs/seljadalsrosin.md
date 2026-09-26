@@ -2,6 +2,7 @@
 id: 211
 title: "Seljadalsrósin"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Séra Friðrik A. Friðriksson"
 composer: "Charles W. Glover"

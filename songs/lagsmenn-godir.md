@@ -2,6 +2,7 @@
 id: 156
 title: "Lagsmenn góðir"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jakob Jóh. Smári"
 composer: "Hugo Alfvén"

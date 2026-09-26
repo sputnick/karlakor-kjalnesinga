@@ -2,6 +2,7 @@
 id: 243
 title: "Þér við hlið"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Magnús Þór Sigmundsson"
 composer: "Trausti Bjarnason"

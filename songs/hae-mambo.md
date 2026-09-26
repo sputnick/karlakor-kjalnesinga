@@ -2,6 +2,7 @@
 id: 108
 title: "Hæ Mambó"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Loftur Guðmundsson"
 composer: "Bob Merrill"

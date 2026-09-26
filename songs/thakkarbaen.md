@@ -1,7 +1,8 @@
 ---
 id: 10
 title: "Þakkarbæn"
-group: "concert"
+group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

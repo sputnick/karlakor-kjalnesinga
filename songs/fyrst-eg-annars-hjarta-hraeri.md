@@ -1,15 +1,16 @@
 ---
 id: 100
 title: "Fyrst ég annars hjarta hræri"
-group: "extra"
+group: "concert"
+key: "B dúr (f)"
 language: "is"
-lyricist: "Óþekktur (íslenskur texti)"
+lyricist: "Árni Björnsson (skv. Glatkistan; Afigamli.is eignar textann Sigurði Þórarinssyni)"
 composer: "Carl Michael Bellman"
 translator: ""
-text_status: "score-transcribed"
-needs_proofreading: true
+text_status: "online-verified"
+needs_proofreading: false
 sources: ["sheetmusic/Fyrst ég annars hjarta hræri.pdf"]
-references: []
+references: ["https://glatkistan.com/2021/11/03/fyrst-eg-annars-hjarta-hraeri/", "https://afigamli.is/default.asp?ID=260", "https://genius.com/Bubbi-morthens-fyrst-eg-annars-hjarta-hrri-lyrics"]
 ---
 
 # Fyrst ég annars hjarta hræri
@@ -17,7 +18,7 @@ references: []
 Fyrst ég annars hjarta hræri,  
 helst ég þá mér lifa kýs,  
 sem ég annar Adam væri  
-austur í paradís.  
+austur í Paradís.  
 
 Þar mun steiktar gæsir gott að fá,  
 Guðveig drekka, sofa væran, baða rósum á,  

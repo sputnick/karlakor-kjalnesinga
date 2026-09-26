@@ -2,6 +2,7 @@
 id: 44
 title: "Á jólunum er gleði og gaman"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Friðrik Guðni Þórleifsson"
 composer: "Franskt þjóðlag (höfundur ókunnur)"

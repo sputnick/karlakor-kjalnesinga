@@ -2,6 +2,7 @@
 id: 38
 title: "Syngjum söngva"
 group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

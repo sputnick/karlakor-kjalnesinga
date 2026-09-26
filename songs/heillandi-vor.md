@@ -2,6 +2,7 @@
 id: 113
 title: "Heillandi vor"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Þorsteinn Sveinsson"
 composer: "Óðinn G. Þórarinsson"

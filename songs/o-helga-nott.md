@@ -2,6 +2,7 @@
 id: 190
 title: "Ó helga nótt"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Placide Cappeau"
 composer: "Adolphe Adam"

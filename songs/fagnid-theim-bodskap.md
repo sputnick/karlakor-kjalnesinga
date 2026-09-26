@@ -2,12 +2,13 @@
 id: 89
 title: "Fagnið þeim boðskap"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Enskt þjóðlag (hefðbundinn enskur texti, 'God Rest Ye Merry, Gentlemen')"
 composer: "Enskt þjóðlag (hefðbundið enskt jólalag)"
 translator: "Sigurður Pálsson"
 text_status: "online-verified"
-needs_proofreading: true
+needs_proofreading: false
 sources: ["sheetmusic/Fagnið þeim boðskap-edit.pdf", "sheetmusic/Fagnið þeim boðskap.pdf"]
 references: ["https://www.olisig.is/korinn/fagnid_theim_bodskap/fagnid_theim_bodskap-txt.htm"]
 ---

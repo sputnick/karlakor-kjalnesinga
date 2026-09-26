@@ -2,6 +2,7 @@
 id: 58
 title: "Bésame mucho"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Consuelo Velázquez (íslenskur texti ekki nafngreindur á nótum)"
 composer: "Consuelo Velázquez"

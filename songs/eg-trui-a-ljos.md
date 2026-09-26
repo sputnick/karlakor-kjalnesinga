@@ -2,6 +2,7 @@
 id: 83
 title: "Ég trúi á ljós"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Pétur Þórarinsson"
 composer: "Amerískt þjóðlag (negrasálmur)"

@@ -2,6 +2,7 @@
 id: 22
 title: "Sumar er í sveitum"
 group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

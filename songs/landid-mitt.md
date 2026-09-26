@@ -2,6 +2,7 @@
 id: 158
 title: "Landið mitt"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jóhann G. Jóhannsson"
 composer: "Jóhann G. Jóhannsson"

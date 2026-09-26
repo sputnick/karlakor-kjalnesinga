@@ -2,6 +2,7 @@
 id: 31
 title: "Kveðja heimanað"
 group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

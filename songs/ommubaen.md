@@ -2,6 +2,7 @@
 id: 197
 title: "Ömmubæn"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jenni Jónsson"
 composer: "Jenni Jónsson"

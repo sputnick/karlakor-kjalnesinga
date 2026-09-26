@@ -2,6 +2,7 @@
 id: 65
 title: "Caruso"
 group: "extra"
+key: ""
 language: "it"
 lyricist: "Lucio Dalla"
 composer: "Lucio Dalla"

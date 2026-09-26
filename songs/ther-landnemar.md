@@ -2,6 +2,7 @@
 id: 242
 title: "Þér landnemar"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Davíð Stefánsson"
 composer: "Sigurður Þórðarson"

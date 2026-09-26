@@ -2,6 +2,7 @@
 id: 259
 title: "Við heimtum aukavinnu"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jónas Árnason"
 composer: "Jón Múli Árnason"

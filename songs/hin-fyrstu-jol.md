@@ -2,6 +2,7 @@
 id: 117
 title: "Hin fyrstu jól"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Kristján frá Djúpalæk"
 composer: "Ingibjörg Þorbergs"
@@ -21,7 +22,7 @@ frá brunni himneskra dagga,
 öll jörðin er sveipuð jólasnjó  
 og jatan er ungbarnsvagga.  
 
-Og stjarna skín gegn um skýjahjúp  
+Og stjarna skín gegnum skýjahjúp  
 með skærum lýsandi bjarma,  
 og inn í fjárhúsið birtan berst  
 og barnið réttir út arma,  

@@ -2,6 +2,7 @@
 id: 132
 title: "Í kránni"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Guðmundur Jónsson (íslenskur texti)"
 composer: "Carl Ludwig Fischer"

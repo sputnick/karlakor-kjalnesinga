@@ -2,7 +2,7 @@
 """Export every song in index.html to songs/<slug>.md and write the SONGS.md index.
 
 index.html stays the source of truth for titles, lyrics, group and order. Metadata
-(sources, references, credits, text status) comes from, in order of preference:
+(sources, references, credits, key, text status) comes from, in order of preference:
   1. correction files in $KK_CORRECTIONS (one <id>.json per song, from a lyrics sync)
   2. the extraction catalog at $KK_CATALOG, only when set (maps score files to songs;
      each entry needs an "existing_id")
@@ -31,7 +31,7 @@ FIRST_SHEET_ID = 42  # ids below this were entered by hand before the sheet-musi
 
 ITEM_RE = re.compile(r'<div class="item" data-g="([^"]+)" data-i="(\d+)" data-n="[^"]*"><span>[^<]+</span>(.*?)</div>')
 SECTION_RE = re.compile(r'<section class="song" id="s(\d+)"><h1>(.*?)</h1><div class="lyrics">(.*?)</div></section>', re.S)
-FIELDS = ["id", "title", "group", "language", "lyricist", "composer", "translator",
+FIELDS = ["id", "title", "group", "key", "language", "lyricist", "composer", "translator",
           "text_status", "needs_proofreading", "sources", "references"]
 STATUS_TEXT = {
     "curated": "hand-entered",
@@ -111,7 +111,7 @@ def main() -> None:
         meta.setdefault("needs_proofreading", meta["text_status"] not in ("curated", "online-verified"))
         meta.setdefault("sources", [])
         meta.setdefault("references", [])
-        for key in ("language", "lyricist", "composer", "translator"):
+        for key in ("key", "language", "lyricist", "composer", "translator"):
             meta.setdefault(key, "")
         meta.update({"id": sid, "title": title, "group": group})
 
@@ -157,14 +157,14 @@ def main() -> None:
         f"**{len(rows)} songs.** " + ", ".join(
             f"{STATUS_TEXT.get(k, k)}: {v}" for k, v in sorted(counts.items(), key=lambda kv: -kv[1])) + ".",
         "",
-        "| # | Song | Group | Text | Score file(s) | Online text |",
-        "|---:|---|---|---|---|---|",
+        "| # | Song | Group | Key | Text | Score file(s) | Online text |",
+        "|---:|---|---|---|---|---|---|",
     ]
     for n, (group, title, name, meta) in enumerate(rows, 1):
         status = STATUS_TEXT.get(meta["text_status"], meta["text_status"])
         if meta["needs_proofreading"] and meta["text_status"] not in ("needs-review", "skipped-copyright"):
             status += " · proofread"
-        lines.append(f"| {n} | [{cell(title)}](songs/{name}) | {group} | {status} | {source_cell(meta)} | {ref_cell(meta)} |")
+        lines.append(f"| {n} | [{cell(title)}](songs/{name}) | {group} | {cell(meta['key'])} | {status} | {source_cell(meta)} | {ref_cell(meta)} |")
     LISTING.write_text("\n".join(lines) + "\n")
     print(f"wrote {len(rows)} songs to {SONGS.relative_to(ROOT)}/ and {LISTING.name}")
 

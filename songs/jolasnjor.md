@@ -2,6 +2,7 @@
 id: 143
 title: "Jólasnjór"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jóhanna G. Erlingsson"
 composer: "Jay Livingston og Ray Evans"

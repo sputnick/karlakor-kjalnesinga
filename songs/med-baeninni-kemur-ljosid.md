@@ -2,6 +2,7 @@
 id: 174
 title: "Með bæninni kemur ljósið"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Páll Óskar Hjálmtýsson og Brynhildur Björnsdóttir"
 composer: "Thomas Moore (The Last Rose of Summer)"

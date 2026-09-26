@@ -2,6 +2,7 @@
 id: 28
 title: "Lífið hún sá í ljóma þeim"
 group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

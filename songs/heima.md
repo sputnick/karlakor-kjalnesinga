@@ -2,6 +2,7 @@
 id: 114
 title: "Heima"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Ási í Bæ"
 composer: "Oddgeir Kristjánsson"

@@ -1,7 +1,8 @@
 ---
 id: 151
 title: "Kvæðið um fuglana"
-group: "extra"
+group: "concert"
+key: ""
 language: "is"
 lyricist: "Davíð Stefánsson"
 composer: "Atli Heimir Sveinsson"

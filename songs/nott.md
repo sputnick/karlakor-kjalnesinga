@@ -2,6 +2,7 @@
 id: 185
 title: "Nótt"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Magnús Gíslason"
 composer: "Árni Thorsteinsson"

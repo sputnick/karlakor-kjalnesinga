@@ -1,7 +1,8 @@
 ---
 id: 229
 title: "Suður um höfin"
-group: "extra"
+group: "concert"
+key: "D/G dúr"
 language: "is"
 lyricist: "Skafti Sigþórsson"
 composer: "Michael Carr"

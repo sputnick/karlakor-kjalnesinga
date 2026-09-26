@@ -2,6 +2,7 @@
 id: 136
 title: "Ísland ögrum skorið"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Eggert Ólafsson"
 composer: "Sigvaldi Kaldalóns"

@@ -2,6 +2,7 @@
 id: 43
 title: "Á dimmri nóttu"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Edmund H. Sears"
 composer: "Richard S. Willis"

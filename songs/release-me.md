@@ -2,6 +2,7 @@
 id: 202
 title: "Release Me"
 group: "extra"
+key: ""
 language: "en"
 lyricist: "Eddie Miller / Robert Yount / Dub Williams (W. S. Stevenson)"
 composer: "Eddie Miller / Robert Yount / Dub Williams (W. S. Stevenson)"

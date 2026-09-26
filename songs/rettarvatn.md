@@ -1,7 +1,8 @@
 ---
 id: 23
 title: "Réttarvatn"
-group: "extra"
+group: "concert"
+key: "B dúr (d)"
 language: ""
 lyricist: ""
 composer: ""

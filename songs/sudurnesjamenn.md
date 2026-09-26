@@ -2,6 +2,7 @@
 id: 230
 title: "Suðurnesjamenn"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Ólína Andrésdóttir"
 composer: "Sigvaldi S. Kaldalóns"

@@ -2,6 +2,7 @@
 id: 120
 title: "Hrím"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Einar Benediktsson"
 composer: "Friðrik Bjarnason"

@@ -2,6 +2,7 @@
 id: 227
 title: "Steppan"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Óskar Ingimarsson"
 composer: "Rússneskt þjóðlag"

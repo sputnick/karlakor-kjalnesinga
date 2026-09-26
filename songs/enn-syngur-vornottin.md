@@ -2,6 +2,7 @@
 id: 35
 title: "Enn syngur vornóttin"
 group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

@@ -2,6 +2,7 @@
 id: 96
 title: "Fuglinn í fjörunni"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Þjóðvísa (höfundur ókunnur)"
 composer: "Jón Þórarinsson"

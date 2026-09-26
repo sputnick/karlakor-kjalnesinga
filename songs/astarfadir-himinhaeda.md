@@ -2,6 +2,7 @@
 id: 55
 title: "Ástarfaðir himinhæða"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Agnes Franz"
 composer: "Johann F. Reichardt"

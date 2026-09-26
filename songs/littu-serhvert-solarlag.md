@@ -2,6 +2,7 @@
 id: 168
 title: "Líttu sérhvert sólarlag"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Bragi Valdimar Skúlason"
 composer: "Bragi Valdimar Skúlason"

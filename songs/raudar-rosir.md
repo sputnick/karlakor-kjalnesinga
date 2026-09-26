@@ -2,6 +2,7 @@
 id: 201
 title: "Rauðar rósir"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Friðrik A. Friðriksson"
 composer: "Sir Edward Elgar"

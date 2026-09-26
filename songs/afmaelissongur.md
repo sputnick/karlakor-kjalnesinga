@@ -2,6 +2,7 @@
 id: 50
 title: "Afmælissöngur"
 group: "extra"
+key: ""
 language: "is"
 lyricist: ""
 composer: "Patty og Mildred Hill (raddsett: Páll Helgason)"

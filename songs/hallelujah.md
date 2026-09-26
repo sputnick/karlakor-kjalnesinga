@@ -2,6 +2,7 @@
 id: 110
 title: "Hallelujah"
 group: "extra"
+key: ""
 language: "is"
 lyricist: ""
 composer: "Leonard Cohen"

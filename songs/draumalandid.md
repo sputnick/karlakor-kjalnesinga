@@ -2,6 +2,7 @@
 id: 72
 title: "Draumalandið"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Guðmundur Magnússon (Jón Trausti)"
 composer: "Sigfús Einarsson"
@@ -17,7 +18,7 @@ references: ["https://www.lieder.net/lieder/get_text.html?TextId=56249"]
 Ó, leyf mér þig að leiða  
 til landsins fjalla heiða  
 með sælu sumrin löng,  
-þar angar blóma breiða,  
+þar angar blómabreiða,  
 við blíðan fuglasöng.  
 
 Þar aðeins yndi fann ég,  

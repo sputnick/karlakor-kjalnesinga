@@ -2,6 +2,7 @@
 id: 148
 title: "Kemur heilög hátíð"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Ingólfur Jónsson frá Prestsbakka"
 composer: "Franz Schubert"

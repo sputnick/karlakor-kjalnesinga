@@ -2,6 +2,7 @@
 id: 167
 title: "Lítill fugl"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Örn Arnarson"
 composer: "Sigfús Halldórsson"

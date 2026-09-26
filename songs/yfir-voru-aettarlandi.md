@@ -2,6 +2,7 @@
 id: 268
 title: "Yfir voru ættarlandi"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Steingrímur Thorsteinsson"
 composer: "Sigfús Einarsson"

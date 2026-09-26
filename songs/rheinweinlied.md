@@ -2,6 +2,7 @@
 id: 203
 title: "Rheinweinlied"
 group: "extra"
+key: ""
 language: "de"
 lyricist: "Georg Herwegh"
 composer: "Felix Mendelssohn Bartholdy"

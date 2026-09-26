@@ -2,6 +2,7 @@
 id: 21
 title: "Sveinar kátir syngið"
 group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

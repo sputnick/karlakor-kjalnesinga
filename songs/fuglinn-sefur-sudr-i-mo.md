@@ -2,6 +2,7 @@
 id: 97
 title: "Fuglinn sefur suðr' í mó"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Freysteinn Gunnarsson"
 composer: "Ísólfur Pálsson"
@@ -14,7 +15,7 @@ references: ["https://glatkistan.com/2022/11/16/vogguvisa-5/"]
 
 # Fuglinn sefur suðr' í mó
 
-Fuglinn sefur suðrí mó,  
+Fuglinn sefur suðr' í mó,  
 sefur kisa' í værð og ró,  
 sefur, sefur dúfan.  
 Sofðu líka sætt og rótt,  

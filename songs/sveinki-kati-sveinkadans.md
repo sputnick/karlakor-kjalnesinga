@@ -2,6 +2,7 @@
 id: 232
 title: "Sveinki káti (Sveinkadans)"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Gestur"
 composer: "Sigvaldi S. Kaldalóns"

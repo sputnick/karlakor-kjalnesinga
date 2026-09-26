@@ -2,6 +2,7 @@
 id: 255
 title: "Vegir liggja til allra átta"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Indriði G. Þorsteinsson"
 composer: "Sigfús Halldórsson"

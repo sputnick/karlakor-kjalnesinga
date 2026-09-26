@@ -1,7 +1,8 @@
 ---
 id: 210
 title: "Sefur sól hjá Ægi"
-group: "extra"
+group: "concert"
+key: "Db dúr"
 language: "is"
 lyricist: "Sigurður Sigurðsson (frá Arnarholti)"
 composer: "Sigfús Einarsson"

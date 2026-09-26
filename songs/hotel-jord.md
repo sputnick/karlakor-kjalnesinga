@@ -2,6 +2,7 @@
 id: 119
 title: "Hótel jörð"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Tómas Guðmundsson"
 composer: "Heimir Sindrason"

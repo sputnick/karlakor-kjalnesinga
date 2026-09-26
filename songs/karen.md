@@ -2,6 +2,7 @@
 id: 146
 title: "Karen"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Björn Björnsson"
 composer: "Jóhann Helgason"

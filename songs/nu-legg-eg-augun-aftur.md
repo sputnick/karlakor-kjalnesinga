@@ -2,6 +2,7 @@
 id: 186
 title: "Nú legg ég augun aftur"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Peter T. Foersom (v. 1); Matthías Jochumsson (v. 2)"
 composer: "P. C. Krossing"

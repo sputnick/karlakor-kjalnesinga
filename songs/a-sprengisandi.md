@@ -2,6 +2,7 @@
 id: 47
 title: "Á Sprengisandi"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Grímur Thomsen"
 composer: "Sigvaldi S. Kaldalóns"

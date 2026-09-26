@@ -2,6 +2,7 @@
 id: 250
 title: "Undir bláum sólarsali"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Eggert Ólafsson"
 composer: "Íslenskt þjóðlag"

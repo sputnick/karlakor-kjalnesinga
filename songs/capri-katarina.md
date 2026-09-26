@@ -2,6 +2,7 @@
 id: 64
 title: "Capri Katarína"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Davíð Stefánsson"
 composer: "Jón Jónsson frá Hvanná"

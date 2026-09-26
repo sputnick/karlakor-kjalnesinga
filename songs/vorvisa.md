@@ -2,6 +2,7 @@
 id: 264
 title: "Vorvísa"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jón Thoroddsen"
 composer: "Hallbjörg Bjarnadóttir"
@@ -21,6 +22,6 @@ svanur á tjarnir og þröstur í tún.
 Nú tekur hýrna um hólma og sker,  
 hreiðrar sig blikinn og æðurin fer.  
 Hæðirnar brosa og hlíðarnar dala,  
-hóar þar smalinn og rekur á ból;  
+hóar þar smali og rekur á ból;  
 lömbin sér una um blómgaða bala,  
 börnin sér leika að skeljum á hól.  

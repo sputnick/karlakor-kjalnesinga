@@ -2,6 +2,7 @@
 id: 192
 title: "Ó, undur lífs"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Þorsteinn Valdimarsson"
 composer: "Jakob Hallgrímsson"

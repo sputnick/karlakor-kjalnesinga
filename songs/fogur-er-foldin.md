@@ -2,6 +2,7 @@
 id: 92
 title: "Fögur er foldin"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Bernhard Severin Ingemann (danskt frumkvæði, 1850)"
 composer: "Þjóðlag frá Slesíu (Breslau 1842)"

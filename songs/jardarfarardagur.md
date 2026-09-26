@@ -2,6 +2,7 @@
 id: 139
 title: "Jarðarfarardagur"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Sigurður Þórarinsson"
 composer: "Þórir Baldursson"

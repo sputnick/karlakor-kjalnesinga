@@ -2,6 +2,7 @@
 id: 40
 title: "Út í veður og vind"
 group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

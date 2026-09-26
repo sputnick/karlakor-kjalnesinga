@@ -2,6 +2,7 @@
 id: 84
 title: "Eldur í hjarta"
 group: "extra"
+key: ""
 language: "is"
 lyricist: ""
 composer: "Svein Gundersen og Jan Vincents Johannessen"

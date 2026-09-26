@@ -2,6 +2,7 @@
 id: 145
 title: "Kallið er komið"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Valdimar Briem"
 composer: "Þjóðlag frá Slésvík"

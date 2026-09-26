@@ -2,6 +2,7 @@
 id: 257
 title: "Ver hjá mér, Herra"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Henry Francis Lyte"
 composer: "W. H. Monk"

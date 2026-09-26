@@ -2,6 +2,7 @@
 id: 59
 title: "Betlehem"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Gréta Salóme Stefánsdóttir"
 composer: "Gréta Salóme Stefánsdóttir"

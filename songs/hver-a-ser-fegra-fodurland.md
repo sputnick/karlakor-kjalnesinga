@@ -2,6 +2,7 @@
 id: 123
 title: "Hver á sér fegra föðurland"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Hulda"
 composer: "Emil Thoroddsen"
@@ -20,7 +21,7 @@ með norðurljósa bjarmaband
 og björk og lind í hlíð?  
 Með friðsæl býli, ljós og ljóð,  
 svo langt frá heimsins vígaslóð.  
-Geym, drottinn, okkar dýra land  
+Geym, Drottinn, okkar dýra land  
 er duna jarðarstríð.  
 
 Ó, Ísland, fagra ættarbyggð,  

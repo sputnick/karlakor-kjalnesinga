@@ -2,6 +2,7 @@
 id: 54
 title: "Il bianco e dolce cigno"
 group: "extra"
+key: ""
 language: "it"
 lyricist: ""
 composer: "Jacob Arcadelt"

@@ -2,6 +2,7 @@
 id: 103
 title: "Glad såsom fågeln"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "H. Sätherberg"
 composer: "Prins Gustaf"

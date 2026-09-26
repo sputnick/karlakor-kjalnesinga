@@ -2,6 +2,7 @@
 id: 33
 title: "Hlíðin mín fríða"
 group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

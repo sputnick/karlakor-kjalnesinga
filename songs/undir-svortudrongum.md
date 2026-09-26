@@ -2,6 +2,7 @@
 id: 7
 title: "Undir Svörtudröngum"
 group: "concert"
+key: "a moll"
 language: ""
 lyricist: ""
 composer: ""

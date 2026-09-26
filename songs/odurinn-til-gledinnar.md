@@ -2,6 +2,7 @@
 id: 194
 title: "Óðurinn til gleðinnar"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Friedrich Schiller"
 composer: "Ludwig van Beethoven"

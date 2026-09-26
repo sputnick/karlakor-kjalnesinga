@@ -2,6 +2,7 @@
 id: 239
 title: "Þakklæti"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Magnús Kjartansson"
 composer: "Magnús Kjartansson"

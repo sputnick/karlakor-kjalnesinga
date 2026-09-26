@@ -2,6 +2,7 @@
 id: 269
 title: "Yndislega ættarjörð"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Sigurður Jónsson frá Arnarvatni"
 composer: "Bjarni Þorsteinsson"

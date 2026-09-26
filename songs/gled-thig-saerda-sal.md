@@ -2,6 +2,7 @@
 id: 104
 title: "Gleð þig, særða sál"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Stefán frá Hvítadal"
 composer: "Sigvaldi S. Kaldalóns"

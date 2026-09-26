@@ -2,6 +2,7 @@
 id: 137
 title: "Íslenska konan"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Ómar Ragnarsson"
 composer: "Billy Joel (lag)"

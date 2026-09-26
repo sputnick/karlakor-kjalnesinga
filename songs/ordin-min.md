@@ -2,6 +2,7 @@
 id: 198
 title: "Orðin mín"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Bragi Valdimar Skúlason"
 composer: "Bragi Valdimar Skúlason"

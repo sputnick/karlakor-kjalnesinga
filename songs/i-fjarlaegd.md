@@ -2,6 +2,7 @@
 id: 130
 title: "Í fjarlægð"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Valdimar Hólm Hallstað"
 composer: "Karl O. Runólfsson"

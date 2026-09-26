@@ -2,6 +2,7 @@
 id: 122
 title: "Hvað er svo glatt"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jónas Hallgrímsson"
 composer: "Weyse"

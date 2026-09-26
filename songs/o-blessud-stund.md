@@ -2,6 +2,7 @@
 id: 189
 title: "Ó, blessuð stund"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Wilhelm A. Wexels"
 composer: "A. P. Berggreen"

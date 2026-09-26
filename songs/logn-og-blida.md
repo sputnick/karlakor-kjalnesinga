@@ -2,6 +2,7 @@
 id: 29
 title: "Logn og blíða"
 group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

@@ -2,6 +2,7 @@
 id: 216
 title: "Sjá dagar koma"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Davíð Stefánsson"
 composer: "Sigurður Þórðarson"

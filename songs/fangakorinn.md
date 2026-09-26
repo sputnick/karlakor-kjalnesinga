@@ -2,6 +2,7 @@
 id: 90
 title: "Fangakórinn"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Temistocle Solera (frumtexti, ítalska: 'Va, pensiero' úr Nabucco)"
 composer: "Giuseppe Verdi"

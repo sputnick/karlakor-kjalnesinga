@@ -2,6 +2,7 @@
 id: 101
 title: "Garún"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Magnús Eiríksson"
 composer: "Magnús Eiríksson"

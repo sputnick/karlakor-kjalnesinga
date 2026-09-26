@@ -2,6 +2,7 @@
 id: 24
 title: "Nú sefur jörðin"
 group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

@@ -2,6 +2,7 @@
 id: 159
 title: "Landið vort fagra"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Árni Thorsteinsson"
 composer: "Árni Thorsteinsson"

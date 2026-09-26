@@ -2,6 +2,7 @@
 id: 195
 title: "Oft um ljúfar"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Holger Drachmann"
 composer: "Jón Laxdal"

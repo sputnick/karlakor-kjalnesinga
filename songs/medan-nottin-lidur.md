@@ -2,6 +2,7 @@
 id: 175
 title: "Meðan nóttin líður"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Gunnar Guttormsson (endurkveðin, eftir ungverskri þjóðvísu)"
 composer: "Zoltán Kodály"

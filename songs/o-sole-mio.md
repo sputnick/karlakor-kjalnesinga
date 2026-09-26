@@ -2,6 +2,7 @@
 id: 191
 title: "O sole mio"
 group: "extra"
+key: ""
 language: "it"
 lyricist: "Giovanni Capurro"
 composer: "Eduardo di Capua"

@@ -2,6 +2,7 @@
 id: 53
 title: "Allt eins og blómstrið eina"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Hallgrímur Pétursson"
 composer: "Þjóðlag (Antwerpen 1540 – Hans Thomissøns sálmabók 1569)"

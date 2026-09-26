@@ -2,6 +2,7 @@
 id: 127
 title: "Í bljúgri bæn"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Pétur Þórarinsson"
 composer: "Amerískt þjóðlag (Banks of the Ohio)"

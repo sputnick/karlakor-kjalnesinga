@@ -2,6 +2,7 @@
 id: 142
 title: "Jól í Betlehem"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Kristján Hreinsson"
 composer: "Enrico Macias"

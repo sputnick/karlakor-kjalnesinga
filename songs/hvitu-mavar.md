@@ -2,6 +2,7 @@
 id: 126
 title: "Hvítu mávar"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Björn Bragi Magnússon"
 composer: "Walter Lange"
@@ -16,7 +17,7 @@ references: ["http://www.icetones.se/textar/h/hvitu_mavar.htm"]
 
 Handan við hafdjúpin bláu,  
 hugur minn dvelur hjá þér.  
-Ég bið að þú komir og kyssir,  
+Ég bið að þú komir og kyssir  
 kvíðann úr hjarta mér.  
 
 Hvítu mávar, segið þið honum  

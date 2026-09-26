@@ -2,6 +2,7 @@
 id: 95
 title: "Frelsi ég finn"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Ragnheiður Ásta Pétursdóttir"
 composer: "Cole Porter"

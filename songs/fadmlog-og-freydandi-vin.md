@@ -2,6 +2,7 @@
 id: 87
 title: "Faðmlög og freyðandi vín"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Bjarki Árnason"
 composer: "Gerhard Winkler"

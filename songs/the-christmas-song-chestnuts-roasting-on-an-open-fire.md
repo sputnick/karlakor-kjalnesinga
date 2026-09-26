@@ -2,6 +2,7 @@
 id: 240
 title: "The Christmas Song (Chestnuts Roasting on an Open Fire)"
 group: "extra"
+key: ""
 language: "en"
 lyricist: "Mel Tormé & Robert Wells"
 composer: "Mel Tormé & Robert Wells"

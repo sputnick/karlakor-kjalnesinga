@@ -2,6 +2,7 @@
 id: 164
 title: "Ég leit eina lilju í holti"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Óþekktur höfundur (frumtexti)"
 composer: "Ókunnur höfundur"

@@ -2,6 +2,7 @@
 id: 165
 title: "Lindin"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Hulda (Unnur Benediktsdóttir Bjarklind)"
 composer: "Eyþór Stefánsson"

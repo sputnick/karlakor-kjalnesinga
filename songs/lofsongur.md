@@ -2,6 +2,7 @@
 id: 170
 title: "Lofsöngur"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Matthías Jochumsson"
 composer: "Sveinbjörn Sveinbjörnsson"

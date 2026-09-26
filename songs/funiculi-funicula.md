@@ -2,6 +2,7 @@
 id: 98
 title: "Funiculi-funicula"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Peppino Turco (ítalskur frumtexti)"
 composer: "Luigi Denza"
@@ -17,7 +18,7 @@ references: ["https://olisig.is/korinn/funiculi/funiculi-txt.htm"]
 Ég lifi sérhvern dag í glaumi' og gleði  
 við gullna skál.  
 Ég teyga lífsins veigar léttu geði  
-af líf og sál.  
+af lífi' og sál.  
 Ég syng, ég syng og harpan undir hljómar,  
 ó, hlustið á.  
 Í strengjahljóm og söngvum endurómar  
@@ -34,7 +35,7 @@ og leika sér.
 Guð hjálpi mér.  
 Í mjúkum örmum leikur allt í lyndi  
 og logar blóð.  
-Í dans og söng er allt mitt líf og yndi  
+Í dansi' og söng er allt mitt líf og yndi  
 og öll mín ljóð.  
 
 (Viðlag)  

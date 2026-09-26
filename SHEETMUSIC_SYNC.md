@@ -69,6 +69,23 @@ Read both before starting.
 Export with the corrected catalog: `KK_CORRECTIONS=$KK_WORK/corrections KK_CATALOG=<catalog with existing_id on every song> python3 tools/export_songs.py`.
 Without those variables, the export keeps the metadata already stored in `songs/*.md` and only refreshes titles and lyrics from `index.html`.
 
+## Concert programme and song keys
+
+- The "Concert" group is the current programme, in singing order. It is set by the `"concert"` list of ids in
+  `decisions.json`. `lyrics_merge.py` then puts those songs first in that order and makes every other song an
+  "extra": curated originals in their existing order, then the sheet-music songs alphabetically. Titles are never
+  changed to match a programme list. Match programme names to existing songs by hand, since names on programmes
+  are often shortened, e.g. "Sælir söngbræður" is "Sælir verða söngbræður" and "Þú álfu vorrar" is "Þú álfu vorrar yngsta land".
+- When the programme changes, bump `KEY_O` in `index.html` (`kk.order` → `kk.order.2` → …). Otherwise members' saved
+  custom orders from the previous concert would override the new running order. Per-song font sizes (`kk.fs`) are kept.
+- Keys from the programme sheet are stored as `key:` in each song's `songs/*.md` front matter and shown in
+  `SONGS.md`. They use Icelandic notation: H = B natural, B = B-flat, and the bracket holds the starting note,
+  e.g. "E dúr (H)". `export_songs.py` keeps existing front-matter values, so keys survive re-exports.
+- Programme of 26 Sep 2026 (19 songs): Kvöldið er fagurt, Sælir verða söngbræður, Þú komst í hlaðið, Heyr
+  himnasmiður, Loch Lomond, Undir Svörtudröngum, Rauði Riddarinn, Nú máttu hægt, Sefur sól hjá Ægi, Suður um höfin,
+  Violetta, Ríðum sem fjandinn, Drykkjuvísa (Heillaskál), Þú álfu vorrar yngsta land, Fjallið Skjaldbreiður, Fyrst
+  ég annars hjarta hræri, Hún hring minn ber, Kvæðið um fuglana, Réttarvatn.
+
 ## Lessons learned (sync of 26 Sep 2026)
 
 **Extraction**
@@ -126,6 +143,9 @@ Without those variables, the export keeps the metadata already stored in `songs/
   - Musical repeats, echo repeats and "la la" filler are not expanded.
   - Vocalise-only pieces (Móðir, Hungarian Dance, Sängermarsch, Jodler, Hallelujah arrangement) keep minimal syllables and status `needs-review`.
 - Keep the score's stanza selection (hymns often use 1, 2 and 4), and note the omitted stanzas.
+- When the score's wording and the online text disagree, **follow the score** (the user confirmed this policy on 26 Sep 2026): the choir sings from it. Online
+  sources are often the ones with typos, e.g. olisig.is had "handa"/"heygja" for "handan"/"heyja", and glatkistan
+  had "gilið" for "gilin". The exception is a score that is clearly misprinted. Record every difference in `notes`.
 
 **Titles**
 - Icelandic titles use sentence case ("Afmælissöngur", "Betri bílar").

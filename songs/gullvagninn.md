@@ -2,6 +2,7 @@
 id: 107
 title: "Gullvagninn"
 group: "extra"
+key: ""
 language: "is"
 lyricist: ""
 composer: "Trad. (bandarískur negrasálmur)"

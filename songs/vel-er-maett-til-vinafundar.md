@@ -2,6 +2,7 @@
 id: 256
 title: "Vel er mætt til vinafundar"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jón Trausti"
 composer: "Wetterling"

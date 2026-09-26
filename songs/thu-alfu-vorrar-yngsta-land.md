@@ -1,7 +1,8 @@
 ---
 id: 17
 title: "Þú álfu vorrar yngsta land"
-group: "extra"
+group: "concert"
+key: "C"
 language: ""
 lyricist: ""
 composer: ""

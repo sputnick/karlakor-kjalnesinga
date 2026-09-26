@@ -2,6 +2,7 @@
 id: 116
 title: "Heyr mína bæn"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Ólafur Gaukur"
 composer: "Mario Panzeri"

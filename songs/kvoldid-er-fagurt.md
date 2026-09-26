@@ -2,6 +2,7 @@
 id: 3
 title: "Kvöldið er fagurt"
 group: "concert"
+key: "G"
 language: ""
 lyricist: ""
 composer: ""

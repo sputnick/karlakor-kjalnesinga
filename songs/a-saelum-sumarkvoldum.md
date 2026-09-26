@@ -2,6 +2,7 @@
 id: 46
 title: "Á sælum sumarkvöldum"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Sigurður Júlíus Jóhannesson"
 composer: "R. Bay"

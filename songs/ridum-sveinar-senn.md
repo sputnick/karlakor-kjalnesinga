@@ -1,7 +1,8 @@
 ---
 id: 5
 title: "Ríðum, sveinar, senn"
-group: "concert"
+group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

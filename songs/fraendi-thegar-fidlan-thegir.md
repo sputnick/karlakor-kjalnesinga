@@ -2,6 +2,7 @@
 id: 93
 title: "Frændi, þegar fiðlan þegir"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Halldór Kiljan Laxness"
 composer: "Sigvaldi S. Kaldalóns"

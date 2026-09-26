@@ -2,6 +2,7 @@
 id: 124
 title: "Hvíl mig rótt"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Benedikt Þ. Gröndal"
 composer: "Friðrik Bjarnason"

@@ -2,6 +2,7 @@
 id: 36
 title: "Drykkjuvísa (Glaður ég stend)"
 group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

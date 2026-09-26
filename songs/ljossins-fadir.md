@@ -2,6 +2,7 @@
 id: 169
 title: "Ljóssins faðir"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Ingólfur Jónsson frá Prestsbakka"
 composer: "Úr Psalmodia Sacra"

@@ -1,7 +1,8 @@
 ---
 id: 1
 title: "Ho ró gu‘n togainn air hugan fhathas"
-group: "concert"
+group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

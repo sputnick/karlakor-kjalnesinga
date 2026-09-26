@@ -2,6 +2,7 @@
 id: 199
 title: "Pílagrímakórinn"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jakob Jóhannesson Smári"
 composer: "Richard Wagner"

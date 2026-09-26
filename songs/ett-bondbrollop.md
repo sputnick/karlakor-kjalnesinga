@@ -2,6 +2,7 @@
 id: 85
 title: "Ett bondbröllop"
 group: "extra"
+key: ""
 language: "sv"
 lyricist: "Richard Gustafsson"
 composer: "August Söderman"

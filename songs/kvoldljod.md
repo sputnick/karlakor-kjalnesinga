@@ -2,6 +2,7 @@
 id: 154
 title: "Kvöldljóð"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Valgarður Kristjánsson"
 composer: "Rússneskt þjóðlag"

@@ -2,6 +2,7 @@
 id: 80
 title: "Ég kveiki á kertum mínum"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Davíð Stefánsson frá Fagraskógi"
 composer: "Guðrún Böðvarsdóttir"

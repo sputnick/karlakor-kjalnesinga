@@ -1,7 +1,8 @@
 ---
 id: 12
 title: "Brennið þið vitar"
-group: "concert"
+group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

@@ -3,7 +3,8 @@
 
 Usage: KK_WORK=<workdir> python3 tools/lyrics_merge.py [--dry-run]
 Reads   $KK_WORK/corrections/<id>.json   (one per song id >= 42)
-        $KK_WORK/decisions.json          ({"remove": {id: reason}, "no_extra": [ids], "title": {id: title}})
+        $KK_WORK/decisions.json          ({"remove": {id: reason}, "no_extra": [ids], "title": {id: title},
+                                           "concert": [ordered ids of the current concert programme]})
 Writes  index.html and $KK_WORK/merge-report.json
 """
 import html, json, os, re, sys, unicodedata
@@ -81,10 +82,24 @@ def main():
         report["added"].append({"id": next_id, "title": e["title"], "split_from": parent})
         next_id += 1
 
-    # Keep concert + curated originals in their existing order; sort the sheet-music block by folded title.
-    head = [s for s in songs if s["id"] < FIRST_NEW]
-    tail = sorted((s for s in songs if s["id"] >= FIRST_NEW), key=lambda s: (fold(s["title"]), s["id"]))
-    songs = head + tail
+    # "concert" in decisions.json is the ordered programme: those songs lead the deck and every other song
+    # becomes an extra. Without it the existing groups are kept. Extras keep the curated originals in their
+    # existing order, then the sheet-music block sorted by folded title.
+    concert = [int(i) for i in dec.get("concert", [])]
+    if concert:
+        by_id = {s["id"]: s for s in songs}
+        missing = [i for i in concert if i not in by_id]
+        if missing:
+            raise SystemExit(f"concert ids not on the page: {missing}")
+        for s in songs:
+            s["group"] = "concert" if s["id"] in concert else "extra"
+    head = [s for s in songs if s["group"] == "concert"]
+    if concert:
+        head.sort(key=lambda s: concert.index(s["id"]))
+    rest = [s for s in songs if s["group"] != "concert"]
+    curated = [s for s in rest if s["id"] < FIRST_NEW]
+    tail = sorted((s for s in rest if s["id"] >= FIRST_NEW), key=lambda s: (fold(s["title"]), s["id"]))
+    songs = head + curated + tail
 
     seen = {}
     for s in songs:

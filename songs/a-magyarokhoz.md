@@ -2,6 +2,7 @@
 id: 45
 title: "A magyarokhoz"
 group: "extra"
+key: ""
 language: "hu"
 lyricist: "Dániel Berzsenyi"
 composer: "Zoltán Kodály"

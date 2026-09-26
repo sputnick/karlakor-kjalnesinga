@@ -2,6 +2,7 @@
 id: 249
 title: "Undir bláhimni"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Magnús Gíslason (frá Vöglum)"
 composer: "Joe Lyons / Sam C. Hart (erlent lag)"

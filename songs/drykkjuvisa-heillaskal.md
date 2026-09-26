@@ -1,7 +1,8 @@
 ---
 id: 75
 title: "Drykkjuvísa (Heillaskál)"
-group: "extra"
+group: "concert"
+key: "Eb dúr (B)"
 language: "is"
 lyricist: ""
 composer: "F. Pacius"

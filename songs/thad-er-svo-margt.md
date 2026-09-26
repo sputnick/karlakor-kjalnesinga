@@ -2,6 +2,7 @@
 id: 238
 title: "Það er svo margt"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Einar E. Sæmundsen"
 composer: "Ingi T. Lárusson"
@@ -17,7 +18,7 @@ references: ["https://kvak.is/tae-er-svo-margt/"]
 Það er svo margt að minnast á  
 frá morgni æsku ljósum,  
 er vorið hló við barnsins brá  
-og bjó sig skarti af rósum.  
+og bjó það skart af rósum.  
 Við ættum geta eina nátt  
 vorn anda látið dreyma,  
 um dalinn ljúfa í austurátt,  

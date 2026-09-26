@@ -2,6 +2,7 @@
 id: 205
 title: "Riggarobb"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jónas Árnason"
 composer: "Erlent þjóðlag (\"The British Army\", frá Írum)"

@@ -2,6 +2,7 @@
 id: 135
 title: "Ísland (hvílir í hvítum)"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "A. U. Bååth"
 composer: "Henrik Möller"

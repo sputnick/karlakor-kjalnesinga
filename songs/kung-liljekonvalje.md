@@ -2,6 +2,7 @@
 id: 150
 title: "Kung Liljekonvalje"
 group: "extra"
+key: ""
 language: "sv"
 lyricist: "Gustaf Fröding"
 composer: "David Wikander"

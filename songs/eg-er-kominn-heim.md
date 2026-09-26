@@ -2,6 +2,7 @@
 id: 14
 title: "Ég er kominn heim"
 group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

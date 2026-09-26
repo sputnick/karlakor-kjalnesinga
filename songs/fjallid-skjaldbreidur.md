@@ -1,7 +1,8 @@
 ---
 id: 34
 title: "Fjallið Skjaldbreiður"
-group: "extra"
+group: "concert"
+key: "D dúr"
 language: ""
 lyricist: ""
 composer: ""

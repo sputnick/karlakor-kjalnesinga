@@ -2,6 +2,7 @@
 id: 224
 title: "Söngkveðjan"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Sigvald Skavlan (frumtexti: Sangerhilsen)"
 composer: "Edvard Grieg"

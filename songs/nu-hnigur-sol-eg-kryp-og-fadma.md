@@ -2,6 +2,7 @@
 id: 79
 title: "Nú hnígur sól / Ég krýp og faðma"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Axel Guðmundsson (Nú hnígur sól); Guðmundur Geirdal (Ég krýp og faðma)"
 composer: "D. Bortniansky"

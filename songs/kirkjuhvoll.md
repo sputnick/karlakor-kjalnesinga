@@ -2,6 +2,7 @@
 id: 149
 title: "Kirkjuhvoll"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Guðmundur Guðmundsson"
 composer: "Bjarni Þorsteinsson"

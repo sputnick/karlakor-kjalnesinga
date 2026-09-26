@@ -2,6 +2,7 @@
 id: 234
 title: "Svo ung og blíð"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Þorsteinn Sveinsson"
 composer: "Al Hoffman & Dick Manning"

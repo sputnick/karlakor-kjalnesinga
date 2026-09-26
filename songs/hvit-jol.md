@@ -2,6 +2,7 @@
 id: 125
 title: "Hvít jól"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Stefán Jónsson"
 composer: "Irving Berlin"
@@ -21,5 +22,5 @@ frá himni háum,
 í fjarska kirkjuklukknahljóm.  
 Ég man þau jól, hinn milda frið,  
 á mínum jólakortum bið  
-að æfinlega eignist þið  
+að ævinlega eignist þið  
 heiða daga, helgan jólafrið.  

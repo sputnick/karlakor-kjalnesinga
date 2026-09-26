@@ -1,9 +1,10 @@
 ---
 id: 128
-title: "I Bröllopsgården"
+title: "I bröllopsgården"
 group: "extra"
+key: ""
 language: "sv"
-lyricist: "Richard Gustafson"
+lyricist: "Richard Gustafsson"
 composer: "August Söderman"
 translator: ""
 text_status: "online-verified"
@@ -12,7 +13,7 @@ sources: ["sheetmusic/I bröllopsgarden - Nótur.pdf"]
 references: ["https://dekoster.se/onewebmedia/I%20Br%C3%B6llopsg%C3%A5rden.pdf", "https://www.swedishmusicalheritage.com/composers/soderman-august/SMH-W5572-I_brollopsgarden_approx_On_the_wedding_farm_from_Ett_bondbrollop_A_Pea"]
 ---
 
-# I Bröllopsgården
+# I bröllopsgården
 
 Uti bondens stuga dansen skall stå,  
 hohla, o hohla.  

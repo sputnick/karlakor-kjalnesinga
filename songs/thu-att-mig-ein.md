@@ -2,6 +2,7 @@
 id: 246
 title: "Þú átt mig ein"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Vilhjálmur Vilhjálmsson"
 composer: "Magnús Þór Sigmundsson"

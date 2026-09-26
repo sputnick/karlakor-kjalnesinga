@@ -2,6 +2,7 @@
 id: 180
 title: "My Way"
 group: "extra"
+key: ""
 language: "en"
 lyricist: ""
 composer: "Paul Anka; J. Revaux, C. François"

@@ -2,6 +2,7 @@
 id: 236
 title: "Tamning"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Ragnar Böðvarsson"
 composer: "Ísraelskt þjóðlag"

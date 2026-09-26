@@ -2,6 +2,7 @@
 id: 200
 title: "Pöddulagið"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Þorvaldur Bjarni Þorvaldsson / Andrea Gylfadóttir"
 composer: "Þorvaldur Bjarni Þorvaldsson"

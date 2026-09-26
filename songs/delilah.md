@@ -2,6 +2,7 @@
 id: 70
 title: "Delilah"
 group: "extra"
+key: ""
 language: "en"
 lyricist: "Les Reed, Barry Mason"
 composer: "Les Reed, Barry Mason"

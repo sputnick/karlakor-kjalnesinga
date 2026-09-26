@@ -1,7 +1,8 @@
 ---
 id: 25
 title: "Nú máttu hægt"
-group: "extra"
+group: "concert"
+key: "Eb dúr (B)"
 language: ""
 lyricist: ""
 composer: ""

@@ -2,6 +2,7 @@
 id: 42
 title: "Á brúðarbænum"
 group: "extra"
+key: ""
 language: "is"
 lyricist: ""
 composer: "August Söderman"

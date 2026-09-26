@@ -2,6 +2,7 @@
 id: 63
 title: "Brúðkaupslagið"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Andrea Gylfadóttir og Eyþór Arnalds"
 composer: "Þorvaldur Bjarni Þorvaldsson"

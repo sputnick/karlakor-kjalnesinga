@@ -2,6 +2,7 @@
 id: 258
 title: "Vetrarsól"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Ólafur Haukur Símonarson"
 composer: "Gunnar Þórðarson"

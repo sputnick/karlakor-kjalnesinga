@@ -2,6 +2,7 @@
 id: 215
 title: "Silungurinn"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Christian Friedrich Daniel Schubart (frumtexti)"
 composer: "Franz Schubert (Die Forelle, Op. 32)"

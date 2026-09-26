@@ -2,6 +2,7 @@
 id: 111
 title: "Hann fæddist á jólanótt"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Ágústa Ósk Óskarsdóttir"
 composer: "Matthías Stefánsson"

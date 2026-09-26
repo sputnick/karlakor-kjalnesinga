@@ -2,6 +2,7 @@
 id: 68
 title: "Dansaðu vindur"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Kristján Hreinsson"
 composer: "Peter og Nanne Grönvall"

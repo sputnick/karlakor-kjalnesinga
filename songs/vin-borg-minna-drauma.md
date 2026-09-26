@@ -2,6 +2,7 @@
 id: 260
 title: "Vín, borg minna drauma"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Rudolf Sieczynski"
 composer: "Rudolf Sieczynski"

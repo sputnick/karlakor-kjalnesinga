@@ -2,6 +2,7 @@
 id: 67
 title: "Dagný"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Tómas Guðmundsson"
 composer: "Sigfús Halldórsson"
@@ -25,6 +26,6 @@ með sumar í hjörtunum ungu,
 ég las það í augunum þínum.  
 
 Þótt húmi um heiðar og voga,  
-mun himinsins stjörndýrð loga  
+mun himinsins stjörnudýrð loga  
 um ást okkar, yndi og fögnuð,  
 þó andvarans söngrödd sé þögnuð.  

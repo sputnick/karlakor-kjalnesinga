@@ -2,6 +2,7 @@
 id: 51
 title: "Áfram"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Hannes Hafstein"
 composer: "Árni Thorsteinsson"

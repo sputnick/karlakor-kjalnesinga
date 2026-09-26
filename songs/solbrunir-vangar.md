@@ -2,6 +2,7 @@
 id: 222
 title: "Sólbrúnir vangar"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Ási í Bæ"
 composer: "Oddgeir Kristjánsson"

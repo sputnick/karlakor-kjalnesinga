@@ -1,7 +1,8 @@
 ---
 id: 6
 title: "Rósin"
-group: "concert"
+group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

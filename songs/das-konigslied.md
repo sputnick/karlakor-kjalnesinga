@@ -2,6 +2,7 @@
 id: 69
 title: "Das Königslied"
 group: "extra"
+key: ""
 language: "de"
 lyricist: "Franz von Kobell"
 composer: "Adolf Eduard Marschner"

@@ -2,6 +2,7 @@
 id: 88
 title: "Færðu mér jólin þín"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Bragi Valdimar Skúlason"
 composer: "Gunnar Þórðarson"

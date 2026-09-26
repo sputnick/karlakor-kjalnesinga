@@ -1,7 +1,8 @@
 ---
 id: 2
 title: "Ísland farsælda frón"
-group: "concert"
+group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

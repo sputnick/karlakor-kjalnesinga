@@ -2,6 +2,7 @@
 id: 193
 title: "Óbyggðirnar kalla"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Magnús Eiríksson"
 composer: "Magnús Eiríksson"

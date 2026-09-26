@@ -2,6 +2,7 @@
 id: 49
 title: "Af innstu rót"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Matthías Jochumsson"
 composer: "Andreas P. Berggreen"

@@ -2,6 +2,7 @@
 id: 57
 title: "Ave María"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Indriði Einarsson"
 composer: "Sigvaldi S. Kaldalóns"

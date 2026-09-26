@@ -2,6 +2,7 @@
 id: 207
 title: "Sagan af Jesúsi"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Bragi Valdimar Skúlason, Guðmundur Pálsson (Baggalútur)"
 composer: "Stefan Zauner, Aron Strobel (\"Keeping the Dream Alive\", Freiheit)"

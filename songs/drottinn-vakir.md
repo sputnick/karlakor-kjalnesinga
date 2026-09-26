@@ -2,6 +2,7 @@
 id: 74
 title: "Drottinn vakir"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "S. Kr. Pétursson"
 composer: "Gunnar Wennerberg"

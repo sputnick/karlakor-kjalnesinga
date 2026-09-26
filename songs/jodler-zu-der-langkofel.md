@@ -2,6 +2,7 @@
 id: 140
 title: "Jodler zu \"Der Langkofel\""
 group: "extra"
+key: ""
 language: "de"
 lyricist: ""
 composer: "Vinzenz Maria Demetz"

@@ -2,6 +2,7 @@
 id: 213
 title: "Ship-o-hoj"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Loftur Guðmundsson"
 composer: "Oddgeir Kristjánsson"

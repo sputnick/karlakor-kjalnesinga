@@ -2,6 +2,7 @@
 id: 166
 title: "Lítill drengur"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Vilhjálmur Vilhjálmsson"
 composer: "Magnús Kjartansson"

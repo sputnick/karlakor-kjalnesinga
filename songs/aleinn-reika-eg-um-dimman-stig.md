@@ -2,6 +2,7 @@
 id: 52
 title: "Aleinn reika ég um dimman stig"
 group: "extra"
+key: ""
 language: "is"
 lyricist: ""
 composer: "Oskar Merikanto"

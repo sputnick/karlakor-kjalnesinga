@@ -2,6 +2,7 @@
 id: 244
 title: "Þórður sjóari"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Kristján frá Djúpalæk"
 composer: "Ágúst Pétursson"

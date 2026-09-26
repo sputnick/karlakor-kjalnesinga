@@ -2,6 +2,7 @@
 id: 41
 title: "Hún hring minn ber"
 group: "concert"
+key: "Eb"
 language: ""
 lyricist: ""
 composer: ""

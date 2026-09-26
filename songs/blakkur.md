@@ -2,6 +2,7 @@
 id: 61
 title: "Blakkur"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jónas Árnason"
 composer: "Erlent þjóðlag (útlent þjóðlag, höfundur ókunnur)"
@@ -26,7 +27,7 @@ og stefndi heim í norðurátt.
 Sú leið er erfið, gamli garpur,  
 þú getur ei sigrað þau reginfjöll,  
 þó stælt sé þín bringa og fætur fimir,  
-þín frægðasaga er nú öll.  
+þín frægðarsaga er nú öll.  
 Á grýttum mel þar sem geisar stormur  
 með grimmdarfrost og hríðarkóf,  
 ég sé hvar þú liggur, klárinn karski,  

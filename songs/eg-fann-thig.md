@@ -2,6 +2,7 @@
 id: 78
 title: "Ég fann þig"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jón Sigurðsson"
 composer: "Amerískt þjóðlag"

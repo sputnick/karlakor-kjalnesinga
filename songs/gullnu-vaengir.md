@@ -2,6 +2,7 @@
 id: 106
 title: "Gullnu vængir"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Halldór Jörgensson"
 composer: "Giuseppe Verdi"

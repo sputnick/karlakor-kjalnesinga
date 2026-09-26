@@ -2,6 +2,7 @@
 id: 172
 title: "Mamma ætlar að sofna"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Davíð Stefánsson"
 composer: "Sigvaldi Kaldalóns"

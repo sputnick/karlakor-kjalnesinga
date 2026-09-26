@@ -2,6 +2,7 @@
 id: 173
 title: "Manstu ekki eftir mér"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Þórður Árnason"
 composer: "Ragnhildur Gísladóttir"

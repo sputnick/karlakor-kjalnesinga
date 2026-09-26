@@ -2,6 +2,7 @@
 id: 187
 title: "Nú vakir vor um geima"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Kristján Sigurðsson"
 composer: "Örlygur Atli Guðmundsson"

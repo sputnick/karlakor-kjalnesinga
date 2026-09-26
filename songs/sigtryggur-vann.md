@@ -2,6 +2,7 @@
 id: 214
 title: "Sigtryggur vann"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Íslenskt rímnaefni; viðbætur við texta Egill Ólafsson"
 composer: "Íslenskt rímnalag; viðbætur við lag Egill Ólafsson"

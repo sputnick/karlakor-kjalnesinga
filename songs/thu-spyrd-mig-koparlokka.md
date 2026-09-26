@@ -2,6 +2,7 @@
 id: 247
 title: "Þú spyrð mig, koparlokka"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Þorsteinn Valdimarsson"
 composer: "Marianne Meystre"

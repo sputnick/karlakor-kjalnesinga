@@ -2,6 +2,7 @@
 id: 0
 title: "Heyr himnasmiður"
 group: "concert"
+key: "H moll (aðlagað)"
 language: ""
 lyricist: ""
 composer: ""

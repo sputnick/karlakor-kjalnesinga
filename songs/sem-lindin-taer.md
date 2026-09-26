@@ -2,6 +2,7 @@
 id: 212
 title: "Sem lindin tær"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Bjarki Árnason"
 composer: "Erlent lag (Casano Conty)"

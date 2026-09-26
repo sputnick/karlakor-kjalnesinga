@@ -2,6 +2,7 @@
 id: 82
 title: "Ég skal bíða þín"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Hjördís F. Morthens"
 composer: "Michel J. Legrand"

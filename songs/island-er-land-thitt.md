@@ -2,6 +2,7 @@
 id: 134
 title: "Ísland er land þitt"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Margrét Jónsdóttir"
 composer: "Magnús Þór Sigmundsson"

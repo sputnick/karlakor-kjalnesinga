@@ -2,6 +2,7 @@
 id: 217
 title: "Skarphéðinn í brennunni"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Hannes Hafstein"
 composer: "Helgi Helgason"

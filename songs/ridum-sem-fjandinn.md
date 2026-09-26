@@ -1,7 +1,8 @@
 ---
 id: 204
 title: "Ríðum sem fjandinn"
-group: "extra"
+group: "concert"
+key: "F dúr"
 language: "is"
 lyricist: "Höfundur ókunnur / Sigurður Þórarinsson"
 composer: "Höfundur ókunnur (þjóðlag)"

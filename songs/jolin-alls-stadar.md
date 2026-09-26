@@ -2,6 +2,7 @@
 id: 144
 title: "Jólin alls staðar"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Jóhanna G. Erlingsson"
 composer: "Jón Sigurðsson"

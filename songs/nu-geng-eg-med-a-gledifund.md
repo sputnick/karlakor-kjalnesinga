@@ -2,6 +2,7 @@
 id: 26
 title: "Nú geng ég með á gleðifund"
 group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

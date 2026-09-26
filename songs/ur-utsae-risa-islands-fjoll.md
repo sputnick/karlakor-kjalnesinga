@@ -1,7 +1,8 @@
 ---
 id: 13
 title: "Úr útsæ rísa Íslands fjöll"
-group: "concert"
+group: "extra"
+key: ""
 language: ""
 lyricist: ""
 composer: ""

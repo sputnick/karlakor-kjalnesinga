@@ -2,6 +2,7 @@
 id: 188
 title: "Nú yfir heiði háa"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Páll J. Árdal"
 composer: "Þýskt þjóðlag (höfundur ókunnur)"

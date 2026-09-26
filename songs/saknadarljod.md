@@ -2,6 +2,7 @@
 id: 208
 title: "Saknaðarljóð"
 group: "extra"
+key: ""
 language: "is"
 lyricist: "Sigurður Ágústsson (frá Birtingaholti)"
 composer: "Jean-Paul-Égide Martini (\"Plaisir d'amour\")"

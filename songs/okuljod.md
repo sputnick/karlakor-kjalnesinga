@@ -2,6 +2,7 @@
 id: 196
 title: "Ökuljóð"
 group: "extra"
+key: ""
 language: "is"
 lyricist: ""
 composer: "Rússneskt þjóðlag"
