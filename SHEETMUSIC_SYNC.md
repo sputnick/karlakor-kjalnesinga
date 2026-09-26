@@ -161,6 +161,9 @@ Without those variables, the export keeps the metadata already stored in `songs/
 - Tell every subagent **not to spawn its own subagents or forks**. One upgrade agent split its list across forks,
   and a fork redid ids that belonged to its siblings. That caused a race: duplicated notes and a status that
   contradicted its notes, which then needed a manual audit.
+- Give every agent its own scratch folder (`W/tmp/<agent>/`) and tell it never to write shared helper scripts
+  such as `W/tmp/fix.py`. Two proofreaders overwrote each other's script there and briefly corrupted two
+  `proofread` fields.
 - Agents make typing slips: stray characters inside words, stray English words, invalid JSON after an Edit,
   repeated syllables. Always run the per-language stray-character audit, then a proofreading pass.
 
@@ -227,10 +230,22 @@ Also provide `W/all-titles.json`, a list of `{id, title, curated_original}` for 
 - Source inventory: 337 files (335 PDF, 1 DOC, 1 DOCX). 333 are mapped to songs and 4 are skipped:
   `Jólatónleikar 2015.pdf` (concert set list), `Rheinweinlied.docx` (empty duplicate), `Svandís Hallsdóttir.pdf`
   (funeral programme; its texts have their own score files) and `viðburðadagatal 2015-2016.pdf` (event calendar).
-- Page: **268 songs**. 42 are hand-entered originals (ids 0–41; 32 of them have a score in `sheetmusic/`, 10 are app-only).
-  226 come from the scores (ids 42–269, without 91 and 233, which were merged into 62).
-- `SONGS.md` has the live per-status counts and the per-song list. Songs marked "transcribed from score" or
-  "· proofread" there still need a human check against the physical score.
-- Checkpoints: `57bb85d` (raw OCR import, 270 songs). Later commits hold the corrected lyrics; see `git log`.
+- Page: **268 songs**. 42 are hand-entered originals (ids 0–41; 32 have a score in `sheetmusic/`, 10 are app-only).
+  226 come from the scores (ids 42–269, without 91 and 233, which were merged into 62). The Concert group is the
+  19-song programme of 26 Sep 2026.
+- Text status after the 26 Sep 2026 sync: 176 checked against online text, 30 transcribed from the score (no
+  published text found), 42 hand-entered, 15 lyrics missing (copyright filter: Caruso, Delilah, Green Green Grass
+  of Home, It's Beginning to Look a Lot Like Christmas, Laura, Learn me right, Michelle, My Way, Nella Fantasia,
+  New York New York, No Woman No Cry, Release Me, The Christmas Song, The Wonder of You, When I'm Sixty-Four),
+  5 wordless pieces needing review (Hallelujah arrangement, Hungarian Dance No. 5, Jodler, Móðir, Sängermarsch).
+- Every song from the scores was proofread by an Opus agent, except eight well-known Icelandic pop songs kept out
+  because of the content filter: Ömmubæn, Pöddulagið, Sagan af Jesúsi, Sólbrúnir vangar, Þakklæti, Þórður sjóari,
+  Þú átt mig ein and Vetrarsól. All eight are checked against online text.
+- Human check still wanted (`needs_proofreading`/notes in `songs/*.md`): Ett bondbröllop, Glaðir sem fuglar
+  ("Sviffráir"), Gullnu vængir, I bröllopsgården, Jökullinn, Ég leit eina lilju í holti, Meðan nóttin líður,
+  Norðurleiðarútan, Óðurinn til gleðinnar, Slá í gegn, Sól rís, sól sest ("Samleikann"), Ukuarluarisaa and
+  Undir bláhimni.
+- Checkpoints: `57bb85d` (raw OCR import, 270 songs), then `56f91e0` → `7d1cdf2` → `394cf61` (concert) → `0a55679`
+  → `085fdfb` → `3c2465a` → `17f9aeb` → `6f3c7ea` and the final proofreading commit; see `git log`.
 
 Recompute these figures on every sync. They are a baseline, not constants.
