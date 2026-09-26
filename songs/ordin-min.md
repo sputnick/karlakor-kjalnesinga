@@ -6,10 +6,10 @@ language: "is"
 lyricist: "Bragi Valdimar Skúlason"
 composer: "Bragi Valdimar Skúlason"
 translator: ""
-text_status: "score-transcribed"
-needs_proofreading: true
+text_status: "online-verified"
+needs_proofreading: false
 sources: ["sheetmusic/Orðin mín karlakór GG.pdf"]
-references: []
+references: ["https://afigamli.is/default.asp?ID=3207", "https://dolly.is/2017/04/ordin-min/"]
 ---
 
 # Orðin mín

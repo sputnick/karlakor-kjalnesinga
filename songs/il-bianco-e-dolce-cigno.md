@@ -6,10 +6,10 @@ language: "it"
 lyricist: ""
 composer: "Jacob Arcadelt"
 translator: ""
-text_status: "score-transcribed"
-needs_proofreading: true
+text_status: "online-verified"
+needs_proofreading: false
 sources: ["sheetmusic/Arcadelt_Il_bianco_cigno[1196].pdf"]
-references: []
+references: ["https://www.lieder.net/lieder/get_text.html?TextId=504&SettingId=509", "https://www.lieder.net/lieder/get_text.html?TextId=145351"]
 ---
 
 # Il bianco e dolce cigno

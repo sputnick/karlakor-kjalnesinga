@@ -20,7 +20,7 @@ vina mín og ganga suður að tjörn.
 Lékum við þar okkur saman börn.  
 Þar við gættum fjár um fölvar nætur  
 fallegt var þar út við hólinn minn.  
-Hvort er sem mér sýnist að þú grætur.  
+Hvort er sem mér sýnist að þú grætur?  
 Seg mér hví er dapur hugur þinn?  
 
 Hví ég græt og burt er æskan bjarta  
@@ -32,7 +32,7 @@ vorsins barn og hérna leika mér.
 Nú er lamað þrek mitt, brotinn kraftur  
 þunga sorg á herðum mér ég ber.  
 
-Hvað þá gráta gamla æsku drauma,  
+Hvað þá gráta gamla æskudrauma,  
 gamla drauma bara ór og tár.  
 Láttu þrekið þrífa stýristauma  
 það er hægt að kljúfa lífsins ár.  

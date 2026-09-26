@@ -14,11 +14,11 @@ references: ["https://glatkistan.com/2022/11/16/kirkjuhvoll/"]
 
 # Kirkjuhvoll
 
-Hún amma mín það sagði mér: Um sólarlags bil,  
+Hún amma mín það sagði mér: Um sólarlagsbil,  
 á sunnudögum gakk þú ei Kirkjuhvols til.  
 Þú mátt ei trufla aftansöng álfanna þar.  
-Þeir eiga kirkju í hvolnum og barn er ég var.  
-Í hvolnum kvað við samhljómur  
+Þeir eiga kirkju í hvolnum, og barn er ég var,  
+í hvolnum kvað við samhljómur  
 klukknanna á kvöldin.  
 
 Hún trúði þessu, hún amma mín, ég efaði ei það,  

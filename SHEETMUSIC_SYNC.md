@@ -105,8 +105,12 @@ Without those variables, the export keeps the metadata already stored in `songs/
   first song. Before launching, pre-write `skipped-copyright` records for such songs. Agents must never quote them,
   not even in notes. On the page these songs show `(Texti vantar – sjá nótur.)`. The user can supply the text
   (edit the song's section in `index.html`, then re-run the export).
-- Icelandic texts pass, including Icelandic words to foreign tunes. They are processed normally. The choir owns
-  its scores and has said any text-only online version may be used.
+- Icelandic texts usually pass, including Icelandic words to foreign tunes, and are processed normally. The choir
+  owns its scores and has said any text-only online version may be used. But **re-outputting the full text of a
+  well-known Icelandic pop song can also trip the filter**: a proofreading agent died on a batch containing
+  Ömmubæn, Pöddulagið, Sagan af Jesúsi, Þú átt mig ein and similar songs. Any agent that *edits* existing lyrics must
+  make small targeted replacements (a minimal Edit or `str.replace`) and must never restate whole stanzas. Keep such
+  songs out of batches whose loss would be expensive.
 - Public-domain foreign songs (O sole mio, Dowland, Mendelssohn, Söderman, Kodály/Berzsenyi) are **not**
   copyright-skipped. One agent over-applied the rule to O sole mio.
 

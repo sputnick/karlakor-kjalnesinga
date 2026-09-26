@@ -20,8 +20,8 @@ Dunar hjartans djarfa blóð, drynja mun trumbusláttur hér,
 vakna skal veröld ný og góð þegar daga fer.  
 
 Viltu sigurdaginn sjá, þá stígðu fram og fylgdu mér.  
-Ef handa götuvígja, betri veröld vakin er,  
+Ef handan götuvígja, betri veröld vakin er,  
 þá gakktu í slaginn og taktu það frelsi er þér ber.  
-Viltu hildi með oss heygja, viltu fánann hefja hátt?  
+Viltu hildi með oss heyja, viltu fánann hefja hátt?  
 Einir lifa, aðrir deyja; láttu reyna á þinn mátt.  
 Því blóð hinna föllnu mun baða okkar fósturjörð brátt.  

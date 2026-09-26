@@ -21,5 +21,3 @@ og blessað hefur mig,
 fyrir skikkan skaparans.  
 Vertu blessað, blessi þig,  
 blessað nafnið hans.  
-
-(Viðlag)  

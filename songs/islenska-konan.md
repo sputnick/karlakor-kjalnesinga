@@ -41,8 +41,8 @@ hún er barnsmóðir þín,
 hún er björt sólarsýn.  
 
 Ó, hún er ást, hrein og tær,  
-hún er alvaldi kær,  
-eins og Guðsmóðir skær.  
+hún er alföður kær,  
+hún er Guðsmóðir skær.  
 Og loks þegar móðirin lögð er í mold,  
 þá lýtur þú höfði og tár falla á fold.  
 Þú veist hver var skjól þitt, þinn skjöldur og hlíf.  

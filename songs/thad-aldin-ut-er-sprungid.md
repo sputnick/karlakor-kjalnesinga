@@ -19,7 +19,7 @@ og ilmar sólu mót,
 sem fyrr var fagurt sungið  
 af fríðri Jesse rót.  
 Og blómstrið það á þrótt  
-af veita vor og yndi  
+að veita vor og yndi  
 um vetrar miðja nótt.  
 
 Þú ljúfa liljurósin  

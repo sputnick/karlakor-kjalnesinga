@@ -6,10 +6,10 @@ language: "is"
 lyricist: ""
 composer: "Patty og Mildred Hill (raddsett: Páll Helgason)"
 translator: ""
-text_status: "score-transcribed"
-needs_proofreading: true
+text_status: "online-verified"
+needs_proofreading: false
 sources: ["sheetmusic/afmælissöngur.pdf"]
-references: []
+references: ["https://www.mamalisa.com/?t=es&p=4592"]
 ---
 
 # Afmælissöngur

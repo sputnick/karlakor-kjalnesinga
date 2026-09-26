@@ -22,12 +22,12 @@ svo ég fór og pantaði borð fyrir einn.
 Ég hef frestað því stöðugt að fá mér starf síðan síldin hvarf,  
 enda svolítið latur til vinnu en hef það samt gott. Ó, ó.  
 Konurnar fíla það mæta vel, allflestar að ég tel,  
-ého er og verð bóhem og finnst það flott.  
+ég er og verða mun bóhem og þeim finnst það flott.  
 
 Manst' ekki eftir mér?  
 Mikið líturðu vel út baby, frábært hár.  
 Manst' ekki eftir mér?  
-Hvar ertu búin að vera öll þessi ár.  
+Hvar ertu búin að vera öll þessi ár?  
 
 Ég hef nokkurn lúmskan grun um að ein gömul vinkona  
 geri sér ferð þangað líka, ég veit hvað ég syng.  

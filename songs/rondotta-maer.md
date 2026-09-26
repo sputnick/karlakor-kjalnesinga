@@ -23,7 +23,7 @@ Af mannkostum og mennt ég mikið hef,
 nú skelli ég mér í ham og heiminn skek.  
 Mér Hermann hefur kennt, og Móra vek.  
 
-Ég dansa Óla Skans' með glans,  
+Ég dansa Óla Skansa með glans,  
 ég spila fiðlu Hansa, langspilið á.  
 Ég syngja kann og kvæðin man,  
 af öðrum mönnum ber.  

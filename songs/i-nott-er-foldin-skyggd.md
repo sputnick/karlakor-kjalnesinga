@@ -19,7 +19,7 @@ og neistar sólar dvína.
 Þótt myrkur hylji heimsins byggð  
 mun hjartans ljósið skína.  
 
-Er norðan vindur nístir sál  
+Er norðanvindur nístir sál  
 og næturkuldinn bítur,  
 mun áfram brenna hjartans bál.  
 Þá birtu aldrei þrýtur.  

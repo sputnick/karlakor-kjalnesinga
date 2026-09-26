@@ -19,7 +19,7 @@ stolt sem í sögu, sagnanna ey.
 Lengi við örlög einvíg þú þreyttir,  
 lést þó ei sigrast, sigur hlaust þú.  
 
-(Viðlag)  
-
+Hvílir í hvítum, háreistum öldum,  
+stolt sem í sögu, sagnanna ey.  
 Drottinn á hæðum hönd henni réttu,  
 blómleg hún rísi úr brimróti hafs.  

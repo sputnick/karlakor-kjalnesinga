@@ -4,7 +4,7 @@ title: "Eldur í hjarta"
 group: "extra"
 language: "is"
 lyricist: ""
-composer: "Gundersen og Johannessen"
+composer: "Svein Gundersen og Jan Vincents Johannessen"
 translator: "Kristján Hreinsson"
 text_status: "score-transcribed"
 needs_proofreading: true

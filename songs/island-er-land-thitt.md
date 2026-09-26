@@ -23,7 +23,7 @@ references: ["https://www.snerpa.is/allt_hitt/textasafn/Island_er_land_thitt", "
 Ísland að feðranna afrekum hlúði,  
 Ísland er foldin, sem lífið þér gaf.  
 
-Íslensk er þjóðin sem arfinn þinn geymir  
+Íslensk er þjóðin sem arfinn þinn geymir,  
 íslensk er tunga þín skír eins og gull.  
 Íslensk er sú lind, sem um æðar þér streymir.  
 Íslensk er vonin, af bjartsýni full.  

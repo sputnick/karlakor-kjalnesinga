@@ -6,10 +6,10 @@ language: "is"
 lyricist: "Faðirvorið (biblíutexti)"
 composer: "Albert Hay Malotte"
 translator: ""
-text_status: "score-transcribed"
-needs_proofreading: true
+text_status: "online-verified"
+needs_proofreading: false
 sources: ["sheetmusic/Faðir vor, Malotte TTBB.pdf"]
-references: ["https://is.wikisource.org/wiki/Fa%C3%B0ir_vor", "https://www.youtube.com/watch?v=jyyw9DBApIU"]
+references: ["https://is.wikisource.org/wiki/Fa%C3%B0ir_vor", "https://www.youtube.com/watch?v=jyyw9DBApIU", "https://open.spotify.com/track/1L6hjhoGqrZCZ9nt6WkIWU"]
 ---
 
 # Faðir vor

@@ -18,7 +18,7 @@ Land míns föður, landið mitt
 laugað bláum straumi  
 eilíft vakir auglit þitt  
 ofar tímans glaumi.  
-þetta auglit elskum vér,  
+Þetta auglit elskum vér,  
 - Ævi vor á jörðu hér  
 brot af þínu bergi er,  
 blik af þínum draumi.  
@@ -30,4 +30,4 @@ hennar líf vér kjósum.
 Ein á hörpu ísa og báls  
 aldaslag síns guðamáls  
 æ hún leiki ung og frjáls  
-undir norður ljósum.  
+undir norðurljósum.  

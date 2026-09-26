@@ -21,5 +21,5 @@ hversdagsskemmtun bænum á.
 Fagurt galaði fuglinn sá.  
 Fagurt galaði fuglinn sá.  
 Og af fleiri fugla hjali  
-frygð um sumar stundir.  
+frygð um sumarstundir.  
 Listamaðurinn lengi þar við undi.  

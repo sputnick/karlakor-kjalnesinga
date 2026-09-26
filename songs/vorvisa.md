@@ -15,11 +15,11 @@ references: ["https://glatkistan.com/2017/02/28/vorid-er-komid/", "https://glatk
 # Vorvísa
 
 Vorið er komið og grundirnar gróa,  
-gilið og lækirnir fossa af brún;  
+gilin og lækirnir fossa af brún;  
 syngur í runni og senn kemur lóa,  
 svanur á tjarnir og þröstur í tún.  
 Nú tekur hýrna um hólma og sker,  
-hreiðrar sig blikinn og æðurinn fer.  
+hreiðrar sig blikinn og æðurin fer.  
 Hæðirnar brosa og hlíðarnar dala,  
 hóar þar smalinn og rekur á ból;  
 lömbin sér una um blómgaða bala,  

@@ -3,7 +3,7 @@ id: 188
 title: "Nú yfir heiði háa"
 group: "extra"
 language: "is"
-lyricist: "Páll Jónsson"
+lyricist: "Páll J. Árdal"
 composer: "Þýskt þjóðlag (höfundur ókunnur)"
 translator: ""
 text_status: "online-verified"
@@ -22,8 +22,8 @@ og kærum okkur eigi, þótt einhver karlinn segi:
 (Halli, halló, halli, halló! Já, látum skella á skeið.)  
 
 Það batnar, batnar leiðin, og bráðum þrýtur heiðin,  
-þá hvílum verðum vér.  
+þá hvíla verðum vér.  
 Sjá, skjól og hestahagi er hér í þessu dragi,  
 af baki hlaupum hér.  
 
-(Halli, halló, halli, halló! Hér hvílum verðum vér.)  
+(Halli, halló, halli, halló! Hér hvíla verðum vér.)  
