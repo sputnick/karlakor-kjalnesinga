@@ -158,6 +158,9 @@ Without those variables, the export keeps the metadata already stored in `songs/
 - Never treat `ý`/`Ý` as OCR junk. An early validator bug did this and nearly made agents strip `ý`.
 - The credit-line check must look for `Keyword:` patterns only. The words "lag" and "ljóð" are common inside real lyrics.
 - `par` ("couple") is a real word, not a `þar` OCR error.
+- Tell every subagent **not to spawn its own subagents or forks**. One upgrade agent split its list across forks,
+  and a fork redid ids that belonged to its siblings. That caused a race: duplicated notes and a status that
+  contradicted its notes, which then needed a manual audit.
 - Agents make typing slips: stray characters inside words, stray English words, invalid JSON after an Edit,
   repeated syllables. Always run the per-language stray-character audit, then a proofreading pass.
 
@@ -216,7 +219,7 @@ Also provide `W/all-titles.json`, a list of `{id, title, curated_original}` for 
 > `json.dump(..., ensure_ascii=False, indent=1)`. After each file, run `python3 tools/lyrics_check.py <file>`. The
 > credit-word check is heuristic: keep a real lyric word it flags and say so in `notes`.
 >
-> Work one song at a time and save each file as soon as it is done. Finish with a table of
+> Work one song at a time and save each file as soon as it is done. Do not spawn subagents or forks. Finish with a table of
 > id | title | status | main URL | flags (under 40 lines).
 
 ## Current baseline
