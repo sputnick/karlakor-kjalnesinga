@@ -3,7 +3,7 @@ id: 191
 title: "O sole mio"
 group: "extra"
 key: ""
-language: "it"
+language: "nap"
 lyricist: "Giovanni Capurro"
 composer: "Eduardo di Capua"
 translator: ""
@@ -20,6 +20,11 @@ n'aria serena doppo na tempesta!
 Pe' ll'aria fresca pare già na festa...  
 Che bella cosa na jurnata 'e sole.  
 
+Quanno fa notte 'o sole se ne scenne,  
+me vene quase 'na malincunia;  
+sotto 'a fenesta toia restarria  
+quanno fa notte 'o sole se ne scenne.  
+
 Ma n'atu sole  
 cchiù bello, oi ne'.  
 'O sole mio  
@@ -27,17 +32,10 @@ sta 'nfronte a te!
 'O sole, 'o sole mio  
 sta 'nfronte a te,  
 sta 'nfronte a te!  
-
-Quanno fa notte e 'o sole se ne scenne,  
-me vene quase na malincunia;  
-sotto 'a fenesta toia restarria  
-quanno fa notte e 'o sole se ne scenne.  
-
-(Refrain)  
 Voglio sta 'nfronte a te!  
 
 ## Notes
 
-- **Stanzas:** 4 set in the score, 4 written here.
-- **Form:** This arrangement (headed only 'Máton Wirth', apparently the arranger) gives the real Neapolitan words to a Solo voice only; the TTBB men's choir underneath is explicitly marked 'imitating trumpet' at the opening and sings no real words at all, only brass-fanfare vocalise syllables ('pa ramm', 'bomm pa', 'papp', 'rapp', 'da da da', 'Ah' etc.) throughout - all omitted here per the no-filler rule. The Solo carries: verse 1 ('Che bella cosa...'), the refrain in full, verse 2 ('Quanno fa notte...'), then the refrain returns via a 1st/2nd-ending repeat (marked '(Refrain)') and the piece closes with an extra sung tag not in the standard published lyric, 'Voglio sta 'nfronte a te!' ('I want to be in front of you'), which the score sets clearly as words (echoed by the choir too), so it is kept as genuine sung text.
-- Upgrade pass: this id was wrongly marked skipped-copyright in the first pass. 'O sole mio' (Capurro/di Capua, 1898) is public domain and the choir's own score sets the standard published Neapolitan text almost verbatim (confirmed against LiederNet's edition of Capurro's text), so status is online-verified. The published poem's third stanza ('Lùcene 'e llastre d''a fenesta toia...') is not set anywhere in this score and is correctly omitted. Composer credited on LiederNet as Eduardo Di Capua; the score itself carries no separate composer/lyricist credit, only the arranger's name.
+- **Stanzas:** 3 set in the score, 3 written here.
+- **Form:** TTBB arrangement (Márton Wirth) of the famous 1898 Neapolitan song, for Solo + four-part men's choir. The choir's four voice parts (1./2. Tenor, 1./2. Bass) sing almost nothing but a written-out 'imitating trumpet' vocalise throughout ('pa ramm pa rappa', 'bomm pa bomm', 'papp pa', 'Ah', etc., all omitted here as pure filler) - only the Solo carries real words, for two verses sung to the same repeated melody (each printed as its own stacked lyric line under one set of notes, per the normal '1./2.' verse convention), followed by the refrain, which the 1st Tenor doubles in unison with the Solo (omitted here as voice-part duplication). A written-out repeat with two different endings, plus an added 'Voglio sta 'nfronte a te!' tag, closes the piece on an extra echo of the refrain's last line; the several further bare repeats of 'Sta 'nfronte a te!' in that closing tag are echo/vocal-build repetition and were condensed rather than written out in full.
+- Public domain (Giovanni Capurro/Eduardo di Capua, 1898; not a copyright case per the coordinator's note). The score sets the standard verse 1 ('Che bella cosa') and the standard verse 3 ('Quanno fa notte'), skipping the middle verse ('Lùcene 'e llastre'), plus the refrain - the normal abridged 2-verse performing version of the song. Text matches LiederNet's published Neapolitan text verbatim except that the score consistently elides the word 'e' in 'notte e 'o sole' to 'notte 'o sole' throughout (confirmed on every occurrence in the score), which was kept as a deliberate feature of this arrangement rather than corrected to the fuller standard wording. Modern scholarship (a 2002 Italian court ruling) also credits Alfredo Mazzucchi as co-composer alongside Eduardo di Capua; only di Capua is named in the schema's single composer field. Language code 'nap' (Neapolitan) used since the text is not standard Italian.

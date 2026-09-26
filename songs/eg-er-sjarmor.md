@@ -4,8 +4,8 @@ title: "Ég er sjarmör"
 group: "extra"
 key: ""
 language: "is"
-lyricist: ""
-composer: ""
+lyricist: "Karl Ágúst Úlfsson"
+composer: "Harry Warren"
 translator: ""
 text_status: "score-transcribed"
 needs_proofreading: true
@@ -26,5 +26,4 @@ Hann er sjarmör... sjarmöra... sjarmöra...
 
 - **Stanzas:** 2 set in the score, 2 written here.
 - **Form:** TTBB piece (úts. Márton Wirth) for tenor + two bass parts, mostly close-canon imitation of the same short hook line. Most of the piece is vocalise filler on open vowels ('A-', 'Ó-', 'Ú-') carrying no real words; those are omitted here except where they attach to an actual word (e.g. 'Hann er sjarmör...'). Performance cues printed in the score ('Bara 2. skipta' / '(Bara 2.)' = only 2nd time through, '(Alltaf)' = always) are directions, not lyrics, and are stripped.
-- The score's own title is 'Ég er sjarmör' ('I am a charmer'), but the words actually sung throughout are 'Hann er sjarmör' ('He is a charmer') — kept the printed score title per the instructions even though it doesn't match the sung pronoun; flagged for a second look in case this is a title transcription error upstream (e.g. it should be 'Hann er sjarmör'). No lyricist/composer credited on the score, only the arranger (Márton Wirth, a Hungarian name), so this may be a Hungarian folk/pop tune arranged for male choir; no online source could be checked (web search was unavailable/exhausted this session). Given how little continuous text there is, this is close to a vocalise piece with one short recurring hook rather than a full lyric.
-- **Needs a human check against the score.**
+- The score's own title is 'Ég er sjarmör' ('I am a charmer'), but the words actually sung throughout are 'Hann er sjarmör' ('He is a charmer'); kept the title as printed. Upgrade pass: one Firecrawl search found this choir's own Vor 2017 concert programme, which lists this exact piece as 'Ég er Sjarmör, Höf: Harry Warren, Texti: Karl Ágúst Úlfsson, Úts: Márton Wirth, Söngur: Jóhann Sigurðarson' - so the title/pronoun mismatch is not a transcription error, it is how the piece is genuinely titled and credited; composer and lyricist fields filled in accordingly. A second search confirms this is a real, separately recorded song by actor/singer Jóhann Sigurðarson (YouTube; also listed among his other character songs on Tunebat/BeatZone), an Icelandic comic text set to a Harry Warren melody, not a Hungarian tune as previously guessed from the arranger's name. No page with the full written-out lyric text was found, so the transcribed text itself is unconfirmed and status stays score-transcribed, but the title/credit doubt is resolved.
