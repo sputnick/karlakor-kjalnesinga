@@ -35,3 +35,9 @@ Heyr, lit á lag um ljósan dag
 í söng við sumarsbrag.  
 
 Trum, búmm!!  
+
+## Notes
+
+- **Stanzas:** 4 set in the score, 4 written here.
+- **Form:** Playful TTBB march built mostly of vocalise ('trum-la-la', 'tra-la-la', 'te-te-te'), with real words carried by one part at a time over the others' vocalise drone. Only the real words are given here, in singing order; the recurring vocalise ('la la la...', 'te te te...') is omitted throughout as instructed, except for the final exclamation 'Trum, búmm!!', which is the only thing sung at the very end.
+- No online text found (checked snerpa.is index and is.wikisource.org; Firecrawl search was rate-limited on each attempt). Transcribed directly from the clean, modern engraved score, which is fully legible throughout, so confidence is high despite the score-transcribed status. check_song.py flags 'lag' in 'Vort lag og ljóð skal líða' and 'Heyr, lit á lag' as possible credit markings; both are genuine lyric words meaning 'tune/song' inside the poem, not credit lines — left in place.

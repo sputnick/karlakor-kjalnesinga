@@ -41,3 +41,10 @@ Ef ég bið á hverjum degi,
 hef ég von sem aldrei deyr  
 því með bæninni kemur ljósið  
 og í myrkri ég geng ei meir.  
+
+## Notes
+
+- **Stanzas:** 3 set in the score, 3 written here.
+- **Form:** New Icelandic words (not a translation of Thomas Moore's 'The Last Rose of Summer') set to that tune. Confirming the online text resolved an earlier misreading of the score's repeat/1st-2nd-ending bars: the short phrases that appeared at that spot ('Ó, svo...' and 'Ég vil...') are not alternate endings of verses 1 and 2 but the opening words (pickup) of verses 2 and 3 respectively.
+- Melody is the traditional Irish air used for Thomas Moore's 'The Last Rose of Summer' (1805, long public domain); the words set here are an original Icelandic lyric by Páll Óskar Hjálmtýsson and Brynhildur Björnsdóttir, not a translation of Moore's poem, so this is handled as ordinary (not copyrighted-commercial) content. Verified against guitarparty.com's chord/lyrics page for this exact song, which resolved an earlier ambiguity in the hand-engraved repeat bracket at the end of the score (superseding a previous score-transcribed draft of this file).
+- **Proofread:** no changes

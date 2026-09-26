@@ -16,3 +16,8 @@ references: []
 # The Wonder of You
 
 (Texti vantar – sjá nótur.)  
+
+## Notes
+
+- skipped: copyrighted commercial lyric (API content filter blocked output); coordinator/user to supply
+- **Needs a human check against the score.**

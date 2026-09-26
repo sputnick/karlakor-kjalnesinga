@@ -34,3 +34,10 @@ friðarkveðjur brottu gengnum.
 þó að hrökkvi fiðlustrengur,  
 ég hef sæmt hann einni fylgju:  
 óskum mínum hvar hann gengur.  
+
+## Notes
+
+- **Stanzas:** 4 set in the score, 4 written here.
+- **Form:** All four stanzas of the poem are set in full (checked against the score images), sung continuously without a repeated refrain. The final line 'hvar hann gengur' is echoed several times between the two voice parts as the closing cadence (marked ad lib.); that is a genuine musical/echo repeat and is written only once here rather than duplicated.
+- This Kaldalóns/Páll Pampichler Pálsson choir setting (Kaldalónsútgáfan, performed at Kötlumót í Reykjanesbæ 2015) uses the same Halldór Laxness poem that Glatkistan's page publishes (that page's own musical pairing is credited to a different, later tune by Bergþóra Árnadóttir - 'til eru fleiri en eitt lag við þetta ljóð' - but the poem text itself is identical regardless of melody, and it matches this score line for line, including 'villa sýn á borg og hóli' which is easy to miss in the noisy OCR).
+- **Proofread:** no changes

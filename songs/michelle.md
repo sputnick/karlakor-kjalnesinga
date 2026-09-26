@@ -16,3 +16,8 @@ references: []
 # Michelle
 
 (Texti vantar – sjá nótur.)  
+
+## Notes
+
+- skipped: copyrighted commercial lyric (API content filter); coordinator/user to supply
+- **Needs a human check against the score.**

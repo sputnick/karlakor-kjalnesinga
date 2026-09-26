@@ -38,3 +38,10 @@ Af þínu ljósi skugginn er
 vor veröld öll, vort verk, vor þrá  
 að vinna þér til lofs sem má  
 þá stund er fögur hverfur hjá.  
+
+## Notes
+
+- **Stanzas:** 4 set in the score, 4 written here.
+- **Form:** Four 5-line stanzas (AABBB rhyme, e.g. skeið/beið, il/til/skil). Verses 1-2 are underlaid under the music (1./2. text lines on the same notes); verses 3-4 are printed as plain text in two columns beneath the music, to be sung to the same tune. Composed in memory of Ólafur Rafn Einarsson, historian (f. 16.1.1943 - d. 2.6.1983), per the score's dedication line; the hymn is also #675 (formerly 410b) in the Icelandic hymnal, dated 'Þorsteinn Valdimarsson, 1966 – Sb. 1972' / 'Jakob Hallgrímsson 1983 – Sb. 1997'.
+- Confirmed via Firecrawl search against kirkjan.is (Þjóðkirkjan sálmabók #675) and corroborated by ruv.is and mbl.is's Ljóðabanki, all matching the score-transcribed text exactly except one verb: the published hymnal text has 'og gleði' í hjarta vera til' (vera = to be), not 'verða til' (to become/come into being) as first read from the score's typewritten engraving — an easy word-for-a-near-synonym misreading; the published wording is used here. Kept the hymnal's own elision apostrophes ('gleði' í', 'blómi' í').
+- **Proofread:** no changes

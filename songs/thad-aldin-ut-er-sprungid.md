@@ -30,3 +30,10 @@ og krýnir lífið allt.
 Ó, Guð og maður, greið  
 oss veg frá öllu illu  
 svo yfirvinnum deyð.  
+
+## Notes
+
+- **Stanzas:** 2 set in the score, 2 written here.
+- **Form:** Icelandic translation (Matthías Jochumsson) of the German hymn 'Es ist ein Ros entsprungen', melody harmonized by Michael Praetorius (score credits 'M. Prätorius'). The score's OCR jumbles fragments of both verses together (columns/voice parts read out of order), but every phrase in it matches this 2-verse online text closely, confirming both verses are the ones sung.
+- Matched against glatkistan.com's page for this hymn.
+- **Proofread:** "af veita" → "að veita" (line 6; score has "að veita")

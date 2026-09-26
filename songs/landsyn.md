@@ -60,3 +60,10 @@ helguð Drottni lífs og gæða."
 allir flytji jarðar lýðir:  
 (Viðlag)  
 Hæst í hæð! Hæst í hæð!  
+
+## Notes
+
+- **Stanzas:** 6 set in the score, 6 written here.
+- **Form:** Landsmót íslenskra karlakóra (2005) edition of Bjørnson's 'Landkjending' (Olav Trygvason), Sigurður Júl. Jóhannesson's Icelandic translation, music by Grieg. Verses 1-3 are sung to the same music (with 1./2./3. repeat markers); verse 4 leads into a tenor/bass solo (verse 5, marked 'EINSÖNGUR') and then the full choir in unison (verse 6, marked 'KÓR: einradda'). Verse 6's last four lines ('Sál er hrifin...helguð Drottni lífs og gæða.') repeat verse 5's last four lines unchanged, marked with (Viðlag) rather than writing them out twice; the closing 'Hæst í hæð! Hæst í hæð!' tag at the very end is sung once, right after verse 6, and is included once.
+- A 1949 Christmas newspaper (Hrafnista jólablað, via timarit.is search snippets — the page itself is behind a CAPTCHA so could not be fetched directly) prints this same translation and confirmed the transcription almost exactly, catching two small errors: 'traustum knerri í Norðursjó' -> 'traustum knerri um Norðursjó', and 'erfða lönd' -> 'erfðalönd' (one word). It also happens to print 'tíginn' with an accent, but that is almost certainly an OCR artifact of the old newsprint scan (it is not a real word; 'tiginn', meaning 'noble', is the plainly correct reading and matches the score), so 'tiginn' was kept unaccented. The rest of the transcription (from the score's own clean printed lyric page, page 3, below the music) is unverified beyond that snippet, since the full old newspaper text could not be retrieved. Rehearsal letters/labels (KÓR: einradda, EINSÖNGUR, tempo marks) and the repeat-bar numbers (3/14/3) were stripped as non-lyric material.
+- **Proofread:** no changes

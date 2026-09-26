@@ -36,3 +36,9 @@ Nú þjáðu fólki leggjum lið,
 líkna skulum við.  
 Og minning hans við fögnum fljótt,  
 hann fæddist á jólanótt.  
+
+## Notes
+
+- **Stanzas:** 2 set in the score, 2 written here.
+- **Form:** Two verses set to the same music, both leading into a shared closing couplet-pair; the pickup word differs ('Hann'/'En') between the two verses so both closes are written out in full rather than marked as a refrain.
+- Original Icelandic composition; score credits 'Lag: Matthías Stefánsson og Ágústa Ósk Óskarsdóttir' without separately naming a lyricist, so authorship of words vs. music between the two credited writers is not certain from the score alone. Clean modern typeset score (Úts. Daði Þór Einarsson), no online source found or needed.

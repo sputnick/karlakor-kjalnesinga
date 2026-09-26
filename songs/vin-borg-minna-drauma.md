@@ -56,3 +56,10 @@ Er flýg ég af stað þá frétt hef ég að
 ég sé þína turna og krár.  
 
 (Viðlag)  
+
+## Notes
+
+- **Stanzas:** 4 set in the score, 4 written here.
+- **Form:** TTBB + piano, arr. Viktor Keldorfer, German original 'Wien, Wien, nur du allein' (Rudolf Sieczynski), Icelandic translation by Höskuldur Þráinsson ('Þýðing HÞ' on the score), written in 2000 in memory of trumpeter and choir conductor Lárus Sveinsson. Score sets 3 verses plus a shared refrain sung after each verse; refrain written in full after verse 1 and marked '(Viðlag)' after verses 2-3 (the translator's own source repeats the refrain's opening line as '...' each time it recurs, matching this convention). Within the refrain the couplet 'Vín, Vín, þú aðeins ein / æ verður borg minna drauma hrein' is itself sung twice in the published text (AABA form), kept as published rather than compressed.
+- Full text found and verified against Höskuldur Þráinsson's own PDF of his translation, posted on his University of Iceland staff page - confirms both the translator's identity (matching the score's 'Þýðing HÞ' credit) and every word, including the final line ('ég sé þína turna og krár') that could not be made out from the scanned score alone during an earlier transcription pass. check_song.py flags 'ljóð' in 'Þá heyri ég úr fjarska löngum eitt ljóð' as a possible credit marking; here it is a genuine lyric word (the poem describes hearing 'a song/poem' from afar), so it is kept.
+- **Proofread:** no changes

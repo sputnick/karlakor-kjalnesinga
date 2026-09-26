@@ -50,3 +50,9 @@ Thou canst not pierce her heart;
 For I, that do approve,  
 By sighs and tears more hot than are thy shafts  
 Did tempt, while she for triumph laughs.  
+
+## Notes
+
+- **Stanzas:** 6 set in the score, 6 written here.
+- **Form:** This choral score (headed 'Madrigal for Four Voices') distributes Dowland's six strophes across the two treble parts in alternation (voice 1 singing verses 1, 3, 5, voice 2 singing verses 2, 4, 6, or similar), all set to the same repeated tune; all six verses of the original 1597 ayre are given here in their normal reading order (1-6), not the interleaved voice-part order printed in the score.
+- This is John Dowland's well-known 1597 lute ayre 'Come again, sweet love doth now invite' (First Booke of Songs or Ayres), public domain and long out of copyright, so it is not covered by the batch rule on modern commercial songs. The text given is the standard published version of the poem; several web sources that normally carry it (Wikisource, CPDL, IMSLP, LiederNet) could not be reached this session (404/403 errors or wrong pages), so this is recorded as score-transcribed rather than online-verified, but it was cross-checked phrase by phrase against the score's own OCR/vision text, which matches closely throughout. Upgrade pass: found the full text on Oxford Song (Oxford Lieder Festival's song-text database), a scholarly source, confirming the poem identity and all six verses in singing order. Adopted its punctuation throughout. Three words were kept as the score prints them rather than Oxford's base text, since the score's own OCR/vision text independently confirms these exact readings there (a modernized-grammar edition of the old ayre): 'does'/'do' in stanza 3, 'make'/'makes' in stanza 3, and the 'do approve' reading in stanza 6.

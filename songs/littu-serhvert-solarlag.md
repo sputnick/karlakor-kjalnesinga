@@ -33,3 +33,10 @@ Enginn frá hans löngu glímu aftur snýr.
 Því skaltu fanga þessa stund – því fegurðin í henni býr.  
 
 (Viðlag)  
+
+## Notes
+
+- **Stanzas:** 5 set in the score, 5 written here.
+- **Form:** Three verses and a chorus ('Líttu sérhvert sólarlag...'). Score order: verse 1, verse 2, chorus, verse 3, chorus again (with 1st/2nd-ending repeat bracket) — matches the online text exactly. Chorus written in full the first time, (Viðlag) for the repeat.
+- Text matches glatkistan.com exactly, word for word, including punctuation.
+- **Proofread:** no changes

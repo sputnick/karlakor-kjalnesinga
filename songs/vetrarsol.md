@@ -41,3 +41,9 @@ en hefur aftur litið ljós,
 mín vetrarsól.  
 
 (Viðlag)  
+
+## Notes
+
+- **Stanzas:** 3 set in the score, 3 written here.
+- **Form:** TTBB arr. Hrafnkell Orri Egilsson. Score sets both verses ('Hvers virði er...') then the chorus ('Það er komin vetrartíð...'); the chorus melody then recurs 1-2 more times near the end of the arrangement with unchanged words, marked here with a single '(Viðlag)' line rather than repeating the full text.
+- Well-known Icelandic pop song (Björgvin Halldórsson/Gunnar Þórðarson, 1981 album 'Himinn og jörð'). Text matched against chordtune.com's chord-and-lyrics transcription; line breaks normalized from that site's chord-driven splitting into natural poetic lines matching the score's phrasing.

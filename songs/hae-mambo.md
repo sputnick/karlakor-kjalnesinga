@@ -38,3 +38,9 @@ Haust er hættir slátt og dátt og kátt í réttó,
 dansinn stígum sæl og þéttó.  
 
 Mambó, Ítalíanó, Mambó.  
+
+## Notes
+
+- **Stanzas:** 2 set in the score, 2 written here.
+- **Form:** Comedic novelty song, T.Solo carries the story with Tenor/Bass echoing 'Hæ Mambó...' underneath. Uses a 1st/2nd-ending repeat: verse 1 ('sí sí sí þú ert Sikileyingur') closes with ending 1 ('gettu betur góða...'); on the repeat, verse 2 ('þar er nú lífið, landi...') is sung and continues on into ending 2 and the rest of the song. The 'Hæ Mambó Mambó Ítalíanó' hook recurs several more times near the end (marked '(Viðlag)' here) with 'hó hó hó' scat filler omitted.
+- Icelandic comic parody text by Loftur Guðmundsson to Bob Merrill's tune, úts. Páll Helgason. No published text found online within the available search budget (also the general web-song-search tool ran out of its quota partway through this batch); transcribed from the score, which is cleanly typeset and legible throughout.

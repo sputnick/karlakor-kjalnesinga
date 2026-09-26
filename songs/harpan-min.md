@@ -35,3 +35,9 @@ Kveð ég veröld, kveð ég jarðargæði,
 kveð ég glaður lífsins harmakvæði,  
 kveð ég vini, kveð ég ást og hreysti,  
 kveð ég þig, sem öllum betur treysti.  
+
+## Notes
+
+- **Stanzas:** 3 set in the score, 3 written here.
+- **Form:** Three verses ('erindi') marked on the score for different performance moods (1: Dolche, 2: Sungið glaðlega, 3: Sungið á saknaðarstund/'sung at a moment of mourning'), all set to the same melody. 'úú../mm..' cues between phrases are a wordless humming interlude, not text, and are omitted.
+- Written for Drengjakór íslenska lýðveldisins, 2016. Clean modern typeset score, fully legible; no online source found or needed. Verse 3 is a farewell/elegy ('kveð ég...' = 'I bid farewell to...'), matching its 'sung at a moment of mourning' performance note.

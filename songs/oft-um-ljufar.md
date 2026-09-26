@@ -26,3 +26,10 @@ er ég fullu sáttur heiminn við.
 Sest ég hugrór húsvegg mínum undir,  
 hægur nætursvali kyssir grundir.  
 Andvarp breytist mitt í kvæðaklið.  
+
+## Notes
+
+- **Stanzas:** 2 set in the score, 2 written here.
+- **Form:** Two verses underlaid together throughout (Tenor and Bass carry the same two texts in parallel, not different content), 5 lines each, rhyme scheme ABAAB (nætur/önd/mætur/lætur/strönd; stundir/við/undir/grundir/klið). No refrain or repeats.
+- Confirmed via Firecrawl search: olisig.is publishes the exact same two verses, and Reykjavík music-history site musik.is / a 1925 Lögrétta newspaper notice (timarit.is) identify this as Hannes Hafstein's Icelandic translation of a poem by the Danish poet Holger Drachmann, set by Jón Laxdal. One correction from the initial score reading: line 4 of stanza 1 is 'djúpur friður gjörvallt sveipað lætur' (friður = peace, a noun phrase, subject of 'lætur') — not 'djúpur, fríður' (deep, fair) as first read from the engraving; the online wording also resolves the grammar of that line. Kept modern spelling 'Sest' (the source's 'Sezt' is pre-1973 orthography) to match the rest of the text and the score.
+- **Proofread:** no changes

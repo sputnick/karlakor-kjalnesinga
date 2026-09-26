@@ -39,3 +39,10 @@ uppfyllast má.
 kyrrlát og hljóð.  
 Mamma ætlar að sofna,  
 systir mín góð.  
+
+## Notes
+
+- **Stanzas:** 5 set in the score, 5 written here.
+- **Form:** Handwritten karlakór (male-choir) arrangement by Haukur Guðlaugsson of Sigvaldi Kaldalóns's setting of Davíð Stefánsson's poem; the score sets all 5 stanzas of the poem, matching the text found online exactly (confirmed word order, including the poetic inversion 'rökkrinu í' at the end of stanza 2, and 'sumir eiga sorgir/þrár' rather than 'liggja', which corrects an earlier misreading of the handwriting). The opening couplet ('Í kvöld skulum við vera kyrrlát og hljóð' / 'systir mín góð') returns in the final stanza as a musical and textual bookend, matching the published poem's own structure.
+- Verified against the full text published on glatkistan.com (Icelandic music history site), which matches the score. One likely typo in that online source ('og mamm er svo þreytt') was corrected to 'mamma', which is what both grammar and the score itself (independently transcribed from the manuscript) require.
+- **Proofread:** no changes

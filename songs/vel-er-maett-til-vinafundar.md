@@ -28,3 +28,10 @@ er því sama ætla að ná.
 Þótt oss skildi hábrýnd heiðin,  
 heyrðum vér á hverjum degi  
 hver í öðrum hjartað slá.  
+
+## Notes
+
+- **Stanzas:** 2 set in the score, 2 written here.
+- **Form:** Both stanzas set to the same music (Wetterling); the published text itself marks each stanza's last line to be sung twice (|: :|), matching the score's repeat; written once here per the no-duplication rule.
+- Initial transcription from the score image was confirmed word-for-word against olisig.is's published choir text (Kór Glerárkirkju), including the repeat-marked lines. The elided singing form 'ætla'' is written as standard 'ætla'.
+- **Proofread:** removed the blank line inside each stanza (after lines 3 and 11) so the text is 2 six-line stanzas, as in the score and stanzas_written

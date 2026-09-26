@@ -53,3 +53,10 @@ Moldin og aurin mynda þar dökka slóð,
 í myrkvaðar öldur fellur jökulsins blóð.  
 Hljóðnar og birtir, hérna er allt svo breytt,  
 en himinn og jökullinn renna saman í eitt.  
+
+## Notes
+
+- **Stanzas:** 3 set in the score, 3 written here.
+- **Form:** Score gives two parallel erindi (1. er. / 2. er.) sung simultaneously by different voice groups through sections A, B (Piu mosso) and C (Allegretto), each an 8-16 line stanza; a closing unison passage (section D, Andante) forms a third, shorter stanza sung by all parts together, with a musical 1st/2nd-ending repeat of its final line that has been written once.
+- No published source for this poem was found online (searched Bragi, ljod.is, kollsvik.is and general web for Guðbjartur Össurarson + distinctive lines); appears to be an unpublished/local text written for this setting, transcribed directly from the score underlay. Word divisions for likely compounds 'skjannabjörtum', 'mjallarföldum' and 'sæinn' (accusative definite of 'sær') are best-effort readings of the syllable underlay. Omitted the imitative echo entries in the C section ('En jökullinn byrstir sig...', 'En dimm eru élin...') sung by the second tenor/bass parts as they repeat the same words already given in the main line, per the no-duplication rule.
+- **Needs a human check against the score.**

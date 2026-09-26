@@ -34,3 +34,10 @@ og sunnanvindur kyssir kinn.
 því undurbjart er tunglskinið á jökulskalla,  
 leysist sérhver vandi' og allir fjötrar falla,  
 frelsi ég finn.  
+
+## Notes
+
+- **Stanzas:** 3 set in the score, 3 written here.
+- **Form:** Icelandic words (Ragnheiður Ásta Pétursdóttir) written to Cole Porter's 'Don't Fence Me In'; this Karlaraddir (men's-voice) arrangement is credited to Daði Þór Einarsson. The score's ending adds a short vocal echo/flourish repeating 'frelsi ég, frelsi ég finn, já frelsi ég finn' after the last line; treated as a musical tag, not new lyric content, so not duplicated here.
+- The published lyric (kvak.is, also matching streaming-service songwriter credits for Helgi Björnsson & Reiðmenn vindanna's recording) has 'Ef ég ein fæ að dvelja' (fem. 'ein'); the score instead has 'einn' (masc.), fitting a men's choir singing collectively - kept the score's word per the task rule for a deliberate, sensible score variant.
+- **Proofread:** no changes

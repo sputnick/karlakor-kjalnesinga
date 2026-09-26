@@ -53,3 +53,10 @@ Og innan stundar fékk hann slag af miklu verra tagi.
 Og þegar nóttin lagðist yfir haf og yfir hauður,  
 og heiðurskarlinn Geiri virtist loksins alveg dauður, sagði hann:  
 (Viðlag)  
+
+## Notes
+
+- **Stanzas:** 7 set in the score, 7 written here.
+- **Form:** Icelandic comic gamanvísur (verses about a character 'Siglufjarðar-Geiri') by Jónas Árnason, set to the traditional Irish tune 'Whiskey in the Jar' (marked 'Frá Írum' = 'from the Irish' on the score), choral setting by Páll Helgason. 6 verses, each ending 'sagði hann:' leading into the same refrain (viðlag); refrain written in full after verse 1, marked (Viðlag) after verses 2-6. Score has a handwritten performance note 'VIÐLAG + SPILAÐ ALLT' after verse 3 (an instrumental play-through of the refrain) and 'VIÐLAG 2svar' after verse 6 (refrain repeated twice at the very end) — both are performance instructions, omitted from the lyric text itself.
+- Confirmed and corrected against glatkistan.com's published text (from the album 'Manstu gamla daga?'), which matches this handwritten score almost exactly. Fixed word-boundary misreadings from the score: 'erfiðleik um sínum...gaman hent í' -> 'erfiðleikum sínum...gaman henti'; 'í sér stöku klammara í lenti' -> 'í sérstöku klammaríi lenti' (this resolves the non-word 'klammara' from the score — it is 'klammaríi', a scrape/predicament); 'aðkenning'/'verra tæi' -> 'aðkenningu'/'verra tagi'. Also restored 'aðra menn talsvert meira' in verse 4: the score has 'menn' crossed out by hand, but the published text confirms 'menn' is the real word, so the handwritten strikeout was a performer's personal edit, not a correction to follow. The hole-punch-obscured first word of verse 2's second line is confirmed as 'og'.
+- **Proofread:** no changes

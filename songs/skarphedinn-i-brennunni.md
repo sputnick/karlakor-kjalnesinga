@@ -33,3 +33,10 @@ höggvinn Helgi.
 Héðinn stóð einn  
 tepptur við gaflað  
 og glotti við tönn.  
+
+## Notes
+
+- **Stanzas:** 3 set in the score, 3 written here.
+- **Form:** Marcia energico, TTBB. Hannes Hafstein's full poem (public domain, on is.wikisource.org) has nine stanzas narrating Skarphéðinn's death in the burning of Bergþórshvoll (from Njáls saga); this score sets only the first three, ending after 'Héðinn stóð einn, tepptur við gaflað og glotti við tönn.' The score's vocal line sings the phrase 'Nár var þá Njáll' twice in a row as a musical repeat before continuing to 'nár var Bergþóra' — written once per the no-duplication rule.
+- Text matches the Wikisource public-domain edition of the poem word for word for the stanzas the score sets. Used the standard spelling 'tepptur' (double p, 'blocked/trapped') from that source; the old lithographed score is faint there and could be misread as a single p.
+- **Proofread:** no changes

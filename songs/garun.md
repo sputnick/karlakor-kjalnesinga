@@ -26,3 +26,10 @@ Komdu með mér út að ríða, lengi hef ég þurft að bíða – Garún, Gar�
 Tvímennt er úr hlaðinu út að hálu vaðinu, smeyk er hún.  
 Djákninn ríður ástarsjúkur, holar tóftir berar kjúkur, Garún.  
 Tunglið hægt um himin líður, dauður maður hesti ríður – Garún, Garún.  
+
+## Notes
+
+- **Stanzas:** 3 set in the score, 3 written here.
+- **Form:** TTBB, all four parts sing the same words in unison/harmony for all three verses; a wordless 'Ahh' held note in T1/T2 at the end of verse 1's second line is vocalise filler and is omitted.
+- Song by Magnús Eiríksson (of Mannakorn), based on the Icelandic folk legend of Djákninn á Myrká, who calls the ghost of his beloved Guðrún 'Garún'. Score text matches the published lyrics exactly.
+- **Proofread:** no changes

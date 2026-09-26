@@ -38,3 +38,10 @@ hún sem klædd í ullarpeysu undir Stórasteini,
 forðum tíð í leyni  
 lagði vanga sinn  
 ósköp feimin upp við vanga minn.  
+
+## Notes
+
+- **Stanzas:** 2 set in the score, 2 written here.
+- **Form:** Two verses, each ending in the shared 'undir Stórasteini' refrain lines; útsetning/raddsetning by Páll Helgason (also a separate source raddsett by 'BÞJ'), TTBB.
+- Title changed from 'Undir stórasteini' to 'Undir Stórasteini' (Stórasteinn is a specific named rock/place in the lyric, capitalised consistently in the published text, so treated as a proper noun).
+- **Proofread:** no changes

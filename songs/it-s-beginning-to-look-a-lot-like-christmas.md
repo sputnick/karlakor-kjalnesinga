@@ -16,3 +16,8 @@ references: []
 # It's Beginning to Look a Lot Like Christmas
 
 (Texti vantar – sjá nótur.)  
+
+## Notes
+
+- **Form:** TTBB arrangement (radds. Páll Helgason) of the English-language Christmas standard.
+- skipped: copyrighted commercial lyric

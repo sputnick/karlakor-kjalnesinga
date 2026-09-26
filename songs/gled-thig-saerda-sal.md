@@ -34,3 +34,10 @@ Guð er eilíf ást, engu hjarta' er hætt.
 Ríkir eilíf ást, sérhvert böl skal bætt.  
 Lofið Guð, sem gaf, þakkið hjálp og hlíf.  
 Tæmt er húmsins haf, allt er ljós og líf.  
+
+## Notes
+
+- **Stanzas:** 4 set in the score, 4 written here.
+- **Form:** Score labels four of the poem's five stanzas '1.', '2.', '4.', '5.'; stanza 3 ('Flutt er orðsins orð, þagna hamarshögg...') is not set and is omitted here, in score order 1-2-4-5.
+- Also widely known by its stanza-2 first line 'Kirkjan ómar öll'. Text matches the published hymn (Sb. 1945) exactly for the four stanzas the score sets.
+- **Proofread:** no changes

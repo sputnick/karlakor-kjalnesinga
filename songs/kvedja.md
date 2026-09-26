@@ -49,3 +49,10 @@ Um aldur og ævi þú verður mér nær,
 aldrei ég skal þér gleyma.  
 Svo vöknum við með sól að morgni,  
 svo vöknum við með sól að morgni.  
+
+## Notes
+
+- **Stanzas:** 5 set in the score, 5 written here.
+- **Form:** Five verses set to the same music, each followed by its own two-line refrain-like ending whose words change with the verse's subject (addressing the deceased 'þig', then 'hann', then 'hann', then 'hann', then 'við'), each written out in full since the refrain's words change. This exact song is hymn no. 378 in the Icelandic Lutheran hymnal ('Þar sem englarnir syngja sefur þú'), listed under 'Andlát og útför' (funerals), confirming the score's five-verse, twice-repeated-tag structure exactly (the hymnal marks each tag line ':,: ... :,:', i.e. sung twice, matching the score).
+- Full text confirmed against the Icelandic Lutheran hymnal (Þjóðkirkjan, Sálmabók nr. 378, 'Kveðja', credited there to 'Bubbi Morthens (Ásbjörn K. Morthens) 2002'), which matches the score almost exactly; corrected minor wording from the initial score-only reading (e.g. 'sefur í djúpinu væra' not 'vær', and comma placement in verse 2's 'Minn styrkur þú ert, mín lífsins rós').
+- **Proofread:** no changes

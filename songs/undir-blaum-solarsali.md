@@ -24,3 +24,10 @@ Fagurt galaði fuglinn sá.
 Og af fleiri fugla hjali  
 frygð um sumarstundir.  
 Listamaðurinn lengi þar við undi.  
+
+## Notes
+
+- **Stanzas:** 1 set in the score, 1 written here.
+- **Form:** Emil Thoroddsen's setting (útsett) is a single pass through one stanza only; 'Fagurt galaði fuglinn sá' is repeated as part of that one stanza's melody, not a separate refrain.
+- Eggert Ólafsson's poem has a second stanza ('Hunangsblóm úr öllum áttum...') which is not set by this arrangement (the score is a single page, one verse only), so it is left out.
+- **Proofread:** "sumar stundir" → "sumarstundir" (line 8; compound)

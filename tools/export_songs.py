@@ -7,7 +7,8 @@ index.html stays the source of truth for titles, lyrics, group and order. Metada
   2. the extraction catalog at $KK_CATALOG, only when set (maps score files to songs;
      each entry needs an "existing_id")
   3. the front matter of the existing songs/*.md file for that id
-so re-running after a plain lyric edit keeps what earlier syncs recorded.
+so re-running after a plain lyric edit keeps what earlier syncs recorded. The "## Notes"
+section under each lyric (form, score-vs-online differences, proofreading) is kept the same way.
 
 Usage: python3 tools/export_songs.py
 """
@@ -49,6 +50,27 @@ def fold(text: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", text).strip("-")
 
 
+NOTES_HEADING = "## Notes"
+
+
+def notes_from_correction(c: dict) -> str:
+    """Turn a sync correction record into the song's notes section (kept on later exports)."""
+    lines = []
+    if c.get("stanzas_in_score") or c.get("stanzas_written"):
+        lines.append(f"- **Stanzas:** {c.get('stanzas_in_score', '?')} set in the score, "
+                     f"{c.get('stanzas_written', '?')} written here.")
+    if c.get("form_notes"):
+        lines.append(f"- **Form:** {c['form_notes'].strip()}")
+    for part in (c.get("notes") or "").split(" | "):
+        if part.strip():
+            lines.append(f"- {part.strip()}")
+    if c.get("proofread"):
+        lines.append(f"- **Proofread:** {c['proofread'].strip()}")
+    if c.get("needs_second_pass"):
+        lines.append("- **Needs a human check against the score.**")
+    return "\n".join(lines)
+
+
 def read_front_matter(path: Path) -> dict:
     meta = {}
     text = path.read_text()
@@ -70,11 +92,15 @@ def main() -> None:
                 for i, t, l in SECTION_RE.findall(page)}
 
     previous = {}
+    previous_notes = {}
     if SONGS.exists():
         for path in SONGS.glob("*.md"):
             meta = read_front_matter(path)
             if "id" in meta:
                 previous[int(meta["id"])] = meta
+                text = path.read_text()
+                if NOTES_HEADING in text:
+                    previous_notes[int(meta["id"])] = text.split(NOTES_HEADING, 1)[1].strip()
 
     catalog_sources: dict[int, list[str]] = {}
     if CATALOG and CATALOG.exists():
@@ -93,9 +119,11 @@ def main() -> None:
     for group, sid in items:
         title, lyrics = sections[sid]
         meta = dict(previous.get(sid, {}))
+        notes = previous_notes.get(sid, "")
         correction = CORRECTIONS / f"{sid}.json"
         if correction.exists():
             c = json.loads(correction.read_text())
+            notes = notes_from_correction(c)
             meta.update({
                 "language": c.get("language", ""),
                 "lyricist": c.get("lyricist", ""),
@@ -122,7 +150,8 @@ def main() -> None:
         front = "\n".join(f"{k}: {json.dumps(meta[k], ensure_ascii=False)}" for k in FIELDS)
         # Two trailing spaces make a Markdown hard line break, so stanzas render as written.
         body = "\n".join(line + "  " if line.strip() else "" for line in lyrics.split("\n"))
-        (SONGS / name).write_text(f"---\n{front}\n---\n\n# {title}\n\n{body}\n")
+        tail = f"\n{NOTES_HEADING}\n\n{notes}\n" if notes else ""
+        (SONGS / name).write_text(f"---\n{front}\n---\n\n# {title}\n\n{body}\n{tail}")
         rows.append((group, title, name, meta))
 
     for path in SONGS.glob("*.md"):

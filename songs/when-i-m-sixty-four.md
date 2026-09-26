@@ -16,3 +16,7 @@ references: []
 # When I'm Sixty-Four
 
 (Texti vantar – sjá nótur.)  
+
+## Notes
+
+- skipped: copyrighted commercial lyric

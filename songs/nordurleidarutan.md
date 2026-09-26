@@ -25,3 +25,10 @@ Holtavörðuheiði hendumst við á skeiði.
 Oní Hrútafjörð í reykjarstrók,  
 hún Begga Skúla frá Hlíð,  
 Hrútafjörður, Hrútafjörður...  
+
+## Notes
+
+- **Stanzas:** 2 set in the score, 2 written here.
+- **Form:** Swing tune, TTB-ish 3-part harmony (Tenor + two Bass parts) singing the same text in harmony throughout — one text line kept per system, harmony parts not duplicated. Bars 30-33 are a wordless 'Millispíl' (instrumental interlude), not sung. Bars 35-40 repeat and echo the word 'Hrútafjörður' as a fading close; written once here as 'Hrútafjörður, Hrútafjörður...' rather than expanding every repetition shown in the score.
+- No published source found online (searched for the title and distinctive lines/place names); this appears to be a local novelty/comic song about riding the Norðurleið long-distance bus north over Holtavörðuheiði through Hrútafjörður (the fjord is a running Icelandic joke for its meat/bonemeal-plant smell, hence 'reykjarstrók'). Transcribed directly from the engraved score text (embedded PDF text, not OCR), which is clean and reliable; verified against page images. Resolved the score's 'O' NÍ HRÚ-TA-FJÖRÐ-Í REYK-JAR-STRÓK' as 'Oní Hrútafjörð í reykjarstrók' (oní = ofan í, colloquial 'down into'; Hrútafjörð + í + reykjarstrók = 'into Hrútafjörður, into a plume of smoke'), not the dative 'Hrútafirði', since the syllables split as fjörð + í. Kept the colloquial contraction 'allbest' (líður allbest) as sung, since it fits the casual, joking tone of the song; not a genuine spelling error. Kept the title's spelling 'Norðurleiðarútan' (single r) as printed on the score and as sung in bar 17 ('NOR-ÐUR-LEI-ÐA-RÚ-TAN'), even though the etymologically expected compound of Norðurleið(ar) + rúta would take a double r ('Norðurleiðarrútan'); the score is consistent with a single r throughout so it is kept as the score's own spelling rather than 'corrected' without a source.
+- **Needs a human check against the score.**

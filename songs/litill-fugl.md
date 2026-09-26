@@ -45,3 +45,10 @@ Undarlegt að enginn skyldi
 að því snilldarverki dást.  
 
 (Viðlag)  
+
+## Notes
+
+- **Stanzas:** 8 set in the score, 8 written here.
+- **Form:** Four strophic verses, each followed by the same chorus ('Þykist öðrum þröstum meiri...'), per the score's repeat bracket (mm.6-17 repeat after every verse). Chorus written in full after verse 1, marked (Viðlag) after verses 2-4. The score restates verse 4's own last two lines ('Undarlegt að enginn skyldi, að því snilldarverki dást') once more in harmony as a closing flourish; not duplicated in the text.
+- glatkistan.com prints the chorus and the last two verses ('Skín úr augum...' and 'Litli fuglinn ljóða vildi...') a second time, apparently reflecting how a particular recording (Vilhjálmur Vilhjálmsson) repeats them — but the score here is a plain 4-verse strophic setting with the chorus recurring after each verse, so only one full pass through was written, matching the score's actual form.
+- **Proofread:** no changes

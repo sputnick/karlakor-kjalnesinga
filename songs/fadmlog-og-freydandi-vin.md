@@ -47,3 +47,10 @@ eru freistingin mín
 og hið freyðandi vín.  
 
 Við okkar söng, við okkar söng, já söng.  
+
+## Notes
+
+- **Stanzas:** 5 set in the score, 5 written here.
+- **Form:** Icelandic words (Bjarki Árnason) to Gerhard Winkler's German 'Chianti-Lied', recorded by Karlakór Selfoss on the album 'Í ljúfum lækjarhvammi'. Straightforward 5-part form: an opening 'tra la la' verse, two short parallel verses ('Svo léttist lundin mín' / 'Og máninn mildur skín'), a longer closing verse, and a short closing tag.
+- This correction replaces an earlier draft built from painstaking transcription of the choir's own handwritten manuscript score (which is genuinely hard to read - e.g. its 'smáan' is actually 'saman', its blurred 'meyjalund' is 'meyjafund', and what looked like two simultaneous, different tenor/bass texts around 'ertu draumur söngvarans' turned out to be one single continuous verse). A Firecrawl search found the full published text on Glatkistan, sourced from the commercial recording, used verbatim here (with 'leiðumt' corrected to the standard 'leiðumst').
+- **Proofread:** no changes

@@ -31,3 +31,10 @@ Ez tette Rómát föld urává,
 Ez Marathont s Budavárt híressé.  
 
 Szabad nép, szabad nép!  
+
+## Notes
+
+- **Stanzas:** 3 set in the score, 4 written here.
+- **Form:** Zoltán Kodály's 1936 four-part canon on Berzsenyi's ode 'A magyarokhoz' (1807). It sets only stanzas 1, 5 and 6 of the poem's six four-line stanzas (omitting stanzas 2-4, which describe contemporary Napoleonic-era wars in Prussia/the Baltic/the Balkans and are not sung here), then adds a repeated 'Szabad nép, szabad nép!' ('Free people!') exclamation as a coda not present in Berzsenyi's original text - written once here since it is genuinely the only text the choir sings at that point. As a canon the same words are sung by each voice part in staggered imitative entries; this is the canon's construction, not voice-part duplication, so each line of text was written only once.
+- Composer is not printed on the score itself (only 'Berzsenyi, 1807' and '(1936)', plus '© 1936 by Magyar Kórus, Budapest'); identified as Kodály's well-known canon via web search. Used the mek.oszk.hu (National Library of Hungary) text for standard spelling/punctuation, e.g. 'Erynnis' (not the score's 'Erinnys') and 'Nem sokaság, hanem' with a comma. The choir's own Vor 2017 programme also credits it 'Höf: Zoltán Kodály. Texti: Dániel Berzsenyi', matching.
+- **Proofread:** no changes

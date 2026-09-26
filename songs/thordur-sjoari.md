@@ -43,3 +43,9 @@ En oft þegar sjóhetjur setjast
 að sumbli og liðkast um mál,  
 þá tæma þeir ölkollu honum til heiðurs  
 og hrópa af fögnuði skál.  
+
+## Notes
+
+- **Stanzas:** 2 set in the score, 2 written here.
+- **Form:** TTBB arrangement (útsetning: Carl Billich) layers the two verses in overlapping duet/canon texture (one voice carries verse 1 while another simultaneously carries verse 2), converging on a single shared refrain. Text given here in normal reading order: verse 1, refrain, verse 2. 'La la la' vocalise fill between phrases omitted as non-lyric filler.
+- Title changed from 'Þórður Sjóari' to 'Þórður sjóari' (sentence case; 'sjóari' is a common noun, not a proper name).

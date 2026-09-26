@@ -23,3 +23,10 @@ Skafl beygjattu skalli,
 þótt skúr á þig falli.  
 Ást hafðir þú meyja,  
 eitt sinn skal hver deyja.  
+
+## Notes
+
+- **Stanzas:** 1 set in the score, 1 written here.
+- **Form:** 13th-century lausavísa (from Sturlunga saga, recited by Þórir Jökull before his execution), set for men's choir (Kötlumót í Reykjanesbæ commission). The single 8-line vísa is repeated many times by different voice entries/sections through the piece; given once here as instructed.
+- Title capitalised from 'upp skal á kjöl klífa' to 'Upp skal á kjöl klífa'.
+- **Proofread:** no changes

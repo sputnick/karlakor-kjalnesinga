@@ -24,3 +24,10 @@ Nú er söngurinn hljóður og horfinn,
 aðeins hljómar frá bjöllunnar klið.  
 Allt er hljótt yfir langferða leiðum  
 þess er leitar að óminni og frið.  
+
+## Notes
+
+- **Stanzas:** 2 set in the score, 2 written here.
+- **Form:** Subtitled 'Bílavísur' (car/driving verses); Freysteinn Gunnarsson's free ('frjálst í flutningi') Icelandic translation of a Russian folk tune, 2 verses, no refrain or repeats.
+- Confirmed via Firecrawl search and cross-checked against sol.heimsnet.is, two Morgunblaðið clippings on timarit.is (2013/2014) and guitarparty.com, all matching this transcription's wording exactly (translator: Freysteinn Gunnarsson). Adopted the published source's line breaks in place of the score's own mid-phrase wrapping.
+- **Proofread:** no changes

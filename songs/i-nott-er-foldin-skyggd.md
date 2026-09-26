@@ -38,3 +38,10 @@ og kærleiksorða njótum.
 og sorgar múra brjótum.  
 
 (Viðlag)  
+
+## Notes
+
+- **Stanzas:** 3 set in the score, 3 written here.
+- **Form:** Two short verses (4 lines each) are sung back to back to the same repeated melodic phrase (matching the score's 1st/2nd-ending bracket over that music), followed by a single full pass of the 6-line chorus ('Og mitt hjarta er rótt...'). A third 4-line verse ('Kom öll, kom eitt á vinamót...') is printed as plain text below the notation in the score; on the recording the chorus is then repeated again as an outro, marked here with (Viðlag) rather than duplicated.
+- Text confirmed via a chord/lyrics chart (guitarparty.com) that exactly matches the score's music-line structure (same chord progression, same verse/chorus grouping) and credits Svavar Knútur for both words and music, consistent with the score's 'SKK Svavar Knútur Kristinsson' credit. This corrects an earlier draft made from the score alone, which had mis-split the verse/chorus boundary (had merged the word 'þrýtur' onto the wrong verse and assumed the chorus repeated after every verse instead of once after both verses).
+- **Proofread:** "norðan vindur" → "norðanvindur" (stanza 2, line 1)

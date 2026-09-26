@@ -35,3 +35,9 @@ hvað yndislegt það er að vera til
 og ég lifi.  
 
 (Viðlag)  
+
+## Notes
+
+- **Stanzas:** 4 set in the score, 4 written here.
+- **Form:** Two verses plus a 4-line chorus ('Guð minn ég vil þakka þér...') that recurs unchanged after each verse; written in full after verse 1 and marked '(Viðlag)' after verse 2, per formatting rules. Choral arrangement (útsetning) by Aðalheiður Þorsteinsdóttir and Magnús Kjartansson, with a soloist on the 2nd chorus and a closing 'La la la la la' vocalise for the tenors, which is omitted as filler.
+- Matched word-for-word against icetones.se/guitarparty.com; the score's OCR agrees with this text throughout wherever it is legible.

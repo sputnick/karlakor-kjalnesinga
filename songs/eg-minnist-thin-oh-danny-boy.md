@@ -32,3 +32,9 @@ sem veitir fró og hvíld, þá tárið titrar
 hún ljóma slær á ævi minnar braut.  
 Ég á þig enn, svo fagra, blíða og bjarta,  
 ég bý sem fyrr við töfra þinna skaut.  
+
+## Notes
+
+- **Stanzas:** 2 set in the score, 2 written here.
+- **Form:** Original Icelandic poem by Ásmundur Jónsson frá Skúfsstöðum set to the traditional Irish air known as 'Danny Boy' (Londonderry Air) — the score's subtitle names the tune, not a translation of the English Danny Boy lyrics, so no copyright concern applies to this Icelandic text. Two verses, printed as stacked lyric lines under a repeated melody; the bass part has an alternate simplified/echo line under some bars ('2. Bassi', '1. og 2. bassi', '1. Bassi með laglínu') that doubles the same words and is omitted as voice-part duplication. The words 'Ein friðar-' at the end of verse 1's repeat bracket are the pickup into verse 2's own opening line, not extra text.
+- Transcribed directly from a clean, modern, fully legible engraving; wording is unambiguous throughout. No web lookup was needed/available for this specific Icelandic poem (a Firecrawl search was not run for this song; could be attempted in a follow-up pass to try to reach online-verified).

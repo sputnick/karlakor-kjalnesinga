@@ -32,3 +32,9 @@ Sú bæn er mín, ég bið til þín
 að þú efist ekki um þessi orð  
 er ég skrifa um borð.  
 Ég hugsa heim til þín, ástin mín.  
+
+## Notes
+
+- **Stanzas:** 1 set in the score, 1 written here.
+- **Form:** Through-composed pop ballad, útsett by Páll Helgason for TTBB; all four voice parts sing the same words in harmony (no separate verse text per part), sung through once.
+- Domestic Icelandic pop song (not an internationally published song), so it is handled as an ordinary correction rather than under the copyrighted-commercial-song skip rule.

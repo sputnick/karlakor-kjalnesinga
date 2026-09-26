@@ -44,3 +44,10 @@ Nú er of seint um slíkan hlut að fást.
 er nú konuefni stórútgerðarmanns.  
 Ég er ráðinn fyrir skolli drjúgan skilding annað kvöld,  
 til að skemmta í brúðkaupinu hans.  
+
+## Notes
+
+- **Stanzas:** 3 set in the score, 3 written here.
+- **Form:** Strophic song: verse 1's words are written out under the music (with a 1st/2nd- vs 3rd-verse rhythmic variant bracketed at the final couplet); verses 2 and 3 are printed as plain text below the music on page 2 (two columns), to be sung to the same tune. All three verses share the same 9-line structure.
+- Full text confirmed via Glatkistan (Icelandic music encyclopedia, recorded by Örvar Kristjánsson), which credits 'Lag / texti: erlent lag / Jón frá Ljárskógum' and matches the score almost word for word, including confirming 'skolli' (verse 3, 'Ég er ráðinn fyrir skolli drjúgan skilding...') as the genuine published wording, not a transcription error. check_song.py flags 'ljóð' in the first line as a possible credit marking; it is a genuine lyric word meaning 'poem/song', kept as-is. The tune's exact composer is unclear: other catalogue entries for this song (leitir.is, hljodsafn.is) link it to 'Den sköna Helén'/'Flickan i Peru' and variously credit Evert Taube, Hal(ifax) and Melle Weersma; since the score itself only shows an ambiguous 'R: H: Handy' credit and no single name could be confirmed, composer is left as 'Erlent lag' (foreign tune), matching Glatkistan's own credit.
+- **Proofread:** no changes

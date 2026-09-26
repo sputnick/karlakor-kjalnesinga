@@ -32,3 +32,11 @@ Hver endurminning er svo hlý
 að yljar köldu hjarta.  
 Hver saga forn er saga ný,  
 um sólskinsdaga bjarta.  
+
+## Notes
+
+- **Stanzas:** 2 set in the score, 2 written here.
+- **Form:** Two 8-line stanzas. Raddsetning (arrangement): Jakob Tryggvason.
+- Matched against kvak.is, which agrees closely with the score's OCR fragments throughout (word order confirmed even where the OCR was badly scrambled). One small difference: the score's OCR reads 'bjó það skarti af rósum' where the reliable online text has the grammatically expected reflexive 'bjó sig skarti af rósum' (agreeing with neuter 'vorið'); used the online wording.
+- Coordinator: followed the score wording ("bjó það skart") over the online text.
+- **Proofread:** no changes

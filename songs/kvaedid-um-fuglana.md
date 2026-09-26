@@ -34,3 +34,10 @@ og sameinar með töfrum loft og jörð.
 Um varpann leikur draumsins perluglit.  
 Snert hörpu mína, himinborna dís,  
 og hlustið, englar Guðs í paradís.  
+
+## Notes
+
+- **Stanzas:** 4 set in the score, 4 written here.
+- **Form:** Well-known Davíð Stefánsson poem, all four verses set straight through (1-4, numbered in the score) to the same music, no refrain.
+- Text confirmed against snerpa.is's Textasafn, which credits the same poet/composer pair and matches the score verse-for-verse, including the score's 'sungið í þá líf' phrasing (not the more expected 'það er líf').
+- **Proofread:** no changes

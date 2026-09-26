@@ -23,3 +23,9 @@ virstu' að leiða ráð þess allt.
 yfir lands vors hæð og dal.  
 Ljós þitt glæð í lýðsins hjörtum,  
 ljós, er aldrei slokkna skal.  
+
+## Notes
+
+- **Stanzas:** 1 set in the score, 1 written here.
+- **Form:** Single-stanza patriotic hymn (1915), text matches the score's OCR closely; both independent online sources agree on the same single stanza.
+- **Proofread:** no changes

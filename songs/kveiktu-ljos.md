@@ -29,3 +29,10 @@ enga sorg finna má.
 Kveiktu ljós, læstu fljótt,  
 þá líða mun nótt,  
 með oss tvö ein í töfrandi heim.  
+
+## Notes
+
+- **Stanzas:** 1 set in the score, 1 written here.
+- **Form:** Icelandic text set to Tom Springfield's melody ('World of Our Own'). One continuous verse, sung three times in the arrangement with different forces each pass (solo voice 1st time, tenor+bass with words 2nd time, 'úú' vocalise 3rd time per the score's 'Bara í 1X' / 'Bara í 2X, Úú í 3x' markings); since the words are identical each time the melody repeats, they are written out only once here.
+- Full text confirmed via Glatkistan (Icelandic music encyclopedia), which credits 'Lag / texti: erlent lag / Hafliði Guðmundsson' and gives the same text (recorded by Karlakórinn Vísir); two small corrections from the initial score-only reading: 'Bakkusarvöld' and 'blekkingarkvöld' as single compound words, and the closing line 'með oss tvö ein í töfrandi heim' rather than 'tvö inn í'.
+- **Proofread:** no changes

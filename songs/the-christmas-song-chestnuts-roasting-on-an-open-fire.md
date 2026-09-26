@@ -16,3 +16,7 @@ references: []
 # The Christmas Song (Chestnuts Roasting on an Open Fire)
 
 (Texti vantar – sjá nótur.)  
+
+## Notes
+
+- skipped: copyrighted commercial lyric

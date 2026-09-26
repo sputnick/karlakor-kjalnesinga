@@ -32,3 +32,10 @@ Og stormur þurrkar segl í svip
 þótt setji' um stund í bleyti,  
 og alltaf má fá annað skip  
 og annað föruneyti.  
+
+## Notes
+
+- **Stanzas:** 2 set in the score, 2 written here.
+- **Form:** Two-verse strophic song; both verses' text is printed stacked (verse 1 above, verse 2 below) under one melody line and were reassembled in singing order. A four-bar wordless vocalise ('Bam bam ba ba ba bam bam...') opens the piece before the sung pickup words '1) Já' / '2) Og'; this is a hummed introduction, not part of either verse's text, so it was left out per the vocalise-filler rule.
+- Found and confirmed via Firecrawl search (Bragi óðfræðivefur/ismus.is, a personal blog quoting the poem, and timarit.is) after the session's WebSearch budget had run out; this corrects a few words from an earlier score-transcribed pass ('byrðing einum traustum' not 'eintraustum'; comma after 'mundu' in verse 2) and confirms the previously-uncertain 'upp þær' phrase.
+- **Proofread:** no changes

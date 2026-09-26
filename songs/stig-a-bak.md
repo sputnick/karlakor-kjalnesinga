@@ -47,3 +47,10 @@ Allt frá ættfeðra tíðum hann á sína rót,
 bar hann Egil og Snorra og Njál,  
 yfir bruna og grjót, yfir beljandi fljót.  
 Hann var brauð okkar, gull vort og stál.  
+
+## Notes
+
+- **Stanzas:** 2 set in the score, 2 written here.
+- **Form:** Two verses about horseback riding. The score opens with a repeated imitative 'Stíg á bak, stíg á bak...' motif (tenor and bass echoing each other on the same words) before the first full verse; glatkistan.com's lyric sheet omits that repeated opening line, but it is clearly sung in the score (and gives the song its title), so it is kept here as the first line. The second verse's closing couplet ('Allt frá ættfeðra tíðum...gull vort og stál') is written twice in the score as a literal musical repeat with identical words; written once here, matching glatkistan's text.
+- Matched against glatkistan.com, which resolved several previously-uncertain readings from the scanned score: 'allar gnægðir og peli í mál' (peli = flask, not 'pel'), and confirmed 'verður ljósblik á altari hans. Hér er Íslendings sál...' as the correct sentence break (previously mis-split).
+- **Proofread:** no changes

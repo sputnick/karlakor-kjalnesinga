@@ -30,6 +30,12 @@ Trampa, trampa, trampa - dansinn duna skal!
 Öl og vínin gullinbjörtu gleðja oss hér,  
 gamlingjarnir sofna' og hrjóta hvar sem er, af þeim leggur leiðan daun.  
 Meyjaskarinn ljómar eins og rauðasta rós, ríkulega skal þeim flytja vegsemd og hrós,  
-ríkulega veitist vegsemd og hrós.  
+já, ríkulega veitist vegsemd og hrós.  
 
 (Viðlag)  
+
+## Notes
+
+- **Stanzas:** 3 set in the score, 4 written here.
+- **Form:** Score is through-composed: verse A (dance invitation, mm.1-37) then verse B (drinking/toasting, mm.38-71ish) then verse A repeats note-for-note (mm.72-116, including its own 'Trampið taktinn' ending). The repeat of A is marked '(Viðlag)' instead of writing it out a second time, per the no-duplication rule. 'GP' (general pause) markings and repeated 'hæ'/'ropa' vocal interjections beyond the first statement were trimmed as filler.
+- No original Swedish text or lyricist name is printed on the score; only 'August Söderman (1832-1876)' as composer and 'Reynir Guðsteinsson íslenskaði' / 'Þýðing - Karlakór Reykjavíkur 2001' at the foot. Could not find this Icelandic translation or a matching Söderman original text online (searched 'Heima í bóndans koti dans duna skal' and 'Á brúðarbænum Söderman Reynir Guðsteinsson'), so transcribed directly from the clearly legible score images. The apostrophes in 'Heima'' and 'sofna'' mark sung elisions in the original and were kept. Upgrade pass: two more Firecrawl searches (on the distinctive middle line 'Meyjaskarinn fríður tiplar tánum á' and on 'Á brúðarbænum Söderman Reynir Guðsteinsson texti') found no online copy of this translation or a matching Söderman source text - it appears not to be published online. Re-read the full 6-page score directly (not just OCR/vision hints) line by line and confirmed the existing transcription word-for-word, including the two elided words 'Heima'' and 'sofna''. One short word had been missed: the interjection 'já,' sung between the two closing statements of the last verse (score m.63-65, between '...vegsemd og hrós.' and the repeated 'ríkulega veitist vegsemd og hrós.'), now added. Otherwise unchanged. Given this second independent direct read matches closely, confidence is now high enough to drop needs_second_pass.

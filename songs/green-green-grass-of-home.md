@@ -16,3 +16,7 @@ references: []
 # Green Green Grass of Home
 
 (Texti vantar – sjá nótur.)  
+
+## Notes
+
+- skipped: copyrighted commercial lyric

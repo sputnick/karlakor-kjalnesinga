@@ -34,3 +34,10 @@ Anda þinn lát æ mér stjórna,
 auðsveipan gjör huga minn  
 og á þinnar elsku vegum  
 inn mig leið í himin þinn.  
+
+## Notes
+
+- **Stanzas:** 4 set in the score, 4 written here.
+- **Form:** Sálmabók íslensku kirkjunnar nr. 534: Steingrímur Thorsteinsson's 1917 translation of Agnes Franz's German hymn 'Lieber Vater, hoch im Himmel', sung to Johann F. Reichardt's tune. All four verses printed stacked under one melody in the score (No. 12 in an unidentified TTBB hymn collection), reassembled in singing order.
+- Retrieved the definitive text from the Þjóðkirkjan hymnal API (api.kirkjan.is/api/hymns) after the session's web-search budget ran out; it matches the score's readable text exactly.
+- **Proofread:** no changes

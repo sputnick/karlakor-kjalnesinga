@@ -28,3 +28,10 @@ ei byljir storma dalnum fagra granda,
 og hér er hlýtt í hlíðum og heitt við meyjar barm;  
 hjarta trútt hafa snótir dala,  
 hjarta trútt, hreint sem lindin svala.  
+
+## Notes
+
+- **Stanzas:** 2 set in the score, 2 written here.
+- **Form:** Score prints both stanzas as numbered underlay (1./2.) below one melodic line, each stanza 6 lines with a short rhymed closing couplet; no separate refrain.
+- Song no. 1 'Í fögrum dal' from Söngleg úr sjónleiknum Piltur og Stúlka (songs from the play version of Jón Thoroddsen's novel 'Piltur og stúlka'), music by Emil Thoroddsen. Text matches LiederNet's transcription exactly and corroborates the score's own OCR fragments word for word (e.g. 'sæludal sólar geislar hlúa' and 'hjarta trútt, hreint sem lindin svala'). LiederNet notes the author's text has not been checked against a primary source, but the close match to the score's own OCR gives high confidence.
+- **Proofread:** no changes

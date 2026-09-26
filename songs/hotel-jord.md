@@ -54,3 +54,10 @@ reikninginn yfir það sem skrifað var hjá oss.
 né færi á að ráðstafa nokkru betur  
 því alls sem lífið lánaði dauðinn krefst  
 í líku hlutfalli og Metúsalem og Pétur.  
+
+## Notes
+
+- **Stanzas:** 8 set in the score, 8 written here.
+- **Form:** Sung continuously through as one long setting of Tómas Guðmundsson's poem, both voice parts carrying the same words throughout (no duplication to remove). The published text (glatkistan.com) is printed without stanza gaps; the eight 4-line stanzas above follow the poem's own sentence/rhyme structure and match how the score itself breathes the text.
+- Confirmed against the published text at glatkistan.com, which credits words and music as "Heimir Sindrason / Tómas Guðmundsson" and notes the song appears on the LP 'Óskalögin 3 - ýmsir'. Corrected the score's split "Til vera" to the published single word "Tilvera" (existence/being), and "þægileg sæti" to the grammatically correct "þægilegt sæti" (neuter agreement), matching the published text. One likely typo in the online source, "reikningin" (missing final n), was corrected to the grammatically required "reikninginn" (accusative definite of reikningur), which is also what the score itself clearly sets.
+- **Proofread:** no changes

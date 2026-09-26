@@ -50,3 +50,10 @@ Stundum þeim er þrekið brýnt og kraftur
 þögul höfuð féllu tár um kinn.  
 En sama rósin sprettur aldrei aftur,  
 þótt önnur fegri skreyti veginn þinn.  
+
+## Notes
+
+- **Stanzas:** 4 set in the score, 4 written here.
+- **Form:** Written for duet soloists and men's choir ('fyrir dúett[ og] karlakór'); all four quatrains of Guðmundur Guðmundsson's poem are sung, in original order, útsett by Þórður Sigurðarson.
+- Corrected an apparent typo in the online source's final line ('skreyti veginn þin' -> 'skreyti veginn þinn') to restore the kinn/þinn rhyme; the score's OCR agrees with 'þinn'. Proofread: line 33 'þögul höfuð' may be an old misprint for 'höfug' (heavy tears), but both the online source and the score have 'höfuð', so it is left as is.
+- **Proofread:** "gamla æsku drauma" → "gamla æskudrauma" (line 19; compound, gamla agrees with drauma); "að þú grætur." → "að þú grætur?" (line 7; Hvort-question)

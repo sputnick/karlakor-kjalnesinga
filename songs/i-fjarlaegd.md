@@ -24,3 +24,10 @@ Heyrirðu ei, þig hjartað kallar á?
 Heyrirðu ei storm er kveðju mína ber?  
 Þú fagra minning eftir skildir eina,  
 sem aldrei gleymist meðan lífs ég er.  
+
+## Notes
+
+- **Stanzas:** 2 set in the score, 2 written here.
+- **Form:** Through-composed art song, Op. 1 nr. 1, framed by a wordless 'Aha-a-ah' vocalise intro and outro (not lyric text). The two 4-line stanzas of Valdimar Hólm Hallstað's poem are sung once each in full; no repeats or refrain.
+- Text confirmed verbatim (including the stanza break) against LiederNet Archive's raw text. The choir's own engraved score reads 'tengir' in line 2 where every other source (LiederNet, web summaries) has 'tengdir'; treated as a minor engraving slip and corrected to the standard published word 'tengdir'. The wordless vocalise ('Aha, ah, ah') at start/end is not included in lyrics per the no-vocalise-filler rule.
+- **Proofread:** no changes

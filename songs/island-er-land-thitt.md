@@ -41,3 +41,10 @@ references: ["https://www.snerpa.is/allt_hitt/textasafn/Island_er_land_thitt", "
 íslenska moldin, er lífið þér gaf.  
 Ísland sé falið þér, eilífi faðir.  
 Ísland sé frjálst, meðan sól gyllir haf.  
+
+## Notes
+
+- **Stanzas:** 3 set in the score, 3 written here.
+- **Form:** Score is a unison (Unís) arrangement in F major modulating to G major for stanza 3; all 3 stanzas are printed as plain text (stanza 1 under the opening melody, stanzas 2-3 as text blocks after), no refrain.
+- Text confirmed verbatim against snerpa.is's textasafn (matching glatkistan.com and guitarparty.com), which also credits the same authors as the score's OCR: poem by Margrét Jónsdóttir, music by Magnús Þór Sigmundsson. This corrects two words an earlier score-only draft had guessed wrong: 'Ísland að feðranna afrekum hlúði' (not 'á feðranna afrekum') and 'Íslensk er sú lind, sem um æðar þér streymir' (not 'um aldir þér streymir').
+- **Proofread:** added missing comma at end of stanza 2 line 1 ("...geymir,")

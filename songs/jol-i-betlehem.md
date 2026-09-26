@@ -25,3 +25,10 @@ Um nótt grætur glugginn minn,
 gleðitárin renna niður kinn,  
 vindur feykir fönn af stað fagnandi,  
 þá veit ég að Jesúbarnið sé um jól í Betlehem.  
+
+## Notes
+
+- **Stanzas:** 2 set in the score, 2 written here.
+- **Form:** Score alternates wordless vocalise ('Aa') sections (A, B, D, all optional/hummed) with two sung verses (C, mm.57-70, and E, mm.108-131). Vocalise sections carry no lyric text and are omitted. The tail of verse E ('vindur feykir fönn af stað fagnandi, þá veit ég að Jesúbarnið sé um jól í Betlehem') is echoed again with a short 'Jól í Betlehem' coda tag at the very end (mm.119-131); this musical repeat has not been duplicated in the text.
+- This is Hera Björk's Christmas song 'Jól í Betlehem' (the score's filename 'HERA 2016' refers to her, not a choir); Scandipop's track listing for her album 'Ilmur af jólum II' credits it 'Lag: E. Macias, Texti: Kristján Hreinsson' (music by Enrico Macias), confirming lyricist/composer, but the exact sung words could not be found published anywhere online (no lyrics site has transcribed this track), so the text itself is still a direct transcription from this score's note-underlay.
+- **Needs a human check against the score.**

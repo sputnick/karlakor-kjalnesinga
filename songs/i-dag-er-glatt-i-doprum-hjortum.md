@@ -59,3 +59,10 @@ er hingað komst á jörð.
 á meðan hjartað nokkuð kann sig bæra,  
 hvert andartak, hvert æðarslag  
 Guðs engla syngi dýrðarlag.  
+
+## Notes
+
+- **Stanzas:** 5 set in the score, 5 written here.
+- **Form:** The score's own printed text block ('Með sínu lagi') after the notated first stanza gives all 5 numbered stanzas in full 8-line form; the notation itself only sets stanza 1 under the melody. Repeat marks (:,: ... :,:) around each stanza's last two lines are a sung musical repeat and are not duplicated in the text.
+- Hymn 'Sb. 1886' by Valdimar Briem, sung to a borrowed/foreign melody (per secondary sources, commonly attributed to W. A. Mozart). Stanzas 1-3 confirmed word-for-word against secondary summaries (Vísir 'Sálmur 78', glatkistan.com); glatkistan.com explicitly names this as a 5-stanza hymn recorded by Karlakór Kjalnesinga itself on the album 'Kemur heilög hátíð', confirming the 5-stanza form matches this score. Stanzas 4-5 were reconstructed directly from the score's own printed stanza text (OCR), with spelling normalized to standard Icelandic and line breaks restored to match the meter of stanzas 1-3 (the OCR ran two short lines together); 'Guðs engla syngi dýrðarlag' was corrected to nominative 'Guðs englar syngi dýrðarlag' as required by the grammar (englar is the subject of syngi). Elision apostrophes ('vertu' ei', 'harmi' og') are kept as printed in the source/secondary text.
+- **Proofread:** Verse 4 and 5 fixed against the score's own printed text (p. 2, 'Með sínu lagi', Sb. 1886): lines 2 and 3 of verse 4 swapped into printed order; 'uppi um' → 'uppi' um'; 'himins bjóða' → 'himins þýða' (OCR þ/b); 'frið á jörðu / ... barnahjörðu' → 'frið á jörð / ... barnahjörð'; verse 5 'komst á jörðu' → 'komst á jörð' (rhymes with 'hjörð'); reverted 'Guðs englar syngi' to the printed 'Guðs engla syngi' (the subject is 'hvert andartak, hvert æðarslag'; 'Guðs engla dýrðarlag' is the object) and dropped the comma before it. Verses 4-5 now match the printed text, so needs_second_pass cleared.

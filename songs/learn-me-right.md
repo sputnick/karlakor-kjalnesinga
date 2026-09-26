@@ -16,3 +16,7 @@ references: []
 # Learn me right
 
 (Texti vantar – sjá nótur.)  
+
+## Notes
+
+- skipped: copyrighted commercial lyric

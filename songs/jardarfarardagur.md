@@ -44,3 +44,10 @@ að þetta er fallega meint,
 en sorgina ég missti  
 er ég kistusmiðinn kyssti,  
 þú kemur því góði of seint."  
+
+## Notes
+
+- **Stanzas:** 5 set in the score, 5 written here.
+- **Form:** Unison song, 5 stanzas of 5 lines each, sung straight through in order with no refrain; the score repeats the final line as a musical closing flourish ('Þú kemur góði, allt, allt of seint, of seint!'), not written as extra lyric text.
+- Text confirmed verbatim against glatkistan.com, which credits the same authors (Sigurður Þórarinsson/texti, Þórir Baldursson/lag) as the score and notes the original recording (Savanna tríóið - Þjóðlög og gamanvísur). The score's arrangement is for the choir's 'Katla' group performing at 'Kötlumót í Reykjanesbæ'; 'Eftirgerð bönnuð' (reproduction prohibited) on the score is a copyright notice, not lyric text.
+- **Proofread:** no changes
