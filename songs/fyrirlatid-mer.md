@@ -1,6 +1,6 @@
 ---
 id: 99
-title: "Fyrirlátið mér, faðirinn sæti"
+title: "Fyrirlátið mér"
 group: "extra"
 key: ""
 language: "is"
@@ -13,7 +13,7 @@ sources: ["sheetmusic/fyrirlátið mér - katla.pdf"]
 references: ["https://www.snerpa.is/net/kvaedi/lilja.htm", "https://heimskringla.no/wiki/Lilja_(Eysteinn_%C3%81sgr%C3%ADmsson)", "https://timarit.is/page/1855195", "https://www.youtube.com/watch?v=a35LouZiPM0"]
 ---
 
-# Fyrirlátið mér, faðirinn sæti
+# Fyrirlátið mér
 
 Fyrirlátið mér, faðirinn sæti,  
 fyrirlátið mér, eg vil gráta  

@@ -1,6 +1,6 @@
 ---
 id: 103
-title: "Glaðir sem fuglar á grænum meiði"
+title: "Glaðir sem fuglar á grænum meiði (Glad såsom fågeln)"
 group: "extra"
 key: ""
 language: "is"
@@ -13,7 +13,7 @@ sources: ["sheetmusic/Glad saasom faageln.pdf"]
 references: ["https://sv.wikisource.org/wiki/V%C3%A5rs%C3%A5ng_(S%C3%A4therberg)", "https://www.ismus.is/bragi/ljod/333", "https://www.ismus.is/einstaklingar/1004340"]
 ---
 
-# Glaðir sem fuglar á grænum meiði
+# Glaðir sem fuglar á grænum meiði (Glad såsom fågeln)
 
 Glaðir sem fuglar á grænum meiði,  
 gróandi vori við heilsum í dag.  
