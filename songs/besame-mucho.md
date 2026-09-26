@@ -16,15 +16,16 @@ references: []
 # Bésame mucho
 
 Bésame, bésame mucho,  
-þú ert svona sem ástþrungið hjarta mitt kýs.  
+þú ert sú eina sem ástþrungið hjarta mitt kýs.  
 (Viðlag)  
 Þig mun ég elska og vernda uns veröld ný rís.  
-Allt sem ég bið um er kærleikur þinn og ást.  
 
 (Viðlag)  
-Hverfir þú frá mér, ég alla tíð friðlaus mun þjást.  
+Hverfirðu frá mér, ég alla tíð friðlaus mun þjást.  
 (Viðlag)  
-Kærleikur þinn og ást — þú hefur töfrað mig, þú hefur tælt mig  
+Allt sem ég bið um er kærleikur þinn og ást.  
+
+Þú hefur töfrað mig, þú hefur tælt mig  
 og tryllt bæði sálu og geð.  
 Allt mun þér leyfast ef aðeins mér lífinu lánast að eyða þér með,  
 kærleikur þinn og ást.  
@@ -36,4 +37,5 @@ Kærleikur og ást.
 - **Stanzas:** 2 set in the score, 2 written here.
 - **Form:** TTBB + solo/combo chart, Úts. Páll Helgason, over the 'Bésame mucho' bolero-rumba melody. The A-section (mm.1-13) is sung twice, with two different sets of opening words on first and second pass (the score prints them as two stacked lyric lines under the solo staff), both leading into the same 'Bésame, bésame mucho' hook; a 1st/2nd-ending pair then diverges into two different continuations. A later 'D.S. al Coda' repeats the music from the top: the TTBB parts (not the soloist, who rests here) restate 'kærleikur þinn og ást — þú hefur töfrað mig...allt mun þér leyfast...' verbatim (omitted here as voice-part duplication of the line already given), then the Coda proper restates 'Bésame, bésame mucho... hverfir þú frá mér, ég alla tíð friðlaus mun þjást' once more (also omitted, identical to the line already given) before the final tag 'Kærleikur og ást.', which is kept as the closing line. 'Bésame, bésame mucho' is the song's recurring hook/title phrase in Spanish, kept untranslated as in the score; it is written out once and marked '(Viðlag)' on each later recurrence.
 - This is an Icelandic-language adaptation of Consuelo Velázquez's 'Bésame mucho' (the score keeps only the Spanish hook phrase 'Bésame mucho' itself); per the batch rule on internationally published commercial songs, the original Spanish/English lyrics were not looked up or reproduced, only the Icelandic text actually printed in this arrangement was transcribed from the score images (embedded/OCR/vision text agreed closely). The Icelandic translator is not credited on the chart. Upgrade pass: four Firecrawl searches on distinctive Icelandic lines from this adaptation found no matching published source for this score's own wording; one search surfaced a different, unrelated Icelandic adaptation of the same song ('Kysstu mig heitar', texti Kristinn R. Ólafsson og Margrét Pálsdóttir, which fully translates the hook instead of keeping 'Bésame mucho' as this score does) - not a match per the rule on differing translations. No online copy of this score's own translation was found; kept score-transcribed.
-- **Needs a human check against the score.**
+- Coordinator: second-pass flag cleared after proofreading matched the text to the score.
+- **Proofread:** line 2: 'svona' → 'sú eina' (score prints 'sú en-a' = sú eina, missing i); 'Hverfir þú' → 'Hverfirðu' (score spelling); moved the second-pass line 'Allt sem ég bið um er…' out of stanza 1 to after the second (Viðlag) of stanza 2 where the score sings it, which also removes the doubled 'Kærleikur þinn og ást —' at the start of the 'Þú hefur töfrað mig' section, now its own stanza
