@@ -1,0 +1,17 @@
+---
+id: 181
+title: "Nella Fantasia"
+group: "extra"
+language: "it"
+lyricist: ""
+composer: "Ennio Morricone"
+translator: ""
+text_status: "skipped-copyright"
+needs_proofreading: true
+sources: ["sheetmusic/Nella Fantasia.pdf"]
+references: []
+---
+
+# Nella Fantasia
+
+(Texti vantar – sjá nótur.)  

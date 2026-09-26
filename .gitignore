@@ -1,0 +1,4 @@
+sheetmusic/
+.firecrawl/
+.playwright-mcp/
+__pycache__/
