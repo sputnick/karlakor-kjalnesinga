@@ -254,7 +254,7 @@ Recompute these figures on every sync. They are a baseline, not constants.
 
 `tools/update_index_from_catalog.py` rewrites two regions of `index.html` by regex: the list items between
 `<div id=list><div id=none>No matches</div>` and `</div></div>\n<div id=deck>`, and the sections between
-`<div id=deck>` and `</div>\n<script>`. Keep every other element (`#pbox`, `#pool`, `#sheet`, `#toastbox`)
+`<div id=deck>` and `</div>\n<script>`. Keep every other element (`#pdoc`, `#pool`, `#sheet`, `#toastbox`)
 *before* `<div id=panel>`, never between the deck and the script.
 
 Songbooks are user data in the browser (IndexedDB) and are not touched by a sync. There is no default
