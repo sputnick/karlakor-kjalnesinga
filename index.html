@@ -1,7 +1,7 @@
 <!doctype html><html><head><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'><title>Kjalnesingar · Lyrics</title><link rel=icon href="data:,">
 <style>
 body{margin:0;background:#111;color:#eee;font-family:-apple-system,sans-serif;overflow:hidden}
-#bar{position:fixed;top:0;left:0;right:0;height:60px;background:#1b1b1bdd;backdrop-filter:blur(10px);display:flex;align-items:center;padding:8px 6px;gap:6px;z-index:9}
+#bar{position:fixed;top:0;left:0;right:0;height:60px;background:#1b1b1bdd;backdrop-filter:blur(10px);display:flex;align-items:center;justify-content:center;padding:8px 6px;gap:6px;z-index:9}
 #deck{display:flex;height:100vh;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth}
 .song{min-width:100vw;height:100vh;scroll-snap-align:start;box-sizing:border-box;padding:72px 16px 16px;overflow:auto}
 h1{margin:0 0 12px;font-size:30px}.lyrics{font-size:28px;line-height:1.25;text-align:center}
@@ -22,8 +22,8 @@ button{background:#333;color:#fff;border:0;border-radius:8px;padding:8px 10px;wh
 .snip{display:block;margin-left:78px;margin-top:4px;color:#8a8a96;font-size:13px;font-style:normal;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .snip:empty{display:none}
 #none{padding:20px 16px;color:#8a8a96;display:none}
-#bar button{flex:1 1 0;min-width:0;height:44px;padding:0;font-size:18px;position:relative}
-#bar .songs{flex:1.7 1 0;font-size:16px}
+#bar button{flex:1 1 0;min-width:0;max-width:88px;height:44px;padding:0;font-size:18px;position:relative}
+#bar .songs{flex:1.7 1 0;max-width:150px;font-size:16px}
 body.listing .so{display:none!important}
 body.listing #bar .songs{flex:1 1 0}
 body.listing #bar .more{flex:0 0 56px}
@@ -77,7 +77,7 @@ body>*:not(#pbox){display:none!important}
 }
 </style></head><body>
 <div id=bar><button id=songsbtn class=songs onclick='toggle()'>☰ Songs</button><button class=so onclick='fs(-2)' aria-label='Smaller text'>A-</button><button class=so onclick='fs(2)' aria-label='Larger text'>A+</button><button id=prevbtn class=so onclick='move(-1)' aria-label='Previous song'>◀</button><button id=nextbtn class=so onclick='move(1)' aria-label='Next song'>▶</button><button id=morebtn class=more onclick='toggleMenu()' aria-label='More'>&#8943;</button></div>
-<div id=menu><button class=so onclick='toggleMenu(false);openSheet(curSec().id)'>&#128278;&nbsp;&nbsp;Add this song to a songbook</button><button class=so onclick='toggleMenu(false);printSong()'>&#128424;&nbsp;&nbsp;Print this song (A4)</button><span id=ver onclick='location.replace(location.pathname+"?v="+Date.now())' title='Útgáfa – smelltu til að sækja nýjustu'>10.10 12:43</span></div>
+<div id=menu><button class=so onclick='toggleMenu(false);openSheet(curSec().id)'>&#128278;&nbsp;&nbsp;Add this song to a songbook</button><button class=so onclick='toggleMenu(false);printSong()'>&#128424;&nbsp;&nbsp;Print this song (A4)</button><span id=ver onclick='location.replace(location.pathname+"?v="+Date.now())' title='Útgáfa – smelltu til að sækja nýjustu'>10.10 12:50</span></div>
 <div id=pbox><div id=pin></div></div>
 <div id=pool><section class="song" id="empty"><h1>Empty songbook</h1><div class="lyrics">Open ☰ Songs, switch to “All songs” and tap ＋ on a song to add it here.</div></section></div>
 <div id=sheet><div id=sbox><h2 id=stitle>Add to songbook</h2><div id=slist></div><div id=snew><input id=sname placeholder='New songbook…' maxlength=40 autocomplete=off><button id=sadd>Create</button></div><button id=sdone>Cancel</button></div></div>
@@ -142,7 +142,10 @@ function fs(d){
 }
 function applySizes(){PRISTINE.forEach(id=>{const v=sizes[id],l=document.getElementById(id).querySelector('.lyrics');l.style.fontSize=v?v+'px':'';});}
 
-function toggleMenu(force){menu.classList.toggle('show',force);}
+function toggleMenu(force){
+  const on=menu.classList.toggle('show',force);
+  if(on)menu.style.right=Math.max(6,innerWidth-morebtn.getBoundingClientRect().right)+'px';   // hang under the ⋯ button
+}
 addEventListener('click',e=>{if(menu.classList.contains('show')&&!e.target.closest('#menu,#morebtn'))toggleMenu(false);});
 // Controls that act on "the current song" (text size, previous/next, add to songbook, print) only make sense
 // while a song is showing, so they are hidden while the song list covers it, and disabled at the ends.
