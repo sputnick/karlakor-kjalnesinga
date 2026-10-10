@@ -20,6 +20,13 @@ vort eigið land, vort fósturland,
 sem framgjarns unglings höfuð hátt  
 þín hefjist fjöll við öldu slátt.  
 
+Þú álfu vorrar yngsta land,  
+vort eigið land, vort fósturland!  
+Þú gafst oss fagurt móðurmál  
+og mótað hefir vora sál.  
+Þú elur þá, sem elskum vér.  
+Allt, sem vér höfum, höfum vér frá þér.  
+
 Þótt þjaki böl með þungum hramm,  
 þrátt fyrir allt þú skalt, þú skalt,  
 samt fram, þú skalt samt fram,  
