@@ -249,3 +249,15 @@ Also provide `W/all-titles.json`, a list of `{id, title, curated_original}` for 
   → `085fdfb` → `3c2465a` → `17f9aeb` → `6f3c7ea` and the final proofreading commit; see `git log`.
 
 Recompute these figures on every sync. They are a baseline, not constants.
+
+## Page structure the updater depends on
+
+`tools/update_index_from_catalog.py` rewrites two regions of `index.html` by regex: the list items between
+`<div id=list><div id=none>No matches</div>` and `</div></div>\n<div id=deck>`, and the sections between
+`<div id=deck>` and `</div>\n<script>`. Keep every other element (`#pbox`, `#pool`, `#sheet`, `#toastbox`)
+*before* `<div id=panel>`, never between the deck and the script.
+
+Songbooks are user data in the browser (IndexedDB) and are not touched by a sync. The first-run "Concert"
+songbook is seeded once from the `data-g="concert"` items; after that `data-g` only matters for that seed.
+Songbooks hold song ids, so ids must stay stable. `sw.js` keeps `index.html` for offline use and needs no
+change when songs change.
