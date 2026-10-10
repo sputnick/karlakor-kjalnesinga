@@ -73,7 +73,7 @@ body>*:not(#pbox){display:none!important}
 }
 </style></head><body>
 <div id=bar><button class=songs onclick='toggle()'>☰ Songs</button><button onclick='fs(-2)' aria-label='Smaller text'>A-</button><button onclick='fs(2)' aria-label='Larger text'>A+</button><button onclick='move(-1)' aria-label='Previous song'>◀</button><button onclick='move(1)' aria-label='Next song'>▶</button><button id=morebtn class=more onclick='toggleMenu()' aria-label='More'>&#8943;</button></div>
-<div id=menu><button onclick='toggleMenu(false);openSheet(curSec().id)'>&#128278;&nbsp;&nbsp;Add this song to a songbook</button><button onclick='toggleMenu(false);printSong()'>&#128424;&nbsp;&nbsp;Print this song (A4)</button><span id=ver onclick='location.replace(location.pathname+"?v="+Date.now())' title='Útgáfa – smelltu til að sækja nýjustu'>10.10 12:37</span></div>
+<div id=menu><button onclick='toggleMenu(false);openSheet(curSec().id)'>&#128278;&nbsp;&nbsp;Add this song to a songbook</button><button onclick='toggleMenu(false);printSong()'>&#128424;&nbsp;&nbsp;Print this song (A4)</button><span id=ver onclick='location.replace(location.pathname+"?v="+Date.now())' title='Útgáfa – smelltu til að sækja nýjustu'>10.10 12:40</span></div>
 <div id=pbox><div id=pin></div></div>
 <div id=pool><section class="song" id="empty"><h1>Empty songbook</h1><div class="lyrics">Open ☰ Songs, switch to “All songs” and tap ＋ on a song to add it here.</div></section></div>
 <div id=sheet><div id=sbox><h2 id=stitle>Add to songbook</h2><div id=slist></div><div id=snew><input id=sname placeholder='New songbook…' maxlength=40 autocomplete=off><button id=sadd>Create</button></div><button id=sdone>Cancel</button></div></div>
@@ -83,7 +83,6 @@ body>*:not(#pbox){display:none!important}
 <script>
 // The lyrics ship inside this page and sw.js keeps the page for offline use. Songbooks (a name and
 // an ordered list of song ids) live in IndexedDB, see DB below. Font sizes stay in localStorage.
-// KEY_O is the old per-concert order; it is only read once, to seed the first songbook ("Concert").
 const KEY_O='kk.order.2',KEY_F='kk.fs',KEY_B='kk.book',DEF=28;
 try{localStorage.removeItem('kk.order')}catch(e){}
 const deck=document.getElementById('deck'),pool=document.getElementById('pool'),emptySec=document.getElementById('empty');
@@ -91,7 +90,6 @@ const secs=()=>[...deck.children];
 const PRISTINE=secs().map(s=>s.id);              // built-in order of all songs, captured before anything moves
 const ALL=new Set(PRISTINE);
 const itemOf=id=>list.querySelector('.item[data-i="'+id.slice(1)+'"]');
-const groupOf=id=>{const it=itemOf(id);return it?it.dataset.g:'extra';};
 let cur=0,sizes=load(KEY_F,{});
 let books=[],active='',inView=new Set(PRISTINE);   // active: songbook id, '' = All songs
 const book=id=>books.find(b=>b.id===id);
@@ -100,7 +98,7 @@ const activeBook=()=>book(active);
 function load(k,d){try{const v=JSON.parse(localStorage.getItem(k));return v==null?d:v}catch(e){return d}}
 function save(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
 
-// ---- IndexedDB: one 'books' store, plus 'meta' for the seeded flag. Every call may reject (private
+// ---- IndexedDB: one 'books' store, plus 'meta' for one-time flags. Every call may reject (private
 // browsing, blocked storage); callers treat that as "this session only".
 const DB=(()=>{
   let p;
@@ -121,21 +119,6 @@ const DB=(()=>{
   };
 })();
 const persist=b=>DB.put(b).catch(()=>{});
-
-// Merge a saved order with the songs that actually exist: drop departed ids,
-// and slot any song the saved order predates at the end of its own group. (Seeding only.)
-function reconcile(stored){
-  const exist=new Set(PRISTINE);
-  const kept=(stored||[]).filter(id=>exist.has(id));
-  const have=new Set(kept);
-  const out=kept.slice();
-  PRISTINE.filter(id=>!have.has(id)).forEach(id=>{
-    const g=groupOf(id);let at=-1;
-    for(let i=0;i<out.length;i++)if(groupOf(out[i])===g)at=i;
-    at<0?out.push(id):out.splice(at+1,0,id);
-  });
-  return out;
-}
 
 // cur is a POSITION in the deck (visible songs only); section ids are identity and never renumbered.
 function go(pos,smooth){
@@ -394,15 +377,19 @@ addEventListener('beforeprint',fitPrint);   // Ctrl/Cmd+P and the browser menu t
 async function boot(){
   try{
     decorate();
-    let seeded=false;
-    try{books=await DB.all();seeded=!!await DB.meta('seeded');}catch(e){}
+    try{books=await DB.all();}catch(e){}
     books=books.map(b=>({id:b.id,name:b.name,created:b.created||0,ids:[...new Set((b.ids||[]).filter(id=>ALL.has(id)))]})).sort((a,b)=>a.created-b.created);
-    if(!seeded&&!books.length){
-      // first run: today's concert programme (in the order the choir had saved) becomes the first songbook
-      const ids=reconcile(load(KEY_O,null)).filter(id=>groupOf(id)==='concert');
-      if(ids.length){const b=newBook('Concert');b.ids=ids;persist(b);}
-    }
-    DB.setMeta('seeded',1).catch(()=>{});
+    // One-time cleanup of the "Concert" songbook that early versions created on first run: dropped only
+    // if it is still exactly the untouched default (the built-in concert songs, in built-in order).
+    try{
+      if(!await DB.meta('seedDropped')){
+        const orig=[...list.querySelectorAll('.item[data-g="concert"]')].map(it=>'s'+it.dataset.i);
+        const def=PRISTINE.filter(id=>orig.includes(id));
+        const old=books.find(b=>b.name==='Concert'&&b.ids.length===def.length&&b.ids.every((id,i)=>id===def[i]));
+        if(old){books=books.filter(b=>b!==old);await DB.del(old.id);}
+        await DB.setMeta('seedDropped',1);
+      }
+    }catch(e){}
     try{localStorage.removeItem(KEY_O)}catch(e){}
     active=book(load(KEY_B,''))?load(KEY_B,''):'';
   }finally{

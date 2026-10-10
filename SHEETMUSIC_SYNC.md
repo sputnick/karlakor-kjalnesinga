@@ -257,7 +257,7 @@ Recompute these figures on every sync. They are a baseline, not constants.
 `<div id=deck>` and `</div>\n<script>`. Keep every other element (`#pbox`, `#pool`, `#sheet`, `#toastbox`)
 *before* `<div id=panel>`, never between the deck and the script.
 
-Songbooks are user data in the browser (IndexedDB) and are not touched by a sync. The first-run "Concert"
-songbook is seeded once from the `data-g="concert"` items; after that `data-g` only matters for that seed.
-Songbooks hold song ids, so ids must stay stable. `sw.js` keeps `index.html` for offline use and needs no
-change when songs change.
+Songbooks are user data in the browser (IndexedDB) and are not touched by a sync. There is no default
+songbook; `data-g` is no longer used by the page except for a one-time cleanup of the "Concert" songbook that
+early versions seeded. Songbooks hold song ids, so ids must stay stable. `sw.js` keeps `index.html` for
+offline use and needs no change when songs change.
