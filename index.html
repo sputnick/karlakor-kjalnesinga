@@ -17,7 +17,7 @@ button{background:#333;color:#fff;border:0;border-radius:8px;padding:8px 10px;wh
 #list.edit .item{cursor:default;padding-right:160px}
 #list.edit .add{display:none}
 #list{overflow:auto;flex:1}
-.item{position:relative;padding:12px 64px 12px 16px;border-bottom:1px solid #333;cursor:pointer}
+.item{position:relative;padding:12px 92px 12px 16px;border-bottom:1px solid #333;cursor:pointer}
 .item>span:first-child{display:inline-block;width:70px;color:#7cf;font-size:12px;margin-right:8px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;vertical-align:bottom}
 .snip{display:block;margin-left:78px;margin-top:4px;color:#8a8a96;font-size:13px;font-style:normal;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .snip:empty{display:none}
@@ -59,6 +59,11 @@ body.listing #bar .more{flex:0 0 56px}
 #sdone{width:100%;padding:12px}
 #toastbox{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:#333;color:#fff;padding:10px 16px;border-radius:20px;z-index:40;opacity:0;transition:opacity .2s;pointer-events:none;max-width:90vw}
 #toastbox.show{opacity:1}
+#toastbox.act{pointer-events:auto}
+#toastbox button{margin-left:14px;background:#2d5a8a;padding:6px 12px}
+.item.out{opacity:.8}
+.add.in2{background:#2d5a8a}
+.add.rm2{background:#5a2a2a}
 /* Print: one song on one A4 page, black on white, text as large as fits. #pbox is filled and sized by printSong(). */
 #pbox{position:absolute;left:-99999px;top:0;width:186mm;height:270mm;box-sizing:border-box;overflow:hidden;background:#fff;color:#000;text-align:center}
 #pin{width:max-content;min-width:100%;box-sizing:border-box}
@@ -77,7 +82,7 @@ body>*:not(#pbox){display:none!important}
 }
 </style></head><body>
 <div id=bar><button id=songsbtn class=songs onclick='toggle()'>☰ Songs</button><button class=so onclick='fs(-2)' aria-label='Smaller text'>A-</button><button class=so onclick='fs(2)' aria-label='Larger text'>A+</button><button id=prevbtn class=so onclick='move(-1)' aria-label='Previous song'>◀</button><button id=nextbtn class=so onclick='move(1)' aria-label='Next song'>▶</button><button id=morebtn class=more onclick='toggleMenu()' aria-label='More'>&#8943;</button></div>
-<div id=menu><button class=so onclick='toggleMenu(false);openSheet(curSec().id)'>&#128278;&nbsp;&nbsp;Add this song to a songbook</button><button class=so onclick='toggleMenu(false);printSong()'>&#128424;&nbsp;&nbsp;Print this song (A4)</button><span id=ver onclick='location.replace(location.pathname+"?v="+Date.now())' title='Útgáfa – smelltu til að sækja nýjustu'>10.10 12:50</span></div>
+<div id=menu><button class=so onclick='toggleMenu(false);openSheet(curSec().id)'>&#128278;&nbsp;&nbsp;Add this song to a songbook</button><button class=so onclick='toggleMenu(false);printSong()'>&#128424;&nbsp;&nbsp;Print this song (A4)</button><span id=ver onclick='location.replace(location.pathname+"?v="+Date.now())' title='Útgáfa – smelltu til að sækja nýjustu'>10.10 12:53</span></div>
 <div id=pbox><div id=pin></div></div>
 <div id=pool><section class="song" id="empty"><h1>Empty songbook</h1><div class="lyrics">Open ☰ Songs, switch to “All songs” and tap ＋ on a song to add it here.</div></section></div>
 <div id=sheet><div id=sbox><h2 id=stitle>Add to songbook</h2><div id=slist></div><div id=snew><input id=sname placeholder='New songbook…' maxlength=40 autocomplete=off><button id=sadd>Create</button></div><button id=sdone>Cancel</button></div></div>
@@ -164,15 +169,20 @@ function toggle(){const on=!panel.classList.contains('show');showPanel(on);if(on
 // ---- the current view: All songs, or one songbook in its own order. Songs outside the view are
 // parked in #pool (still in the document) so deck.children is always exactly what you can swipe.
 function viewIds(){const b=activeBook();return b?b.ids:PRISTINE;}
-function applyView(anchor){
+let listDirty=false;   // rows were left where they were while searching; re-sort them when the search is cleared
+function applyView(anchor,keepOrder){
   const ids=viewIds();inView=new Set(ids);
   PRISTINE.forEach(id=>{if(!inView.has(id))pool.appendChild(document.getElementById(id));});
   const d=document.createDocumentFragment(),l=document.createDocumentFragment();
   if(ids.length){pool.appendChild(emptySec);ids.forEach(id=>d.appendChild(document.getElementById(id)));}
   else d.appendChild(emptySec);
-  ids.forEach(id=>l.appendChild(itemOf(id)));
-  PRISTINE.forEach(id=>{if(!inView.has(id))l.appendChild(itemOf(id));});
-  deck.appendChild(d);list.appendChild(l);
+  if(!keepOrder){
+    ids.forEach(id=>l.appendChild(itemOf(id)));
+    PRISTINE.forEach(id=>{if(!inView.has(id))l.appendChild(itemOf(id));});
+    list.appendChild(l);listDirty=false;
+  }else listDirty=true;
+  deck.appendChild(d);
+  search.placeholder=active?'Search to add songs to '+activeBook().name:'Search titles and lyrics';
   editbtn.style.display=active?'':'none';
   if(!active&&list.classList.contains('edit'))toggleEdit(false);
   filterList();labelItems();renderShelf();refreshArrows();
@@ -271,7 +281,12 @@ sname.onkeydown=e=>{if(e.key==='Enter')sadd.onclick();};
 sdone.onclick=closeSheet;
 sheet.onclick=e=>{if(e.target===sheet)closeSheet();};
 let toastT;
-function toast(msg){toastbox.textContent=msg;toastbox.classList.add('show');clearTimeout(toastT);toastT=setTimeout(()=>toastbox.classList.remove('show'),1800);}
+function toast(msg,undo){
+  toastbox.textContent=msg;
+  if(undo){const u=document.createElement('button');u.textContent='Undo';u.onclick=()=>{toastbox.classList.remove('show');undo();};toastbox.appendChild(u);}
+  toastbox.classList.toggle('act',!!undo);toastbox.classList.add('show');
+  clearTimeout(toastT);toastT=setTimeout(()=>toastbox.classList.remove('show'),undo?4500:1800);
+}
 const toastbox=document.getElementById('toastbox');
 
 // ---- row buttons, and reordering inside a songbook
@@ -321,12 +336,32 @@ list.onclick=e=>{
   const btn=e.target.closest('.mv button');
   if(btn){moveSong(btn.closest('.item'),+btn.dataset.d);return;}
   const add=e.target.closest('.add');
-  if(add){openSheet('s'+add.closest('.item').dataset.i);return;}
+  if(add){
+    const id='s'+add.closest('.item').dataset.i;
+    if(!active)openSheet(id);else if(inView.has(id))removeFromActive(id);else addToActive(id);
+    return;
+  }
   if(list.classList.contains('edit'))return;
   const it=e.target.closest('.item');if(!it)return;
   const sec=document.getElementById('s'+it.dataset.i);
+  if(active&&!inView.has(sec.id)){setActive('');toast('Opened from All songs');}   // not in this songbook: show it from the full list
   toggle();go(secs().indexOf(sec));
 };
+
+// Add to / remove from the open songbook straight from the list. Rows stay put while a search is typed,
+// so a run of adds does not shuffle under your finger; removing offers Undo.
+function addToActive(id){
+  const b=activeBook();if(!b||b.ids.includes(id))return;
+  b.ids.push(id);persist(b);toast('Added to '+b.name);
+  applyView(curSec().id,!!search.value.trim());
+}
+function removeFromActive(id){
+  const b=activeBook();if(!b)return;
+  const at=b.ids.indexOf(id);if(at<0)return;
+  b.ids.splice(at,1);persist(b);
+  toast('Removed from '+b.name,()=>{if(!b.ids.includes(id)){b.ids.splice(Math.min(at,b.ids.length),0,id);persist(b);applyView(curSec().id,!!search.value.trim());}});
+  applyView(curSec().id,!!search.value.trim());
+}
 
 const fold=t=>t.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'')
   .replace(/þ/g,'th').replace(/ð/g,'d').replace(/æ/g,'ae').replace(/ø/g,'o');
@@ -348,15 +383,20 @@ function filterList(){
     const mine=inView.has('s'+r.it.dataset.i);
     const inTitle=r.ft.includes(q)||fold(r.it.firstElementChild.textContent).includes(q);
     const hit=(q&&!inTitle)?r.fl.findIndex(l=>l.includes(q)):-1;
-    const ok=mine&&(!q||inTitle||hit>-1);
+    const ok=(mine||(active&&q))&&(!q||inTitle||hit>-1);
     r.it.style.display=ok?'block':'none';
+    r.it.classList.toggle('out',!!active&&!mine);
+    const a=r.it.querySelector('.add');
+    if(!active){a.textContent='＋';a.title='Add to songbook';a.className='add';}
+    else if(mine){a.textContent='✕';a.title='Remove from '+activeBook().name;a.className='add rm2';}
+    else{a.textContent='＋ Add';a.title='Add to '+activeBook().name;a.className='add in2';}
     r.snip.textContent=hit>-1?r.lines[hit]:'';
     if(ok)n++;
   });
-  none.textContent=active&&!inView.size&&!search.value?'No songs yet. Switch to All songs and tap ＋ on a song.':'No matches';
+  none.textContent=active&&!inView.size&&!search.value?'No songs yet. Type in the search box to find songs to add.':'No matches';
   none.style.display=n?'none':'block';
 }
-search.oninput=filterList;
+search.oninput=()=>{filterList();if(listDirty&&!search.value.trim())applyView(curSec().id);};
 
 // Print the song on screen as black-on-white text, as large as fits one A4 page.
 // The text is copied into #pbox (fixed A4 content size) and the font size is found by binary
