@@ -24,6 +24,10 @@ button{background:#333;color:#fff;border:0;border-radius:8px;padding:8px 10px;wh
 #none{padding:20px 16px;color:#8a8a96;display:none}
 #bar button{flex:1 1 0;min-width:0;height:44px;padding:0;font-size:18px;position:relative}
 #bar .songs{flex:1.7 1 0;font-size:16px}
+body.listing .so{display:none!important}
+body.listing #bar .songs{flex:1 1 0}
+body.listing #bar .more{flex:0 0 56px}
+#bar button:disabled,#menu button:disabled{opacity:.3}
 #bar .more{font-size:22px;line-height:1}
 #bar .more.dot::after{content:'';position:absolute;top:6px;right:8px;width:9px;height:9px;border-radius:50%;background:#7cf}
 #menu{display:none;position:fixed;top:60px;right:6px;width:min(300px,calc(100vw - 12px));background:#262626;border-radius:12px;box-shadow:0 8px 28px #000a;z-index:11;overflow:hidden}
@@ -72,8 +76,8 @@ body>*:not(#pbox){display:none!important}
 #pbox{position:static;left:auto;margin:12mm;break-inside:avoid;page-break-after:avoid}
 }
 </style></head><body>
-<div id=bar><button class=songs onclick='toggle()'>☰ Songs</button><button onclick='fs(-2)' aria-label='Smaller text'>A-</button><button onclick='fs(2)' aria-label='Larger text'>A+</button><button onclick='move(-1)' aria-label='Previous song'>◀</button><button onclick='move(1)' aria-label='Next song'>▶</button><button id=morebtn class=more onclick='toggleMenu()' aria-label='More'>&#8943;</button></div>
-<div id=menu><button onclick='toggleMenu(false);openSheet(curSec().id)'>&#128278;&nbsp;&nbsp;Add this song to a songbook</button><button onclick='toggleMenu(false);printSong()'>&#128424;&nbsp;&nbsp;Print this song (A4)</button><span id=ver onclick='location.replace(location.pathname+"?v="+Date.now())' title='Útgáfa – smelltu til að sækja nýjustu'>10.10 12:40</span></div>
+<div id=bar><button id=songsbtn class=songs onclick='toggle()'>☰ Songs</button><button class=so onclick='fs(-2)' aria-label='Smaller text'>A-</button><button class=so onclick='fs(2)' aria-label='Larger text'>A+</button><button id=prevbtn class=so onclick='move(-1)' aria-label='Previous song'>◀</button><button id=nextbtn class=so onclick='move(1)' aria-label='Next song'>▶</button><button id=morebtn class=more onclick='toggleMenu()' aria-label='More'>&#8943;</button></div>
+<div id=menu><button class=so onclick='toggleMenu(false);openSheet(curSec().id)'>&#128278;&nbsp;&nbsp;Add this song to a songbook</button><button class=so onclick='toggleMenu(false);printSong()'>&#128424;&nbsp;&nbsp;Print this song (A4)</button><span id=ver onclick='location.replace(location.pathname+"?v="+Date.now())' title='Útgáfa – smelltu til að sækja nýjustu'>10.10 12:43</span></div>
 <div id=pbox><div id=pin></div></div>
 <div id=pool><section class="song" id="empty"><h1>Empty songbook</h1><div class="lyrics">Open ☰ Songs, switch to “All songs” and tap ＋ on a song to add it here.</div></section></div>
 <div id=sheet><div id=sbox><h2 id=stitle>Add to songbook</h2><div id=slist></div><div id=snew><input id=sname placeholder='New songbook…' maxlength=40 autocomplete=off><button id=sadd>Create</button></div><button id=sdone>Cancel</button></div></div>
@@ -126,7 +130,7 @@ function go(pos,smooth){
   deck.children[cur].scrollIntoView({behavior:smooth===false?'instant':'smooth',block:'nearest',inline:'start'});
 }
 function move(d){go(cur+d);}
-deck.onscroll=()=>cur=Math.round(deck.scrollLeft/innerWidth);
+deck.onscroll=()=>{cur=Math.round(deck.scrollLeft/innerWidth);updateNav();};
 
 // Font size is per song, resolved from scroll position so a press mid-swipe
 // can never resize the song you just left.
@@ -140,7 +144,19 @@ function applySizes(){PRISTINE.forEach(id=>{const v=sizes[id],l=document.getElem
 
 function toggleMenu(force){menu.classList.toggle('show',force);}
 addEventListener('click',e=>{if(menu.classList.contains('show')&&!e.target.closest('#menu,#morebtn'))toggleMenu(false);});
-function toggle(){const on=panel.classList.toggle('show');if(on&&matchMedia('(pointer:fine)').matches)search.focus();}
+// Controls that act on "the current song" (text size, previous/next, add to songbook, print) only make sense
+// while a song is showing, so they are hidden while the song list covers it, and disabled at the ends.
+function showPanel(on){
+  panel.classList.toggle('show',on);document.body.classList.toggle('listing',on);
+  songsbtn.textContent=on?'✕ Close list':'☰ Songs';
+  toggleMenu(false);updateNav();
+}
+function updateNav(){
+  const n=deck.children.length,isEmpty=curSec().id==='empty';
+  prevbtn.disabled=isEmpty||cur<=0;nextbtn.disabled=isEmpty||cur>=n-1;
+  document.querySelectorAll('.so').forEach(b=>{if(b!==prevbtn&&b!==nextbtn)b.disabled=isEmpty;});
+}
+function toggle(){const on=!panel.classList.contains('show');showPanel(on);if(on&&matchMedia('(pointer:fine)').matches)search.focus();}
 
 // ---- the current view: All songs, or one songbook in its own order. Songs outside the view are
 // parked in #pool (still in the document) so deck.children is always exactly what you can swipe.
@@ -157,7 +173,7 @@ function applyView(anchor){
   editbtn.style.display=active?'':'none';
   if(!active&&list.classList.contains('edit'))toggleEdit(false);
   filterList();labelItems();renderShelf();refreshArrows();
-  go(Math.max(0,ids.indexOf(anchor)),false);
+  go(Math.max(0,ids.indexOf(anchor)),false);updateNav();
 }
 
 // Each row's label shows which songbooks hold the song.
@@ -394,7 +410,7 @@ async function boot(){
     active=book(load(KEY_B,''))?load(KEY_B,''):'';
   }finally{
     applyView();applySizes();document.body.classList.add('ready');
-    panel.classList.add('show');   // start on the song list, not on the first song
+    showPanel(true);   // start on the song list, not on the first song
   }
   try{navigator.storage.persist().catch(()=>{});}catch(e){}
 }
