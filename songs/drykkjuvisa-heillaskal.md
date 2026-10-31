@@ -9,7 +9,7 @@ composer: "F. Pacius"
 translator: ""
 text_status: "score-transcribed"
 needs_proofreading: true
-sources: ["sheetmusic/Drykkjuvísa - nú allir strengir óma - Nótur - 13289.pdf"]
+sources: ["sheetmusic/Heillaskál - Nótur - 4868.pdf", "sheetmusic/Drykkjuvísa - nú allir strengir óma - Nótur - 13289.pdf"]
 references: []
 ---
 

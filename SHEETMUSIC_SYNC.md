@@ -12,6 +12,11 @@ Read both before starting.
 > Start by reading `README.md`, `index.html`, `SONGS.md` and this file. Inspect `git status`, the current branch and the
 > remote before changing anything. Preserve unrelated and untracked user files.
 >
+> **Existing songs are not re-imported.** If a new file matches a song that already has lyrics on the page (same
+> title, different sheet or arrangement), do not process it. Only add its path to that song's `sources` and
+> `SONGS.md`. Ask the user whether to reprocess when the new sheet might differ in text or stanzas. Only songs with no
+> entry on the page go through the correction pipeline.
+>
 > Treat the current `index.html` as the canonical, curated baseline. Preserve existing lyrics, song IDs, group labels,
 > order, search behaviour, local-storage behaviour and the single-file GitHub Pages design unless a source proves a
 > correction is needed. Never regenerate an existing good lyric from lower-quality OCR. The 42 hand-entered songs

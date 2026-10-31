@@ -9,7 +9,7 @@ composer: ""
 translator: ""
 text_status: "curated"
 needs_proofreading: false
-sources: ["sheetmusic/Ég er kominn heim.pdf"]
+sources: ["sheetmusic/Ég er kominn heim - Nótur - 1836.pdf", "sheetmusic/Ég er kominn heim.pdf"]
 references: []
 ---
 

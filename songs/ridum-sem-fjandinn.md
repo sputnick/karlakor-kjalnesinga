@@ -9,7 +9,7 @@ composer: "Höfundur ókunnur (þjóðlag)"
 translator: ""
 text_status: "online-verified"
 needs_proofreading: false
-sources: ["sheetmusic/Ríðum sem fjandinn - Sheet Music 1869.pdf", "sheetmusic/Ríðum sem fjandinn.pdf"]
+sources: ["sheetmusic/Ríðum sem fjandinn - Nótur - 1869.pdf", "sheetmusic/Ríðum sem fjandinn - Sheet Music 1869.pdf", "sheetmusic/Ríðum sem fjandinn.pdf"]
 references: ["https://glatkistan.com/2022/11/16/ridum-og-ridum-ridum-sem-fjandinn/"]
 ---
 
